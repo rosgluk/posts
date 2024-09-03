@@ -4,10 +4,23 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Linux & ops
 
-- https://www.glukhov.org/post/2024/04/bash-cheat-sheet/
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
 - [Self-hosting Perplexica - with Ollama](https://www.glukhov.org/post/2024/08/selfhosting-perplexica-ollama/ "Install and configure Perplexica with Ollama")
+- [How t install network-wide adblocker](https://www.glukhov.org/post/2024/06/pi-hole-ad-blocker-install/)
+- [Configure Git User Name and Email Address](https://www.glukhov.org/post/2024/06/configure-git-username/)
+- [Custom elements in Linux Mint Nemo context menu](https://www.glukhov.org/post/2024/04/cinnamon-context-menu/)
+- [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
+- [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
+- [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
+- [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
+- [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
+
+## Gitea as a self-hosted git server
+
+- [Onprem git servers comparison](https://www.glukhov.org/post/2024/04/gitea/)
+- [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
+- [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
 
 ## AWS and other dev
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang") 
