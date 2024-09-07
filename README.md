@@ -1,6 +1,6 @@
 # posts
 
-This page contains links to my posts about software development, AI, experiments etc.
+This page contains links to my posts about software development, AI, experiments and Melbourne it-related events.
 
 ## Linux & ops
 
@@ -49,7 +49,9 @@ This page contains links to my posts about software development, AI, experiments
 
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 
+## Melbourne
 
+- [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
 
 ## Tags:
 - [Python space](https://www.glukhov.org/tags/python)
