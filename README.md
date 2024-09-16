@@ -13,7 +13,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
-- [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
 
 ## Gitea as a self-hosted git server
@@ -22,8 +21,11 @@ This page contains links to my posts about software development, AI, experiments
 - [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
 - [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
 
-## AWS and other dev
-- [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang") 
+## AWS, Flutter and other development
+- [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
+- [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
+- [How To:Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
+
 
 
 ## AI & Object Detection
