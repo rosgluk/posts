@@ -24,7 +24,8 @@ This page contains links to my posts about software development, AI, experiments
 ## AWS, Flutter and other development
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
 - [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
-- [How To:Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
+- [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
+- [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting") 
 
 
 
