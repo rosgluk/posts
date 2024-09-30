@@ -47,6 +47,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
 - [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/" "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
+- [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step") 
 
 ## Python
 
