@@ -53,6 +53,10 @@ This page contains links to my posts about software development, AI, experiments
 
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 
+## Drivers
+
+- [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495") 
+
 ## Melbourne
 
 - [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
