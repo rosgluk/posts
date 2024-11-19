@@ -14,6 +14,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
+- [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
 
 ## Gitea as a self-hosted git server
 
