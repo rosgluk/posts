@@ -28,7 +28,8 @@ This page contains links to my posts about software development, AI, experiments
 - [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
 - [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting") 
 
-
+## Other
+- [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends") 
 
 ## AI & Object Detection
 
