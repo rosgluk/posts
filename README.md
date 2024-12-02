@@ -29,7 +29,9 @@ This page contains links to my posts about software development, AI, experiments
 - [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting") 
 
 ## Other
-- [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends") 
+- [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
+- [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
+- [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 
 ## AI & Object Detection
 
@@ -49,7 +51,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
 - [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/" "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
-- [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step") 
+- [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step")
+- [New LLMs comparison - Mistral Small, Gemma 2, Qwen 2.5, Mistral Nemo, LLama3 and Phi](https://www.glukhov.org/post/2024/11/mistral-small-gemma-qwen-mistral-nemo/)
 
 ## Python
 
