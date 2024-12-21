@@ -14,7 +14,11 @@ This page contains links to my posts about software development, AI, experiments
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
+- [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
+- [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
+- [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
+- [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
 
 ## Gitea as a self-hosted git server
 
@@ -32,6 +36,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
 - [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
 - [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
+- [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
 
 ## AI & Object Detection
 
@@ -53,10 +58,12 @@ This page contains links to my posts about software development, AI, experiments
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
 - [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step")
 - [New LLMs comparison - Mistral Small, Gemma 2, Qwen 2.5, Mistral Nemo, LLama3 and Phi](https://www.glukhov.org/post/2024/11/mistral-small-gemma-qwen-mistral-nemo/)
+- [Ollama Cheatsheet](https://www.glukhov.org/post/2024/12/ollama-cheatsheet "Ollama Cheatsheet") 
 
 ## Python
 
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
+- [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda") 
 
 ## Drivers
 
