@@ -26,11 +26,12 @@ This page contains links to my posts about software development, AI, experiments
 - [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
 - [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
 
-## AWS, Flutter and other development
+## AWS, Flutter, Python and other development
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
 - [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
 - [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
-- [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting") 
+- [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting")
+- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
 
 ## Other
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
