@@ -14,6 +14,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
+- [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
 - [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
 - [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
