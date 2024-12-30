@@ -39,6 +39,7 @@ This page contains links to my posts about software development, AI, experiments
 ## Other
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
 - [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
+- [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
 - [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 - [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
 
