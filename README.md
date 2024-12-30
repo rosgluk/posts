@@ -12,6 +12,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Custom elements in Linux Mint Nemo context menu](https://www.glukhov.org/post/2024/04/cinnamon-context-menu/)
 - [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
+- [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
 - [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
@@ -29,6 +30,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Python and other development
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
+- [Golang Cheat Sheet](https://www.glukhov.org/post/2022/golang-cheatsheet/)
 - [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
 - [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
 - [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting")
