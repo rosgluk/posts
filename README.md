@@ -43,6 +43,7 @@ This page contains links to my posts about software development, AI, experiments
 - [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
 - [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 - [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
+- [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
 
 ## AI & Object Detection
 
