@@ -36,7 +36,8 @@ This page contains links to my posts about software development, AI, experiments
 - [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
 - [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting")
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools") 
+- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
+- [PyInstaller Quickstart](https://www.glukhov.org/post/2025/01/pyinstaller "PyInstaller description, quickstart and drawbacks")
 
 ## Other
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
