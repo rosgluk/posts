@@ -47,6 +47,9 @@ This page contains links to my posts about software development, AI, experiments
 - [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 - [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
 - [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
+- [Digital Detox](https://www.glukhov.org/post/2024/10/digital-detox/ "Digital Detox - why, when and how to do it properly")
+- [DumbPhone - for digital detox](https://www.glukhov.org/post/2024/10/dumb-phone/ "Using DumbPhone as a tool for digital detox")
+- [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
 
 ## AI & Object Detection
 
