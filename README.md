@@ -50,6 +50,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Digital Detox](https://www.glukhov.org/post/2024/10/digital-detox/ "Digital Detox - why, when and how to do it properly")
 - [DumbPhone - for digital detox](https://www.glukhov.org/post/2024/10/dumb-phone/ "Using DumbPhone as a tool for digital detox")
 - [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
+- [Optimal Aperture, Shutter Speed and ISO for Video Recording](https://www.glukhov.org/post/2025/01/optimal-parameters-for-video-recording/ "Optimal Parameters for Video Recording - Aperture, Shutter Speed and ISO")
 
 ## AI & Object Detection
 
