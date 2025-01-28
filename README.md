@@ -22,6 +22,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
 - [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
 - [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
+- [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
+- [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
 
 ## Gitea as a self-hosted git server
 
