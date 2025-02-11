@@ -24,6 +24,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
 - [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
+- [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
 
 ## Gitea as a self-hosted git server
 
@@ -53,6 +54,8 @@ This page contains links to my posts about software development, AI, experiments
 - [DumbPhone - for digital detox](https://www.glukhov.org/post/2024/10/dumb-phone/ "Using DumbPhone as a tool for digital detox")
 - [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
 - [Optimal Aperture, Shutter Speed and ISO for Video Recording](https://www.glukhov.org/post/2025/01/optimal-parameters-for-video-recording/ "Optimal Parameters for Video Recording - Aperture, Shutter Speed and ISO")
+- [SQL Cheatsheet](https://www.glukhov.org/post/2024/02/sql-cheatsheet "SQL Cheatsheet")
+- [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
 
 ## AI & Object Detection
 
