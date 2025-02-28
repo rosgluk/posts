@@ -25,6 +25,7 @@ This page contains links to my posts about software development, AI, experiments
 - [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
 - [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
+- [Run any Executable as a Service in Linux](https://www.glukhov.org/post/2025/02/executable-as-a-service-in-linux/ "How to Configure to Run any Executable as a Service in Linux")
 
 ## Gitea as a self-hosted git server
 
@@ -77,7 +78,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
 - [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step")
 - [New LLMs comparison - Mistral Small, Gemma 2, Qwen 2.5, Mistral Nemo, LLama3 and Phi](https://www.glukhov.org/post/2024/11/mistral-small-gemma-qwen-mistral-nemo/)
-- [Ollama Cheatsheet](https://www.glukhov.org/post/2024/12/ollama-cheatsheet "Ollama Cheatsheet") 
+- [Ollama Cheatsheet](https://www.glukhov.org/post/2024/12/ollama-cheatsheet "Ollama Cheatsheet")
+- [Testing Deepseek-r1 on Ollama](https://www.glukhov.org/post/2025/02/deepseek-r1-on-ollama/ "deepseek-r1 on ollama")
 
 ## Python
 
