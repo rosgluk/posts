@@ -26,8 +26,10 @@ This page contains links to my posts about software development, AI, experiments
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
 - [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
 - [Run any Executable as a Service in Linux](https://www.glukhov.org/post/2025/02/executable-as-a-service-in-linux/ "How to Configure to Run any Executable as a Service in Linux")
-- [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website "Instructions Howto Submit Form in Hugo Website with Google forms")
-- [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler "Pdf manipulating tools in Ubuntu - Poppler")
+- [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
+- [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler/ "Pdf manipulating tools in Ubuntu - Poppler")
+- [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
+
 
 ## Gitea as a self-hosted git server
 
