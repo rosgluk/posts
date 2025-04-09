@@ -28,7 +28,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Run any Executable as a Service in Linux](https://www.glukhov.org/post/2025/02/executable-as-a-service-in-linux/ "How to Configure to Run any Executable as a Service in Linux")
 - [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
 - [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler/ "Pdf manipulating tools in Ubuntu - Poppler")
-- [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
 
 
 ## Gitea as a self-hosted git server
@@ -70,6 +69,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Flux - text to image AI generator](https://www.glukhov.org/post/2024/09/flux-text-to-image/)
 - [Implementing Object Detection with tensor flow](https://glukhov.au/posts/2024/object-detection-ai/)
 - [AI & LLMs](https://glukhov.au/posts/2024/llms/)
+- [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
 
 ## LLMs
 
