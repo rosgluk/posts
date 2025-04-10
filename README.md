@@ -29,6 +29,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
 - [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler/ "Pdf manipulating tools in Ubuntu - Poppler")
 - [Encoding - decoding Base64 on Windows, Linux and Mac](https://www.glukhov.org/post/2025/04/base64/ "Base64 encoding/decoding cheatsheet on linux, windows and mac")
+- [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
 
 
 ## Gitea as a self-hosted git server
