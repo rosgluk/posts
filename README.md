@@ -52,6 +52,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master](https://www.glukhov.org/post/2025/02/flutter-deployment-errors-on-aws-amplify/ "Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master")
 - [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/post/2025/04/vscode-cheatsheet/ "VSCode Cheatsheet and Most frequently used commands")
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
+- [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
 
 ## Other
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
