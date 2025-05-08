@@ -31,6 +31,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Encoding - decoding Base64 on Windows, Linux and Mac](https://www.glukhov.org/post/2025/04/base64/ "Base64 encoding/decoding cheatsheet on linux, windows and mac")
 - [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
+- [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
 
 
 ## Gitea as a self-hosted git server
