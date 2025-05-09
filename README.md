@@ -32,8 +32,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
 - [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
-- [venv Cheatsheet]https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet") 
-
 
 
 ## Gitea as a self-hosted git server
@@ -56,6 +54,8 @@ This page contains links to my posts about software development, AI, experiments
 - [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/post/2025/04/vscode-cheatsheet/ "VSCode Cheatsheet and Most frequently used commands")
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
 - [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
+- [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
+
 
 ## Other
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
