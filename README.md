@@ -56,6 +56,7 @@ This page contains links to my posts about software development, AI, experiments
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
 - [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
 - [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
+- [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux") 
 
 
 ## Other
