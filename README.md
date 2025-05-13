@@ -41,7 +41,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
 - [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
 
-## AWS, Flutter, Python and other development
+## AWS, Flutter, Python, Golang and other development
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
 - [Golang Cheat Sheet](https://www.glukhov.org/post/2022/golang-cheatsheet/)
 - [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
@@ -56,7 +56,8 @@ This page contains links to my posts about software development, AI, experiments
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
 - [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
 - [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
-- [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux") 
+- [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux")
+- [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
 
 
 ## Other
