@@ -11,28 +11,24 @@ This page contains links to my posts about software development, AI, experiments
 - [Configure Git User Name and Email Address](https://www.glukhov.org/post/2024/06/configure-git-username/)
 - [Custom elements in Linux Mint Nemo context menu](https://www.glukhov.org/post/2024/04/cinnamon-context-menu/)
 - [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
-- [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
-- [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
 - [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
 - [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
 - [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
-- [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
 - [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
 - [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
 - [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
 - [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
 - [Run any Executable as a Service in Linux](https://www.glukhov.org/post/2025/02/executable-as-a-service-in-linux/ "How to Configure to Run any Executable as a Service in Linux")
-- [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
 - [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler/ "Pdf manipulating tools in Ubuntu - Poppler")
 - [Encoding - decoding Base64 on Windows, Linux and Mac](https://www.glukhov.org/post/2025/04/base64/ "Base64 encoding/decoding cheatsheet on linux, windows and mac")
 - [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
 - [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
-- [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux") 
+- [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
 
 
 ## Gitea as a self-hosted git server
@@ -105,7 +101,15 @@ This page contains links to my posts about software development, AI, experiments
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 - [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools") 
+- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
+
+## Hugo
+
+- [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
+- [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
+- [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
+- [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
+- [Most popular themes for Hugo](https://www.glukhov.org/post/2025/05/top-hugo-themes/ "Best Hugo Themes")
 
 ## Drivers
 
