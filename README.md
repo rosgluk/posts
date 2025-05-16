@@ -94,7 +94,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Ollama Cheatsheet](https://www.glukhov.org/post/2024/12/ollama-cheatsheet "Ollama Cheatsheet")
 - [Testing Deepseek-r1 on Ollama](https://www.glukhov.org/post/2025/02/deepseek-r1-on-ollama/ "deepseek-r1 on ollama")
 - [How Ollama Handles Parallel Requests](https://www.glukhov.org/post/2025/05/how-ollama-handles-parallel-requests/ "How Ollama Handles Parallel Requests") 
-
+- [Comparing NVidia GPU specs suitability for AI](https://www.glukhov.org/post/2025/05/comparing-nvidia-gpu-for-ai/ "Comparing NVidia GPU specs suitability for AI")
 
 ## Python
 
