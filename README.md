@@ -29,6 +29,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
 - [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
 - [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
+- [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
 
 
 ## Gitea as a self-hosted git server
