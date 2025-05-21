@@ -31,6 +31,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
 - [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
 - [Minio as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
+- [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
 
 
 ## Gitea as a self-hosted git server
