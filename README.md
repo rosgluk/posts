@@ -57,6 +57,7 @@ This page contains links to my posts about software development, AI, experiments
 - [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
 - [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux")
 - [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
+- [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
 
 
 ## Other
