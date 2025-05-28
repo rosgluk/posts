@@ -118,9 +118,10 @@ This page contains links to my posts about software development, AI, experiments
 - [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
 - [Most popular themes for Hugo](https://www.glukhov.org/post/2025/05/top-hugo-themes/ "Best Hugo Themes")
 
-## Drivers
+## Drivers and Hardware
 
-- [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495") 
+- [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495")
+- [Degradation Issues in Intel's 13th and 14th Generation CPUs](https://www.glukhov.org/post/2025/05/intel-cpu-degradation-13th-14th-gen/ "Degradation Issues in Intel's 13th and 14th Generation CPUs")
 
 ## Melbourne
 
