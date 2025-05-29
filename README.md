@@ -102,6 +102,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How Ollama is using Intel CPU Performance and Efficient Cores](https://www.glukhov.org/post/2025/05/ollama-cpu-cores-usage/ "Test: How Ollama is using Intel CPU Performance and Efficient Cores")
 - [Cloud LLM Providers](https://www.glukhov.org/post/2025/05/cloud-llm-providers/ "Cloud LLM Providers comparison")
 - [Search vs Deepsearch vs Deep Research](https://www.glukhov.org/post/2025/05/search-vs-deepsearch-vs-deep-research/ "Search vs Deepsearch vs Deep Research - Concepts and comparison")
+- [Convert HTML content to Markdown using LLM and Ollama](https://www.glukhov.org/post/2025/05/html-to-markdown-using-llm/ "Convert HTML content to Markdown using LLM and Ollama")
 
 ## Python
 
