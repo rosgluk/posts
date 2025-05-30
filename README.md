@@ -58,6 +58,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux")
 - [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
 - [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
+- [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
 
 
 ## Other
