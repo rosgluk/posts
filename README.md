@@ -59,7 +59,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
 - [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
 - [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
-- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
 
 
 ## Other
@@ -112,6 +111,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
+- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
 
 ## Hugo
 
