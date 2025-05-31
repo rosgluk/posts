@@ -59,6 +59,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
 - [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
 - [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
+- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
 
 
 ## Other
