@@ -122,7 +122,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
 - [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
 - [Most popular themes for Hugo](https://www.glukhov.org/post/2025/05/top-hugo-themes/ "Best Hugo Themes")
-- [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
+- [Using Gitea Actions deploy Hugo website to AWS S3](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
 
 ## Drivers and Hardware
 
