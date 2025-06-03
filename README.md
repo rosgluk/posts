@@ -12,6 +12,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Custom elements in Linux Mint Nemo context menu](https://www.glukhov.org/post/2024/04/cinnamon-context-menu/)
 - [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
 - [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
+- [Check Linux Ubuntu Version](https://www.glukhov.org/post/2025/06/check-linux-ubuntu-version/ "Check Linux Ubuntu Version")
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
 - [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
 - [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
