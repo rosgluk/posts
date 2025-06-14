@@ -131,7 +131,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495")
 - [Degradation Issues in Intel's 13th and 14th Generation CPUs](https://www.glukhov.org/post/2025/05/intel-cpu-degradation-13th-14th-gen/ "Degradation Issues in Intel's 13th and 14th Generation CPUs")
 - [LLM Performance and PCIe Lanes: Key Considerations](https://www.glukhov.org/post/2025/06/llm-performance-and-pci-lanes/ "LLM Performance and PCIe Lanes: Key Considerations")
-- [Is the Quadro RTX 5880 Ada 48GB Any Good?](https://dasroot.net/posts/2025/06/rtx-5880-ada-48gb/)
+- [Is the Quadro RTX 5880 Ada 48GB Any Good?](https://www.glukhov.org/post/2025/06/rtx-5880-ada/ "Is the Quadro RTX 5880 Ada 48GB Any Good?")
 
 ## Melbourne
 
