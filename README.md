@@ -77,7 +77,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Optimal Aperture, Shutter Speed and ISO for Video Recording](https://www.glukhov.org/post/2025/01/optimal-parameters-for-video-recording/ "Optimal Parameters for Video Recording - Aperture, Shutter Speed and ISO")
 - [SQL Cheatsheet](https://www.glukhov.org/post/2024/02/sql-cheatsheet "SQL Cheatsheet")
 - [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
-- [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/rtx-5880-ada/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
+- [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
 
 ## AI & Object Detection
 
