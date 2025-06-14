@@ -108,6 +108,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Cloud LLM Providers](https://www.glukhov.org/post/2025/05/cloud-llm-providers/ "Cloud LLM Providers comparison")
 - [Search vs Deepsearch vs Deep Research](https://www.glukhov.org/post/2025/05/search-vs-deepsearch-vs-deep-research/ "Search vs Deepsearch vs Deep Research - Concepts and comparison")
 - [Convert HTML content to Markdown using LLM and Ollama](https://www.glukhov.org/post/2025/05/html-to-markdown-using-llm/ "Convert HTML content to Markdown using LLM and Ollama")
+- [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
 
 ## Python
 
