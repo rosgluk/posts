@@ -35,8 +35,9 @@ This page contains links to my posts about software development, AI, experiments
 - [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
 
 
-## Gitea as a self-hosted git server
+## Gitea as a self-hosted git server and other Git-related devops
 
+- [Gitflow Explained: Steps, Alternatives, Pros, and Cons](https://www.glukhov.org/post/2025/06/gitflow-steps-and-alternatives/ "Gitflow: a structured branching model for version control. Learn its steps, advantages, weaknesses, and alternatives like GitHub Flow. Ideal for large teams and complex projects.")
 - [Onprem git servers comparison](https://www.glukhov.org/post/2024/04/gitea/)
 - [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
 - [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
