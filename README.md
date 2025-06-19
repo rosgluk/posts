@@ -92,6 +92,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs
 
+- [Reranking text documents with Ollama and Qwen3 Embedding model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-embedding-golang/ "Reranking text documents with Ollama and Qwen3 Embedding model - in Golang")
 - [Logical Fallacy Detection with LLMs](https://www.glukhov.org/post/2024/05/logical-fallacy-detection-with-llms/) 
 - [Logical Fallacy Detection with new LLMs: Gemma2, Qwen2 and MistralNemo](https://www.glukhov.org/post/2024/08/gemma2-qwen2-mistral-nemo12b/) 
 - [LLM speed performance comparison](https://www.glukhov.org/post/2024/06/llms-speed-cpu-vs-gpu/) 
