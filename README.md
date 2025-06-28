@@ -44,6 +44,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
 
 ## AWS, Flutter, Python, Golang and other development
+- [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
 - [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
 - [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
