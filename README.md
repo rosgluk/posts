@@ -34,7 +34,7 @@ This page contains links to my posts about software development, AI, experiments
 - [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
 - [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
 - [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
-- [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-Beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
+- [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
