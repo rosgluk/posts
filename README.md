@@ -33,6 +33,8 @@ This page contains links to my posts about software development, AI, experiments
 - [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
 - [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
 - [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
+- [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
+- [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-Beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
@@ -137,6 +139,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+- [Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04](https://www.glukhov.org/post/2024/11/installing-epson-et-8500-linux-driver/ "Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04")
 - [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495")
 - [Degradation Issues in Intel's 13th and 14th Generation CPUs](https://www.glukhov.org/post/2025/05/intel-cpu-degradation-13th-14th-gen/ "Degradation Issues in Intel's 13th and 14th Generation CPUs")
 - [LLM Performance and PCIe Lanes: Key Considerations](https://www.glukhov.org/post/2025/06/llm-performance-and-pci-lanes/ "LLM Performance and PCIe Lanes: Key Considerations")
