@@ -137,6 +137,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Most popular themes for Hugo](https://www.glukhov.org/post/2025/05/top-hugo-themes/ "Best Hugo Themes")
 - [Using Gitea Actions deploy Hugo website to AWS S3](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
 - [How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme](https://www.glukhov.org/post/2025/06/hugo-images-in-bundle-pages-mainroad-thumbnails/ "How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme")
+- [Using Markdown Code Blocks](https://www.glukhov.org/post/2025/07/markdown-codeblocks/ "Markdown Code Blocks - detailed description")
 
 ## Drivers and Hardware
 
