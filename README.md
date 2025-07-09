@@ -36,6 +36,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
+- [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
+
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
