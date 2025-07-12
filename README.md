@@ -141,9 +141,9 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Gitea Actions deploy Hugo website to AWS S3](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
 - [How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme](https://www.glukhov.org/post/2025/06/hugo-images-in-bundle-pages-mainroad-thumbnails/ "How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme")
 - [Using Markdown Code Blocks](https://www.glukhov.org/post/2025/07/markdown-codeblocks/ "Markdown Code Blocks - detailed description")
+- [Matomo, Plausible, Google and other Web analytics systems comparison](https://www.glukhov.org/post/2025/07/matomo-plausible-google-web-analytics/ "Web analytics systems comparison: Matomo, Plausible, Google and others")
 
 ## Drivers and Hardware
-
 
 - [NVIDIA DGX Spark](https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/ "NVIDIA DGX Spark - little AI supercomputer, availability, pricing and specs.")
 - [Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04](https://www.glukhov.org/post/2024/11/installing-epson-et-8500-linux-driver/ "Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04")
