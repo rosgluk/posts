@@ -144,6 +144,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+
+- [NVIDIA DGX Spark](https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/ "NVIDIA DGX Spark - little AI supercomputer, availability, pricing and specs.")
 - [Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04](https://www.glukhov.org/post/2024/11/installing-epson-et-8500-linux-driver/ "Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04")
 - [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495")
 - [Degradation Issues in Intel's 13th and 14th Generation CPUs](https://www.glukhov.org/post/2025/05/intel-cpu-degradation-13th-14th-gen/ "Degradation Issues in Intel's 13th and 14th Generation CPUs")
