@@ -47,6 +47,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
 - [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
 - [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
+- [DevOps with GitOps - Argo CD, Flux, Jenkins X, Weave GitOps and others](https://www.glukhov.org/post/2025/07/devops-with-gitops/ "DevOps with GitOps - Methodology Overview GitOps tools and comparison to alternatives")
 
 ## AWS, Flutter, Python, Golang and other development
 - [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
