@@ -145,6 +145,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme](https://www.glukhov.org/post/2025/06/hugo-images-in-bundle-pages-mainroad-thumbnails/ "How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme")
 - [Using Markdown Code Blocks](https://www.glukhov.org/post/2025/07/markdown-codeblocks/ "Markdown Code Blocks - detailed description")
 - [Matomo, Plausible, Google and other Web analytics systems comparison](https://www.glukhov.org/post/2025/07/matomo-plausible-google-web-analytics/ "Web analytics systems comparison: Matomo, Plausible, Google and others")
+- [Opengraph image metadata in Hugo static site generator](https://www.glukhov.org/post/2025/07/opengraph-image-metadata-in-hugo/ "Description how Hugo generates Opengraph Image Metadata for the website")
 
 ## Drivers and Hardware
 
