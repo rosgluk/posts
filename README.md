@@ -37,6 +37,8 @@ This page contains links to my posts about software development, AI, experiments
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
+- [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
+- [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
 
 
 
