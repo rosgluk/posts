@@ -74,7 +74,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
 - [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
 - [Generating PDF in GO - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-reports-in-go/ "Generating PDF in GO - libraries, packages, tools and examples")
-- [Popularity of Programming Languages and Software Developer Tools](https://www.glukhov.org/post/2025/07/popularity-of-ai-tools-programming-languages-ides-cloud-providers/" "Popularity comparison of AI tools, programming languages, IDEs, cloud providers and CI/CD tools")
+- [Popularity of Programming Languages and Software Developer Tools](https://www.glukhov.org/post/2025/07/popularity-of-ai-tools-programming-languages-ides-cloud-providers/ "Popularity comparison of AI tools, programming languages, IDEs, cloud providers and CI/CD tools")
 
 
 ## Other
