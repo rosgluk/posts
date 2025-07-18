@@ -39,6 +39,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
 - [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
+- [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
 
 
 
