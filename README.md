@@ -152,6 +152,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Markdown Code Blocks](https://www.glukhov.org/post/2025/07/markdown-codeblocks/ "Markdown Code Blocks - detailed description")
 - [Matomo, Plausible, Google and other Web analytics systems comparison](https://www.glukhov.org/post/2025/07/matomo-plausible-google-web-analytics/ "Web analytics systems comparison: Matomo, Plausible, Google and others")
 - [Opengraph image metadata in Hugo static site generator](https://www.glukhov.org/post/2025/07/opengraph-image-metadata-in-hugo/ "Description how Hugo generates Opengraph Image Metadata for the website")
+- [How to add a page number to the blog post list page title in Hugo](https://www.glukhov.org/post/2025/08/add-pagenumber-to-post-list-title-in-hugo-website/ "Description and example on wow to add a page number to the blog post list page title in Hugo")
 
 ## Drivers and Hardware
 
