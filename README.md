@@ -77,7 +77,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
 - [Generating PDF in GO - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-reports-in-go/ "Generating PDF in GO - libraries, packages, tools and examples")
 - [Popularity of Programming Languages and Software Developer Tools](https://www.glukhov.org/post/2025/07/popularity-of-ai-tools-programming-languages-ides-cloud-providers/ "Popularity comparison of AI tools, programming languages, IDEs, cloud providers and CI/CD tools")
-- [GitHub Copilot Cheatsheet - Desctiption and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Desctiption, subscription plans and essential commands")
+- [GitHub Copilot Cheatsheet - Description and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Description, subscription plans and essential commands")
 
 
 ## Other
