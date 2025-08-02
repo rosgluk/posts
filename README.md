@@ -78,6 +78,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Generating PDF in GO - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-reports-in-go/ "Generating PDF in GO - libraries, packages, tools and examples")
 - [Popularity of Programming Languages and Software Developer Tools](https://www.glukhov.org/post/2025/07/popularity-of-ai-tools-programming-languages-ides-cloud-providers/ "Popularity comparison of AI tools, programming languages, IDEs, cloud providers and CI/CD tools")
 - [GitHub Copilot Cheatsheet - Description and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Description, subscription plans and essential commands")
+- [TypeScript Cheatsheet: Master Core Concepts & Best Practices](https://www.glukhov.org/post/2025/08/typescript-cheatsheet/ "Dive into our comprehensive TypeScript cheatsheet covering syntax, data types, advanced features, and best practices to boost your coding efficiency and type safety")
 
 
 ## Other
