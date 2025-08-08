@@ -98,6 +98,7 @@ This page contains links to my posts about software development, AI, experiments
 - [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
 - [Personal Knowledge Management - Goals, Methods and Tools to use in 2025](https://www.glukhov.org/post/2025/07/personal-knowledge-management/ "Personal Knowledge Management - What it is, it's goals, methods and tools to use in 2025")
 - [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
+- [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
 
 ## AI & Object Detection
 
