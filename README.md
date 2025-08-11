@@ -4,6 +4,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Linux & ops
 
+- [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
 - [Self-hosting Perplexica - with Ollama](https://www.glukhov.org/post/2024/08/selfhosting-perplexica-ollama/ "Install and configure Perplexica with Ollama")
