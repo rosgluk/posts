@@ -42,6 +42,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
 - [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
 - [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
+- [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
 
 
 
