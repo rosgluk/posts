@@ -113,7 +113,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AI & LLMs](https://glukhov.au/posts/2024/llms/)
 - [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
 
-## LLMs
+## LLMs and Ollama
 
 - [Reranking text documents with Ollama and Qwen3 Reranker model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-reranker-golang/ "Reranking text documents with Ollama and Qwen3 Reranker model - in Golang")
 - [Comparison of Hugo Page Translation quality - LLMs on Ollama](https://www.glukhov.org/post/2025/06/translation-quality-comparison-llms-on-ollama/ "Comparison of Hugo Page Translation quality - LLMs on Ollama - qwen3 8b, qwen3 14b, qwen3 30b, devstral 24b and mistral small 24b")
@@ -138,6 +138,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Convert HTML content to Markdown using LLM and Ollama](https://www.glukhov.org/post/2025/05/html-to-markdown-using-llm/ "Convert HTML content to Markdown using LLM and Ollama")
 - [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
 - [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
+- [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
 
 ## Python
 
