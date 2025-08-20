@@ -175,6 +175,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Melbourne
 
+- [Tech Events in Melbourne in 2025-2026](https://www.glukhov.org/post/2025/08/tech-events-in-melbourne-2025-2026/ "Software development, cloud, IT, and AI-related conferences, meetups, and workshops happening in Melbourne from mid-2025 through the end of 2026")
 - [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
 
 ## Tags:
