@@ -103,6 +103,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Personal Knowledge Management - Goals, Methods and Tools to use in 2025](https://www.glukhov.org/post/2025/07/personal-knowledge-management/ "Personal Knowledge Management - What it is, it's goals, methods and tools to use in 2025")
 - [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
 - [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
+- [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
 
 ## AI & Object Detection
 
