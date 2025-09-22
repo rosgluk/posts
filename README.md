@@ -116,6 +116,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs and Ollama
 
+- [First Signs of Ollama Enshittification](https://www.glukhov.org/post/2025/09/ollama-enshittification/ "Overview of the First Signs of Ollama Enshittification")
 - [Reranking text documents with Ollama and Qwen3 Reranker model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-reranker-golang/ "Reranking text documents with Ollama and Qwen3 Reranker model - in Golang")
 - [Comparison of Hugo Page Translation quality - LLMs on Ollama](https://www.glukhov.org/post/2025/06/translation-quality-comparison-llms-on-ollama/ "Comparison of Hugo Page Translation quality - LLMs on Ollama - qwen3 8b, qwen3 14b, qwen3 30b, devstral 24b and mistral small 24b")
 - [Reranking text documents with Ollama and Qwen3 Embedding model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-embedding-golang/ "Reranking text documents with Ollama and Qwen3 Embedding model - in Golang")
