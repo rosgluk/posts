@@ -85,6 +85,7 @@ This page contains links to my posts about software development, AI, experiments
 - [GitHub Copilot Cheatsheet - Description and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Description, subscription plans and essential commands")
 - [TypeScript Cheatsheet: Master Core Concepts & Best Practices](https://www.glukhov.org/post/2025/08/typescript-cheatsheet/ "Dive into our comprehensive TypeScript cheatsheet covering syntax, data types, advanced features, and best practices to boost your coding efficiency and type safety")
 - [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
+- [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 
 
 ## Other
