@@ -107,6 +107,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
 - [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
 - [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
+- [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
 
 ## AI & Object Detection
 
