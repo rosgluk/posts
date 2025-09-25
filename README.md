@@ -45,6 +45,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
 - [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
+- [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
 
 
 
