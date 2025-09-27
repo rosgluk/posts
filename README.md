@@ -87,6 +87,7 @@ This page contains links to my posts about software development, AI, experiments
 - [TypeScript Cheatsheet: Master Core Concepts & Best Practices](https://www.glukhov.org/post/2025/08/typescript-cheatsheet/ "Dive into our comprehensive TypeScript cheatsheet covering syntax, data types, advanced features, and best practices to boost your coding efficiency and type safety")
 - [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
+- [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
 
 
 ## Other
