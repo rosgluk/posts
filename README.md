@@ -73,6 +73,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [PyInstaller Quickstart](https://www.glukhov.org/post/2025/01/pyinstaller "PyInstaller description, quickstart and drawbacks")
 - [Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master](https://www.glukhov.org/post/2025/02/flutter-deployment-errors-on-aws-amplify/ "Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master")
+- [ORM to use in GO: GORM, sqlc, Ent or Bun?](https://www.glukhov.org/post/2025/03/which-orm-to-use-in-go/ "Choosing ORM to Use in Go programs: GORM, sqlc, Ent or Bun")
 - [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/post/2025/04/vscode-cheatsheet/ "VSCode Cheatsheet and Most frequently used commands")
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
 - [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
@@ -170,6 +171,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Matomo, Plausible, Google and other Web analytics systems comparison](https://www.glukhov.org/post/2025/07/matomo-plausible-google-web-analytics/ "Web analytics systems comparison: Matomo, Plausible, Google and others")
 - [Opengraph image metadata in Hugo static site generator](https://www.glukhov.org/post/2025/07/opengraph-image-metadata-in-hugo/ "Description how Hugo generates Opengraph Image Metadata for the website")
 - [How to add a page number to the blog post list page title in Hugo](https://www.glukhov.org/post/2025/08/add-pagenumber-to-post-list-title-in-hugo-website/ "Description and example on wow to add a page number to the blog post list page title in Hugo")
+- [Converting Word Documents to Markdown: A Complete Guide](https://www.glukhov.org/post/2025/09/converting-word-document-to-markdown/ "How to Convert Word Documents to Markdown: A Complete Guide for IOS, Windows and Linux")
 
 ## Drivers and Hardware
 
