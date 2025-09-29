@@ -111,6 +111,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
 - [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
 - [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
+- [PostgreSQL Cheatsheet: A Developer’s Quick Reference](https://www.glukhov.org/post/2025/09/postgresql-cheatsheet/ "A comprehensive PostgreSQL cheatsheet covering psql commands, data types, DDL, DML, JSON, arrays, window functions, performance tuning, and more")
 
 ## AI & Object Detection
 
