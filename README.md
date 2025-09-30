@@ -124,6 +124,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs and Ollama
 
+- [LLMs with Structured Output: Ollama, Qwen3 & Python or Go](https://www.glukhov.org/post/2025/09/llm-structured-output-with-ollama-in-python-and-go/ "Constraining LLMs with Structured Output — Using Ollama and Qwen3 with examples in Python and Go")
 - [Memory allocation and model scheduling in Ollama new version - v0.12.1](https://www.glukhov.org/post/2025/09/memory-allocation-in-ollama-new-version/ "Comparison of Memory allocation and model scheduling in new version of Ollama - v0.12.1 vs the previous version")
 - [First Signs of Ollama Enshittification](https://www.glukhov.org/post/2025/09/ollama-enshittification/ "Overview of the First Signs of Ollama Enshittification")
 - [Reranking text documents with Ollama and Qwen3 Reranker model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-reranker-golang/ "Reranking text documents with Ollama and Qwen3 Reranker model - in Golang")
