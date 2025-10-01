@@ -124,6 +124,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs and Ollama
 
+- [Ollama GPT-OSS Structured Output Issues](https://www.glukhov.org/post/2025/10/ollama-gpt-oss-structured-output-issues/ "Ollama GPT-OSS has Structured Output Issues")
+- [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://www.glukhov.org/post/2025/10/structured-output-comparison-popular-llm-providers/ "Comparison of Structured output control across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock - with examples in Python")
 - [LLMs with Structured Output: Ollama, Qwen3 & Python or Go](https://www.glukhov.org/post/2025/09/llm-structured-output-with-ollama-in-python-and-go/ "Constraining LLMs with Structured Output — Using Ollama and Qwen3 with examples in Python and Go")
 - [Memory allocation and model scheduling in Ollama new version - v0.12.1](https://www.glukhov.org/post/2025/09/memory-allocation-in-ollama-new-version/ "Comparison of Memory allocation and model scheduling in new version of Ollama - v0.12.1 vs the previous version")
 - [First Signs of Ollama Enshittification](https://www.glukhov.org/post/2025/09/ollama-enshittification/ "Overview of the First Signs of Ollama Enshittification")
