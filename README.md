@@ -89,6 +89,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 - [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
+- [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
 
 
 ## Other
