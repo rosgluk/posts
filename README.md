@@ -167,6 +167,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Hugo
 
+- [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
 - [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
