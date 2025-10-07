@@ -46,6 +46,8 @@ This page contains links to my posts about software development, AI, experiments
 - [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
 - [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
+- [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
+
 
 
 
