@@ -116,6 +116,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
 - [PostgreSQL Cheatsheet: A Developer’s Quick Reference](https://www.glukhov.org/post/2025/09/postgresql-cheatsheet/ "A comprehensive PostgreSQL cheatsheet covering psql commands, data types, DDL, DML, JSON, arrays, window functions, performance tuning, and more")
 - [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
+- [Writefreely Federated Blogging Platform - selfhosting vs managed costs](https://www.glukhov.org/post/2025/10/writefreely-selfhosting-vs-managed-costs/ "Here’s a practical, up-to-date briefing on Write.as / WriteFreely—how it fits into the fediverse, where to get managed hosting (with pricing), what the usage trend looks like, and how to self-host (plus rough costings")
 
 
 ## AI & Object Detection
@@ -129,6 +130,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs and Ollama
 
+- [Integrating Ollama with Python: REST API and Python Client Examples](https://www.glukhov.org/post/2025/10/ollama-python-examples/ "Learn how to connect your Python applications to Ollama using both the REST API and the official Python client — with examples for chat, text generation, and 'thinking' models like qwen3.")
 - [Ollama GPT-OSS Structured Output Issues](https://www.glukhov.org/post/2025/10/ollama-gpt-oss-structured-output-issues/ "Ollama GPT-OSS has Structured Output Issues")
 - [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://www.glukhov.org/post/2025/10/structured-output-comparison-popular-llm-providers/ "Comparison of Structured output control across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock - with examples in Python")
 - [LLMs with Structured Output: Ollama, Qwen3 & Python or Go](https://www.glukhov.org/post/2025/09/llm-structured-output-with-ollama-in-python-and-go/ "Constraining LLMs with Structured Output — Using Ollama and Qwen3 with examples in Python and Go")
