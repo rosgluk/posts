@@ -49,8 +49,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
 
 
-
-
 ## Gitea as a self-hosted git server and other Git-related devops
 
 - [Gitflow Explained: Steps, Alternatives, Pros, and Cons](https://www.glukhov.org/post/2025/06/gitflow-steps-and-alternatives/ "Gitflow: a structured branching model for version control. Learn its steps, advantages, weaknesses, and alternatives like GitHub Flow. Ideal for large teams and complex projects.")
@@ -130,6 +128,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs and Ollama
 
+- [LLMs Comparison: Qwen3:30b vs GPT-OSS:20b](https://www.glukhov.org/post/2025/10/qwen3-30b-vs-gpt-oss-20b/ "Qwen3:30b vs GPT-OSS:20b: Technical details, performance and speed comparison")
 - [Integrating Ollama with Python: REST API and Python Client Examples](https://www.glukhov.org/post/2025/10/ollama-python-examples/ "Learn how to connect your Python applications to Ollama using both the REST API and the official Python client — with examples for chat, text generation, and 'thinking' models like qwen3.")
 - [Ollama GPT-OSS Structured Output Issues](https://www.glukhov.org/post/2025/10/ollama-gpt-oss-structured-output-issues/ "Ollama GPT-OSS has Structured Output Issues")
 - [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://www.glukhov.org/post/2025/10/structured-output-comparison-popular-llm-providers/ "Comparison of Structured output control across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock - with examples in Python")
