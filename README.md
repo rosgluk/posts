@@ -60,6 +60,8 @@ This page contains links to my posts about software development, AI, experiments
 - [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/post/2025/07/github-actions-cheatsheet/ "GitHub Actions Cheatsheet with GitHub actions structure, short description and the most common actions used across open source and commercial workflows, specifically official, community, and third-party tools, supporting automation from builds and tests to deployment, release management, QA, and notifications")
 
 ## AWS, Flutter, Python, Golang and other development
+
+- [Building a Dual-Mode AWS Lambda with Python and Terraform](https://www.glukhov.org/post/2025/10/python-lambda-on-aws-sqs-rest-api-terraform/ "Implementing API and AWS SQS consumer with AWS Lambda in Python, and deploying with Terraform to AWS")
 - [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
 - [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
 - [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
