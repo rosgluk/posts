@@ -61,7 +61,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Python, Golang and other development
 
-- [3 Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore three popular ways of managing state in Flutter apps, including real examples and best practices")
+- [Using Dev Containers in VS Code](https://www.glukhov.org/post/2025/10/vs-code-dev-containers/ "Create consistent, portable, and reproducible development environments using Dev Containers")
+- [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
 - [Building a Dual-Mode AWS Lambda with Python and Terraform](https://www.glukhov.org/post/2025/10/python-lambda-on-aws-sqs-rest-api-terraform/ "Implementing API and AWS SQS consumer with AWS Lambda in Python, and deploying with Terraform to AWS")
 - [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
 - [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
