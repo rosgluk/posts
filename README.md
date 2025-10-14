@@ -97,6 +97,8 @@ This page contains links to my posts about software development, AI, experiments
 
 
 ## Other
+
+- [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
 - [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
 - [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
