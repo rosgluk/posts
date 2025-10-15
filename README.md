@@ -193,6 +193,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+- [DGX Spark vs. Mac Studio: A Practical, Price-Checked Look at NVIDIA’s Personal AI Supercomputer](https://www.glukhov.org/post/2025/10/nvidia-dgx-spark-prices/ "A brief explaination what NVIDIA DGX Spark is, typical configs, when and where you can actually buy it, country-by-country street pricing (with USD equivalents), and how its capabilities stack up against Apple’s Mac Studio for local AI work")
 - [NVidia RTX 5080 and RTX 5090 prices in Australia - October 2025](https://www.glukhov.org/post/2025/10/nvidia-rtx-5080-rtx-5090-prices-october-2025/ "Dynamics of NVidia RTX 5080 and RTX 5090 prices in Australia - October 2025")
 - [NVIDIA DGX Spark](https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/ "NVIDIA DGX Spark - little AI supercomputer, availability, pricing and specs.")
 - [Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04](https://www.glukhov.org/post/2024/11/installing-epson-et-8500-linux-driver/ "Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04")
