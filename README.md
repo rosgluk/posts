@@ -98,6 +98,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Other
 
+- [Tor Network Statistics: A Decade of Growth and Challenges (2015-2025)](https://www.glukhov.org/post/2025/10/tor-statistics/ "Comprehensive analysis of Tor network statistics from 2015-2025, examining exit relay and bridge count fluctuations, underlying causes, and implications for network resilience and user accessibility.")
 - [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
 - [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
