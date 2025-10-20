@@ -47,6 +47,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
 - [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
+- [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
