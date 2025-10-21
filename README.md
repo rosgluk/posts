@@ -4,6 +4,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Linux & ops
 
+- [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
 - [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
@@ -125,6 +126,7 @@ This page contains links to my posts about software development, AI, experiments
 - [PostgreSQL Cheatsheet: A Developer’s Quick Reference](https://www.glukhov.org/post/2025/09/postgresql-cheatsheet/ "A comprehensive PostgreSQL cheatsheet covering psql commands, data types, DDL, DML, JSON, arrays, window functions, performance tuning, and more")
 - [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
 - [Writefreely Federated Blogging Platform - selfhosting vs managed costs](https://www.glukhov.org/post/2025/10/writefreely-selfhosting-vs-managed-costs/ "Here’s a practical, up-to-date briefing on Write.as / WriteFreely—how it fits into the fediverse, where to get managed hosting (with pricing), what the usage trend looks like, and how to self-host (plus rough costings")
+- [Nostr: Decentralized Social Networking, User Statistics, and Alternatives](https://www.glukhov.org/post/2025/10/nostr-overview-and-statistics/ "Explore Nostr's censorship-resistant protocol, user growth statistics, and how it compares to Bluesky and Mastodon in the decentralized social media landscape.")
 
 
 ## AI & Object Detection
