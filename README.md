@@ -139,8 +139,10 @@ This page contains links to my posts about software development, AI, experiments
 - [AI & LLMs](https://glukhov.au/posts/2024/llms/)
 - [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
 
-## LLMs and Ollama
+## LLMs, Docker Model Runner, and Ollama
 
+- [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
+- [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
 - [Go SDKs for Ollama - overview with examples](https://www.glukhov.org/post/2025/10/using-ollama-in-go/ "Go clients for Ollama: SDK comparison and Qwen3/GPT-OSS examples")
 - [LLMs Comparison: Qwen3:30b vs GPT-OSS:20b](https://www.glukhov.org/post/2025/10/qwen3-30b-vs-gpt-oss-20b/ "Qwen3:30b vs GPT-OSS:20b: Technical details, performance and speed comparison")
 - [Integrating Ollama with Python: REST API and Python Client Examples](https://www.glukhov.org/post/2025/10/ollama-python-examples/ "Learn how to connect your Python applications to Ollama using both the REST API and the official Python client — with examples for chat, text generation, and 'thinking' models like qwen3.")
