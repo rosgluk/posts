@@ -175,6 +175,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
 - [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
 - [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
+- [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
 
 ## Python
 
