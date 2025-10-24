@@ -26,7 +26,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
 - [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
-- [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
 - [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
 - [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
 - [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
@@ -47,6 +46,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
 - [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
+- [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
 - [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
 - [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
 - [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
@@ -55,7 +55,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Implementing Service Mesh with Istio and Linkerd: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/service-mesh-with-istio-and-linkerd/ "Service mesh implementation with Istio and Linkerd in Kubernetes. Compare performance benchmarks, security features like mTLS, traffic management patterns, and deployment strategies. Includes step-by-step guides, production best practices, and real-world use cases for choosing the right service mesh for your microservices architecture.")
 - [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
 - [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
-
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
