@@ -5,9 +5,7 @@ This page contains links to my posts about software development, AI, experiments
 ## Linux & ops
 
 - [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
-- [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
-- [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
 - [Self-hosting Perplexica - with Ollama](https://www.glukhov.org/post/2024/08/selfhosting-perplexica-ollama/ "Install and configure Perplexica with Ollama")
 - [How t install network-wide adblocker](https://www.glukhov.org/post/2024/06/pi-hole-ad-blocker-install/)
 - [Configure Git User Name and Email Address](https://www.glukhov.org/post/2024/06/configure-git-username/)
@@ -17,10 +15,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Check Linux Ubuntu Version](https://www.glukhov.org/post/2025/06/check-linux-ubuntu-version/ "Check Linux Ubuntu Version")
 - [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
 - [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
-- [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
-- [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
-- [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
 - [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
 - [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
@@ -39,17 +34,28 @@ This page contains links to my posts about software development, AI, experiments
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
-- [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
 - [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
-- [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
-- [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
 - [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
 - [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
 - [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
+
+## Docker and Kuberntetes
+
+- [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
+- [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
+- [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
+- [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
+- [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
+- [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
+- [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
+- [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
 - [Implementing Service Mesh with Istio and Linkerd: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/service-mesh-with-istio-and-linkerd/ "Service mesh implementation with Istio and Linkerd in Kubernetes. Compare performance benchmarks, security features like mTLS, traffic management patterns, and deployment strategies. Includes step-by-step guides, production best practices, and real-world use cases for choosing the right service mesh for your microservices architecture.")
+- [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
+- [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
+
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
@@ -176,6 +182,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
 - [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
 - [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
+- [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
 
 ## Python
 
