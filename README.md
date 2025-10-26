@@ -68,13 +68,28 @@ This page contains links to my posts about software development, AI, experiments
 - [DevOps with GitOps - Argo CD, Flux, Jenkins X, Weave GitOps and others](https://www.glukhov.org/post/2025/07/devops-with-gitops/ "DevOps with GitOps - Methodology Overview GitOps tools and comparison to alternatives")
 - [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/post/2025/07/github-actions-cheatsheet/ "GitHub Actions Cheatsheet with GitHub actions structure, short description and the most common actions used across open source and commercial workflows, specifically official, community, and third-party tools, supporting automation from builds and tests to deployment, release management, QA, and notifications")
 
-## AWS, Flutter, Python, Golang and other development
+## Python Coding incl AWS
+
+- [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
+- [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
+- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
+- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
+- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
+- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
+- [Unit Testing in Python](https://www.glukhov.org/post/2025/10/unit-testing-in-python/ "Comprehensive guide to unit testing in Python covering pytest, unittest, TDD practices, mocking, fixtures, and best practices for writing maintainable tests with real-world examples and code coverage strategies.")
+- [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
+- [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
+- [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
+- [Building a Dual-Mode AWS Lambda with Python and Terraform](https://www.glukhov.org/post/2025/10/python-lambda-on-aws-sqs-rest-api-terraform/ "Implementing API and AWS SQS consumer with AWS Lambda in Python, and deploying with Terraform to AWS")
+- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
+- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
+- [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
+
+## AWS, Flutter, Golang and other development
 
 - [Using Dev Containers in VS Code](https://www.glukhov.org/post/2025/10/vs-code-dev-containers/ "Create consistent, portable, and reproducible development environments using Dev Containers")
 - [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
-- [Building a Dual-Mode AWS Lambda with Python and Terraform](https://www.glukhov.org/post/2025/10/python-lambda-on-aws-sqs-rest-api-terraform/ "Implementing API and AWS SQS consumer with AWS Lambda in Python, and deploying with Terraform to AWS")
 - [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
-- [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
 - [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
 - [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
 - [Golang Cheat Sheet](https://www.glukhov.org/post/2022/golang-cheatsheet/)
@@ -82,15 +97,12 @@ This page contains links to my posts about software development, AI, experiments
 - [Flutter (Dart) Cheat Sheet](https://www.glukhov.org/post/2022/flutter-dart-cheatsheet/ "Flutter (Dart) Cheatsheet with examples")
 - [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
 - [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting")
-- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [PyInstaller Quickstart](https://www.glukhov.org/post/2025/01/pyinstaller "PyInstaller description, quickstart and drawbacks")
 - [Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master](https://www.glukhov.org/post/2025/02/flutter-deployment-errors-on-aws-amplify/ "Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master")
 - [ORM to use in GO: GORM, sqlc, Ent or Bun?](https://www.glukhov.org/post/2025/03/which-orm-to-use-in-go/ "Choosing ORM to Use in Go programs: GORM, sqlc, Ent or Bun")
 - [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/post/2025/04/vscode-cheatsheet/ "VSCode Cheatsheet and Most frequently used commands")
 - [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
 - [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
-- [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
 - [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux")
 - [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
 - [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
@@ -100,7 +112,6 @@ This page contains links to my posts about software development, AI, experiments
 - [GitHub Copilot Cheatsheet - Description and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Description, subscription plans and essential commands")
 - [TypeScript Cheatsheet: Master Core Concepts & Best Practices](https://www.glukhov.org/post/2025/08/typescript-cheatsheet/ "Dive into our comprehensive TypeScript cheatsheet covering syntax, data types, advanced features, and best practices to boost your coding efficiency and type safety")
 - [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
-- [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 - [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
 - [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
 
@@ -181,18 +192,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
 - [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
 - [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
-- [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
-
-## Python Coding
-
-- [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
-- [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
-- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
-- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
-- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
-- [Unit Testing in Python](https://www.glukhov.org/post/2025/10/unit-testing-in-python/ "Comprehensive guide to unit testing in Python covering pytest, unittest, TDD practices, mocking, fixtures, and best practices for writing maintainable tests with real-world examples and code coverage strategies.")
 
 ## Hugo
 
