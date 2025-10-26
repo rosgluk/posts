@@ -104,7 +104,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
 - [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
 
-
 ## Other
 
 - [Beyond Google: Alternative Search Engines Guide](https://www.glukhov.org/post/2025/10/alternative-search-engines/ "Comprehensive guide to alternative search engines including hosted and self-hosted options, AI-powered search, and privacy-focused alternatives.")
@@ -147,6 +146,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
 - [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
 - [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
 - [Go SDKs for Ollama - overview with examples](https://www.glukhov.org/post/2025/10/using-ollama-in-go/ "Go clients for Ollama: SDK comparison and Qwen3/GPT-OSS examples")
@@ -184,13 +184,15 @@ This page contains links to my posts about software development, AI, experiments
 - [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
 
-## Python
+## Python Coding
 
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 - [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
+- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
+- [Unit Testing in Python](https://www.glukhov.org/post/2025/10/unit-testing-in-python/ "Comprehensive guide to unit testing in Python covering pytest, unittest, TDD practices, mocking, fixtures, and best practices for writing maintainable tests with real-world examples and code coverage strategies.")
 
 ## Hugo
 
