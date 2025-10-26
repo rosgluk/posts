@@ -115,6 +115,14 @@ This page contains links to my posts about software development, AI, experiments
 - [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
 - [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
 
+## Latex
+
+- [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
+- [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
+- [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
+- [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
+- [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
+
 ## Other
 
 - [Beyond Google: Alternative Search Engines Guide](https://www.glukhov.org/post/2025/10/alternative-search-engines/ "Comprehensive guide to alternative search engines including hosted and self-hosted options, AI-powered search, and privacy-focused alternatives.")
@@ -122,11 +130,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
 - [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
-- [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
-- [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
-- [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 - [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
-- [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
 - [Digital Detox](https://www.glukhov.org/post/2024/10/digital-detox/ "Digital Detox - why, when and how to do it properly")
 - [DumbPhone - for digital detox](https://www.glukhov.org/post/2024/10/dumb-phone/ "Using DumbPhone as a tool for digital detox")
 - [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
@@ -138,7 +142,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
 - [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
 - [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
-- [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
 - [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
 - [PostgreSQL Cheatsheet: A Developer’s Quick Reference](https://www.glukhov.org/post/2025/09/postgresql-cheatsheet/ "A comprehensive PostgreSQL cheatsheet covering psql commands, data types, DDL, DML, JSON, arrays, window functions, performance tuning, and more")
 - [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
