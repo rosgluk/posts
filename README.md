@@ -41,6 +41,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
 - [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
 - [Ubuntu Keyboard Shortcuts: Complete Cheatsheet](https://www.glukhov.org/post/2025/10/ubuntu-keyboard-shortcuts-cheatsheet/ "Master Ubuntu productivity with essential keyboard shortcuts for window management, workspaces, terminal, file management, and system controls. Boost your Linux workflow efficiency today.")
+- [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
+- [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
 
 ## Docker and Kuberntetes
 
@@ -85,7 +87,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 
-## AWS, Flutter, Golang and other development
+## AWS, Flutter, Go and other development
 
 - [Using Dev Containers in VS Code](https://www.glukhov.org/post/2025/10/vs-code-dev-containers/ "Create consistent, portable, and reproducible development environments using Dev Containers")
 - [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
@@ -114,6 +116,9 @@ This page contains links to my posts about software development, AI, experiments
 - [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
 - [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
 - [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
+- [Building GraphQL Backend for Frontend with Apollo Server](https://www.glukhov.org/post/2025/11/graphql-backend-for-frontend-apollo-server/ "Learn how to implement the Backend for Frontend pattern using GraphQL and Apollo Server to create efficient, client-optimized APIs that simplify frontend development and improve application performance.")
+- [Building Event-Driven Microservices with AWS Kinesis](https://www.glukhov.org/post/2025/11/service-oriented-and-mictoservices-with-aws-kinesis/ "Comprehensive guide to implementing scalable event-driven microservices architecture using AWS Kinesis Data Streams, including real-time data processing, service decoupling, and best practices for production deployments.")
+- [Building CLI Applications in Go with Cobra & Viper](https://www.glukhov.org/post/2025/11/go-cli-applications-with-cobra-and-viper/ "Learn how to build professional command-line applications in Go using Cobra for CLI structure and Viper for configuration management. Complete guide with practical examples and best practices.")
 
 ## Latex
 
@@ -147,6 +152,10 @@ This page contains links to my posts about software development, AI, experiments
 - [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
 - [Writefreely Federated Blogging Platform - selfhosting vs managed costs](https://www.glukhov.org/post/2025/10/writefreely-selfhosting-vs-managed-costs/ "Here’s a practical, up-to-date briefing on Write.as / WriteFreely—how it fits into the fediverse, where to get managed hosting (with pricing), what the usage trend looks like, and how to self-host (plus rough costings")
 - [Nostr: Decentralized Social Networking, User Statistics, and Alternatives](https://www.glukhov.org/post/2025/10/nostr-overview-and-statistics/ "Explore Nostr's censorship-resistant protocol, user growth statistics, and how it compares to Bluesky and Mastodon in the decentralized social media landscape.")
+- [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
+- [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
+- [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
+
 
 
 ## AI & Object Detection
@@ -195,7 +204,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
 - [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
 - [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
-- [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models) 
+- [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models)
+- [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
 
 ## Hugo
 
