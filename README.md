@@ -89,6 +89,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Multi-Tenancy Database Patterns with examples in Go](https://www.glukhov.org/post/2025/11/multitenant-database-patterns/ "Explore shared database, separate schema, and database-per-tenant patterns for multi-tenant apps. Learn trade-offs, security, and when to use each approach - with examples in Go")
 - [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://www.glukhov.org/post/2025/11/securing-information-at-rest-in-transit-at-runtime/ "A guide to securing data at rest, in transit, and at runtime using modern architectural patterns. Learn about TDE, TLS 1.3, mTLS, RASP, service meshes, AI-driven threat detection, and quantum-resistant cryptography. Includes practical implementation examples with AWS, Azure, Kubernetes, Istio, and best practices for 2025.")
 - [Using Dev Containers in VS Code](https://www.glukhov.org/post/2025/10/vs-code-dev-containers/ "Create consistent, portable, and reproducible development environments using Dev Containers")
 - [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
