@@ -43,6 +43,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Ubuntu Keyboard Shortcuts: Complete Cheatsheet](https://www.glukhov.org/post/2025/10/ubuntu-keyboard-shortcuts-cheatsheet/ "Master Ubuntu productivity with essential keyboard shortcuts for window management, workspaces, terminal, file management, and system controls. Boost your Linux workflow efficiency today.")
 - [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
 - [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
+- [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
 
 ## Docker and Kuberntetes
 
