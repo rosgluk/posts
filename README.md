@@ -90,6 +90,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Zero-Knowledge Architecture: Privacy by Design](https://www.glukhov.org/post/2025/11/zero-knowledge-architecture/ "Explore zero-knowledge architecture principles, zero-knowledge proofs, and privacy-preserving systems. Learn how ZKPs enable secure authentication, blockchain privacy, and confidential computation.")
 - [Go Generics: Use Cases and Patterns](https://www.glukhov.org/post/2025/11/generics-in-go/ "Explore Go generics with practical use cases, common patterns, and best practices. Learn how to write type-safe, reusable code in Go 1.18+.")
 - [Multi-Tenancy Database Patterns with examples in Go](https://www.glukhov.org/post/2025/11/multitenant-database-patterns/ "Explore shared database, separate schema, and database-per-tenant patterns for multi-tenant apps. Learn trade-offs, security, and when to use each approach - with examples in Go")
 - [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://www.glukhov.org/post/2025/11/securing-information-at-rest-in-transit-at-runtime/ "A guide to securing data at rest, in transit, and at runtime using modern architectural patterns. Learn about TDE, TLS 1.3, mTLS, RASP, service meshes, AI-driven threat detection, and quantum-resistant cryptography. Includes practical implementation examples with AWS, Azure, Kubernetes, Istio, and best practices for 2025.")
@@ -213,6 +214,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Hugo
 
+- [Hugo Caching Strategies for Performance](https://www.glukhov.org/post/2025/11/hugo-caching-strategies/ "Master Hugo caching: build cache, incremental builds, CDN optimization, HTTP headers, and asset caching for faster static sites.")
 - [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
