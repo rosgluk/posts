@@ -174,6 +174,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Adding NVIDIA GPU Support to Docker Model Runner](https://www.glukhov.org/post/2025/11/adding-nvidia-gpu-support-to-docker-model-runner/ "Complete guide to enable NVIDIA GPU acceleration for Docker Model Runner. Step-by-step instructions for configuring CUDA support, Docker daemon settings, and verifying GPU usage for AI model inference.")
 - [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
 - [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
 - [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
