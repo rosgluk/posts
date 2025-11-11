@@ -167,6 +167,7 @@ This page contains links to my posts about software development, AI, experiments
 
 - https://www.glukhov.org/post/2019/object-detection-with-tensorflow/
 - https://www.glukhov.org/post/2024/07/label-studio-object-detection/
+- [Running FLUX.1-dev GGUF Q8 in Python](https://www.glukhov.org/post/2025/11/quantized-flux-1-dev-with-gguf/ "Learn how to use GGUF quantized FLUX.1-dev models to reduce memory requirements from 24GB to 12GB while maintaining image quality. Complete Python implementation guide with diffusers library.")
 - [FLUX.1-Kontext-dev: Image Augmentation AI Model](https://www.glukhov.org/post/2025/11/flux-1-kontext-dev-augment-image/ "FLUX.1-Kontext-dev enables image-to-image generation with text prompts. Learn how to augment existing images using Python and diffusers library with practical examples.")
 - [Flux - text to image AI generator](https://www.glukhov.org/post/2024/09/flux-text-to-image/)
 - [Implementing Object Detection with tensor flow](https://glukhov.au/posts/2024/object-detection-ai/)
