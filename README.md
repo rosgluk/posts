@@ -90,6 +90,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Saga Pattern in Distributed Transactions - With Examples in Go](https://www.glukhov.org/post/2025/11/saga-transactions-in-microservices/ "Complete guide to Saga pattern implementation in Go for microservices. Learn orchestration vs choreography, compensation strategies, idempotency, event sourcing, and best practices with practical examples.")
 - [Zero-Knowledge Architecture: Privacy by Design](https://www.glukhov.org/post/2025/11/zero-knowledge-architecture/ "Explore zero-knowledge architecture principles, zero-knowledge proofs, and privacy-preserving systems. Learn how ZKPs enable secure authentication, blockchain privacy, and confidential computation.")
 - [Go Generics: Use Cases and Patterns](https://www.glukhov.org/post/2025/11/generics-in-go/ "Explore Go generics with practical use cases, common patterns, and best practices. Learn how to write type-safe, reusable code in Go 1.18+.")
 - [Multi-Tenancy Database Patterns with examples in Go](https://www.glukhov.org/post/2025/11/multitenant-database-patterns/ "Explore shared database, separate schema, and database-per-tenant patterns for multi-tenant apps. Learn trade-offs, security, and when to use each approach - with examples in Go")
