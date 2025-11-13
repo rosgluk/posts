@@ -59,6 +59,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Implementing Service Mesh with Istio and Linkerd: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/service-mesh-with-istio-and-linkerd/ "Service mesh implementation with Istio and Linkerd in Kubernetes. Compare performance benchmarks, security features like mTLS, traffic management patterns, and deployment strategies. Includes step-by-step guides, production best practices, and real-world use cases for choosing the right service mesh for your microservices architecture.")
 - [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
 - [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
+- [Helm Charts: Kubernetes Package Management](https://www.glukhov.org/post/2025/11/helm-charts-for-kubernetes-packages/ "Creating, managing, and deploying Helm Charts for Kubernetes. Comprehensive guide covering chart structure, templating, values management, OCI registries, and production best practices for DevOps teams")
+- [StatefulSets & Persistent Storage in K8s](https://www.glukhov.org/post/2025/11/statefulsets-and-persistent-storage-in-kubernetes/ "Learn how Kubernetes StatefulSets manage stateful applications with stable identities, ordered deployments, and persistent storage through PersistentVolumeClaims and volumeClaimTemplates for databases and distributed systems.")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
@@ -87,6 +89,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
+- [Python Design Patterns for Clean Architecture](https://www.glukhov.org/post/2025/11/python-design-patterns-for-clean-architecture/ "Master SOLID principles, dependency injection, and layered architecture in Python. Learn repository pattern, hexagonal architecture, and domain-driven design for maintainable, testable, and scalable applications.")
+
 
 ## AWS, Flutter, Go and other development
 
@@ -163,7 +167,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
 
 
-
 ## AI & Object Detection
 
 - https://www.glukhov.org/post/2019/object-detection-with-tensorflow/
@@ -174,6 +177,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Implementing Object Detection with tensor flow](https://glukhov.au/posts/2024/object-detection-ai/)
 - [AI & LLMs](https://glukhov.au/posts/2024/llms/)
 - [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
+- [Linux Data Science Stack: Jupyter, Pandas & Tools](https://www.glukhov.org/post/2025/11/linux-for-data-science-jupyter-pandas-tools/ "A Guide to setting up a powerful Linux environment for data science with Jupyter, Pandas, Anaconda, and essential tools - optimization tips, best practices, and workflow automation for efficient data analysis.")
+
 
 ## LLMs, Docker Model Runner, and Ollama
 
