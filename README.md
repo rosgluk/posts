@@ -44,6 +44,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
 - [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
 - [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
+- [Install and Use Grafana on Ubuntu: Complete Guide](https://www.glukhov.org/post/2025/11/grafana-installing-using-in-ubuntu/ "Step-by-step guide to installing, configuring, and using Grafana on Ubuntu for powerful monitoring, visualization, and observability with multiple data sources")
 
 ## Docker and Kuberntetes
 
@@ -94,6 +95,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Go Unit Testing: Structure & Best Practices](https://www.glukhov.org/post/2025/11/unit-tests-in-go/ "Master Go unit testing with built-in testing package, table-driven tests, mocks, coverage analysis, and industry best practices for robust Go applications.")
 - [Saga Pattern in Distributed Transactions - With Examples in Go](https://www.glukhov.org/post/2025/11/saga-transactions-in-microservices/ "Complete guide to Saga pattern implementation in Go for microservices. Learn orchestration vs choreography, compensation strategies, idempotency, event sourcing, and best practices with practical examples.")
 - [Zero-Knowledge Architecture: Privacy by Design](https://www.glukhov.org/post/2025/11/zero-knowledge-architecture/ "Explore zero-knowledge architecture principles, zero-knowledge proofs, and privacy-preserving systems. Learn how ZKPs enable secure authentication, blockchain privacy, and confidential computation.")
 - [Go Generics: Use Cases and Patterns](https://www.glukhov.org/post/2025/11/generics-in-go/ "Explore Go generics with practical use cases, common patterns, and best practices. Learn how to write type-safe, reusable code in Go 1.18+.")
