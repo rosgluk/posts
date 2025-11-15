@@ -45,6 +45,9 @@ This page contains links to my posts about software development, AI, experiments
 - [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
 - [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
 - [Install and Use Grafana on Ubuntu: Complete Guide](https://www.glukhov.org/post/2025/11/grafana-installing-using-in-ubuntu/ "Step-by-step guide to installing, configuring, and using Grafana on Ubuntu for powerful monitoring, visualization, and observability with multiple data sources")
+- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://www.glukhov.org/post/2025/11/listing-installing-upgrading-packages-in-ubuntu-with-apt/ "Ubuntu package management with APT, apt-get, dpkg, Snap, and Flatpak. Learn to list, install, upgrade, and remove packages efficiently with this comprehensive guide.")
+- [Snap Package Manager Cheatsheet](https://www.glukhov.org/post/2025/11/snap-cheatsheet-package-manager-ubuntu/ "Snap package management on Ubuntu. Learn to install, update, manage snaps, understand channels, confinement, and troubleshoot common issues with this comprehensive guide.")
+- [Flatpak Cheatsheet: Universal Linux Package Manager](https://www.glukhov.org/post/2025/11/flatpak-cheatsheet-package-manager-ubuntu/ "Guide to Flatpak on Ubuntu and Linux. Learn to install, manage, and troubleshoot Flatpak apps from Flathub with sandboxing, permissions, and best practices")
 
 ## Docker and Kuberntetes
 
