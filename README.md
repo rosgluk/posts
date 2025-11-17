@@ -98,6 +98,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Building REST APIs in Go: Complete Guide](https://www.glukhov.org/post/2025/11/implementing-api-in-go/ "A comprehensive guide to implementing RESTful APIs in Go, covering standard library approaches, frameworks, authentication, testing patterns, and production-ready best practices for scalable backend services.")
 - [Go Unit Testing: Structure & Best Practices](https://www.glukhov.org/post/2025/11/unit-tests-in-go/ "Master Go unit testing with built-in testing package, table-driven tests, mocks, coverage analysis, and industry best practices for robust Go applications.")
 - [Saga Pattern in Distributed Transactions - With Examples in Go](https://www.glukhov.org/post/2025/11/saga-transactions-in-microservices/ "Complete guide to Saga pattern implementation in Go for microservices. Learn orchestration vs choreography, compensation strategies, idempotency, event sourcing, and best practices with practical examples.")
 - [Zero-Knowledge Architecture: Privacy by Design](https://www.glukhov.org/post/2025/11/zero-knowledge-architecture/ "Explore zero-knowledge architecture principles, zero-knowledge proofs, and privacy-preserving systems. Learn how ZKPs enable secure authentication, blockchain privacy, and confidential computation.")
@@ -134,6 +135,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Building GraphQL Backend for Frontend with Apollo Server](https://www.glukhov.org/post/2025/11/graphql-backend-for-frontend-apollo-server/ "Learn how to implement the Backend for Frontend pattern using GraphQL and Apollo Server to create efficient, client-optimized APIs that simplify frontend development and improve application performance.")
 - [Building Event-Driven Microservices with AWS Kinesis](https://www.glukhov.org/post/2025/11/service-oriented-and-microservices-with-aws-kinesis/ "Comprehensive guide to implementing scalable event-driven microservices architecture using AWS Kinesis Data Streams, including real-time data processing, service decoupling, and best practices for production deployments.")
 - [Building CLI Applications in Go with Cobra & Viper](https://www.glukhov.org/post/2025/11/go-cli-applications-with-cobra-and-viper/ "Learn how to build professional command-line applications in Go using Cobra for CLI structure and Viper for configuration management. Complete guide with practical examples and best practices.")
+- [Flutter DevTools: Debug & Optimize Apps](https://www.glukhov.org/post/2025/11/flutter-dev-tools/ "Flutter DevTools is a comprehensive suite of performance profiling and debugging tools for Flutter developers. Learn how to use Widget Inspector, Performance View, Memory Profiler, Network Monitor, and more to build better apps.")
 
 ## Latex
 
