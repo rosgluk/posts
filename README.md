@@ -94,6 +94,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 - [Python Design Patterns for Clean Architecture](https://www.glukhov.org/post/2025/11/python-design-patterns-for-clean-architecture/ "Master SOLID principles, dependency injection, and layered architecture in Python. Learn repository pattern, hexagonal architecture, and domain-driven design for maintainable, testable, and scalable applications.")
+- [FastAPI: Modern High-Performance Python Web Framework](https://www.glukhov.org/post/2025/11/api-in-python-with-fastapi/ "Comprehensive guide to FastAPI—a modern, fast Python web framework for building APIs with automatic documentation, type validation, async support, and production-ready features for scalable applications.")
 
 
 ## AWS, Flutter, Go and other development
