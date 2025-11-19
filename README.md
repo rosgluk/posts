@@ -48,6 +48,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Ubuntu Package Management: APT and dpkg Cheatsheet](https://www.glukhov.org/post/2025/11/listing-installing-upgrading-packages-in-ubuntu-with-apt/ "Ubuntu package management with APT, apt-get, dpkg, Snap, and Flatpak. Learn to list, install, upgrade, and remove packages efficiently with this comprehensive guide.")
 - [Snap Package Manager Cheatsheet](https://www.glukhov.org/post/2025/11/snap-cheatsheet-package-manager-ubuntu/ "Snap package management on Ubuntu. Learn to install, update, manage snaps, understand channels, confinement, and troubleshoot common issues with this comprehensive guide.")
 - [Flatpak Cheatsheet: Universal Linux Package Manager](https://www.glukhov.org/post/2025/11/flatpak-cheatsheet-package-manager-ubuntu/ "Guide to Flatpak on Ubuntu and Linux. Learn to install, manage, and troubleshoot Flatpak apps from Flathub with sandboxing, permissions, and best practices")
+- [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
 
 ## Docker and Kuberntetes
 
@@ -190,6 +191,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://www.glukhov.org/post/2025/11/advanced-rag-variants-longrag-self-rag-graphrag/  "Deep dive into advanced RAG variants: LongRAG for long contexts, Self-RAG with self-reflection, and GraphRAG using knowledge graphs. Compare architectures, use cases, and implementation strategies for production AI systems.")
 - [Docker Model Runner: Context Size Config Guide](https://www.glukhov.org/post/2025/11/context-size-in-docker-model-runner/ "Complete guide to configuring context sizes in Docker Model Runner. Learn workarounds for docker-compose limitations, using docker model configure, and packaging models with custom context sizes.")
 - [Adding NVIDIA GPU Support to Docker Model Runner](https://www.glukhov.org/post/2025/11/adding-nvidia-gpu-support-to-docker-model-runner/ "Complete guide to enable NVIDIA GPU acceleration for Docker Model Runner. Step-by-step instructions for configuring CUDA support, Docker daemon settings, and verifying GPU usage for AI model inference.")
 - [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
