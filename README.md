@@ -96,10 +96,12 @@ This page contains links to my posts about software development, AI, experiments
 - [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
 - [Python Design Patterns for Clean Architecture](https://www.glukhov.org/post/2025/11/python-design-patterns-for-clean-architecture/ "Master SOLID principles, dependency injection, and layered architecture in Python. Learn repository pattern, hexagonal architecture, and domain-driven design for maintainable, testable, and scalable applications.")
 - [FastAPI: Modern High-Performance Python Web Framework](https://www.glukhov.org/post/2025/11/api-in-python-with-fastapi/ "Comprehensive guide to FastAPI—a modern, fast Python web framework for building APIs with automatic documentation, type validation, async support, and production-ready features for scalable applications.")
+- [Build Python Packages: Development to PyPI Guide](https://www.glukhov.org/post/2025/11/building-python-packages-from-development-to-pypi/ "Comprehensive guide to building, packaging, and publishing Python projects to PyPI using modern tools like pyproject.toml, setuptools, Poetry, and automated CI/CD workflows.")
 
 
 ## AWS, Flutter, Go and other development
 
+- [Go Microservices for AI/ML Orchestration](https://www.glukhov.org/post/2025/11/go-microservices-for-ai-ml-orchestration-patterns/ "Explore proven patterns for building scalable AI/ML orchestration systems using Go microservices. Learn event-driven architectures, workflow engines, and best practices for production deployments.")
 - [Building REST APIs in Go: Complete Guide](https://www.glukhov.org/post/2025/11/implementing-api-in-go/ "A comprehensive guide to implementing RESTful APIs in Go, covering standard library approaches, frameworks, authentication, testing patterns, and production-ready best practices for scalable backend services.")
 - [Go Unit Testing: Structure & Best Practices](https://www.glukhov.org/post/2025/11/unit-tests-in-go/ "Master Go unit testing with built-in testing package, table-driven tests, mocks, coverage analysis, and industry best practices for robust Go applications.")
 - [Saga Pattern in Distributed Transactions - With Examples in Go](https://www.glukhov.org/post/2025/11/saga-transactions-in-microservices/ "Complete guide to Saga pattern implementation in Go for microservices. Learn orchestration vs choreography, compensation strategies, idempotency, event sourcing, and best practices with practical examples.")
@@ -138,6 +140,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Building Event-Driven Microservices with AWS Kinesis](https://www.glukhov.org/post/2025/11/service-oriented-and-microservices-with-aws-kinesis/ "Comprehensive guide to implementing scalable event-driven microservices architecture using AWS Kinesis Data Streams, including real-time data processing, service decoupling, and best practices for production deployments.")
 - [Building CLI Applications in Go with Cobra & Viper](https://www.glukhov.org/post/2025/11/go-cli-applications-with-cobra-and-viper/ "Learn how to build professional command-line applications in Go using Cobra for CLI structure and Viper for configuration management. Complete guide with practical examples and best practices.")
 - [Flutter DevTools: Debug & Optimize Apps](https://www.glukhov.org/post/2025/11/flutter-dev-tools/ "Flutter DevTools is a comprehensive suite of performance profiling and debugging tools for Flutter developers. Learn how to use Widget Inspector, Performance View, Memory Profiler, Network Monitor, and more to build better apps.")
+- [Advanced Anti-Fingerprinting Protection](https://www.glukhov.org/post/2025/11/anti-fingerprinting-techniques-browser-and-network-level/ "Comprehensive guide to browser and network-level anti-fingerprinting techniques, tools, and best practices to protect your digital privacy and prevent tracking across the web.")
 
 ## Latex
 
@@ -146,6 +149,8 @@ This page contains links to my posts about software development, AI, experiments
 - [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
 - [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
 - [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
+- [LaTeX to Markdown Conversion Tools](https://www.glukhov.org/post/2025/11/converting-latex-to-markdown-tools-and-workflows/ "Converting LaTeX documents to Markdown using Pandoc, automated workflows, and best practices for academic and technical content migration")
+- [Tables in Markdown: Quick Guide](https://www.glukhov.org/post/2025/11/tables-in-markdown/ "Master Markdown table syntax with this comprehensive guide covering basic tables, alignment, GitHub Flavored Markdown (GFM), formatting best practices, common pitfalls, and tools for creating professional-looking tables. Learn how to structure data effectively in your documentation, README files, and technical blogs with practical examples and expert tips for optimizing readability and maintainability.")
 
 ## Other
 
@@ -231,6 +236,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models)
 - [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
+- [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
+
 
 ## Hugo
 
@@ -251,6 +258,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+- [AI Infrastructure on Consumer Hardware](https://www.glukhov.org/post/2025/11/building-team-ai-infrastructure-on-consumer-hardware/ "Deploying self-hosted AI infrastructure for teams using consumer GPUs, open-source LLMs, and cost-effective solutions that rival cloud services while maintaining privacy.")
 - [NVIDIA DGX Spark vs Mac Studio vs RTX-4080: Ollama Performance Comparison](https://www.glukhov.org/post/2025/10/dgx-spark-vs-mac-studio-vs-rtx4080/ "Real-world Ollama performance comparison running GPT-OSS 120b (a 117B parameter MoE model with 5.1B active parameters) across NVIDIA DGX Spark, Mac Studio, and RTX 4080. Detailed benchmarks show prompt evaluation, token generation rates, and CPU/GPU offloading behavior for this 65GB model.")
 - [The Rise of LLM ASICs: Why Inference Hardware Matters](https://www.glukhov.org/post/2025/10/llm-asics/ "Exploring how specialized inference chips are revolutionizing AI deployment with 10-50× better performance per watt than GPUs, featuring real benchmarks and architectural insights into the future of LLM hardware.")
 - [DGX Spark vs. Mac Studio: A Practical, Price-Checked Look at NVIDIA’s Personal AI Supercomputer](https://www.glukhov.org/post/2025/10/nvidia-dgx-spark-prices/ "A brief explaination what NVIDIA DGX Spark is, typical configs, when and where you can actually buy it, country-by-country street pricing (with USD equivalents), and how its capabilities stack up against Apple’s Mac Studio for local AI work")
