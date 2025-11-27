@@ -49,6 +49,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Snap Package Manager Cheatsheet](https://www.glukhov.org/post/2025/11/snap-cheatsheet-package-manager-ubuntu/ "Snap package management on Ubuntu. Learn to install, update, manage snaps, understand channels, confinement, and troubleshoot common issues with this comprehensive guide.")
 - [Flatpak Cheatsheet: Universal Linux Package Manager](https://www.glukhov.org/post/2025/11/flatpak-cheatsheet-package-manager-ubuntu/ "Guide to Flatpak on Ubuntu and Linux. Learn to install, manage, and troubleshoot Flatpak apps from Flathub with sandboxing, permissions, and best practices")
 - [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
+- [Converting Windows Text to Linux Format](https://www.glukhov.org/post/2025/11/conversing-windows-text-to-linux/ "Complete guide to converting Windows CRLF line endings to Linux LF format using dos2unix, sed, and tr with Git configuration for cross-platform development.")
 
 ## Docker and Kuberntetes
 
