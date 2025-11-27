@@ -98,6 +98,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Python Design Patterns for Clean Architecture](https://www.glukhov.org/post/2025/11/python-design-patterns-for-clean-architecture/ "Master SOLID principles, dependency injection, and layered architecture in Python. Learn repository pattern, hexagonal architecture, and domain-driven design for maintainable, testable, and scalable applications.")
 - [FastAPI: Modern High-Performance Python Web Framework](https://www.glukhov.org/post/2025/11/api-in-python-with-fastapi/ "Comprehensive guide to FastAPI—a modern, fast Python web framework for building APIs with automatic documentation, type validation, async support, and production-ready features for scalable applications.")
 - [Build Python Packages: Development to PyPI Guide](https://www.glukhov.org/post/2025/11/building-python-packages-from-development-to-pypi/ "Comprehensive guide to building, packaging, and publishing Python projects to PyPI using modern tools like pyproject.toml, setuptools, Poetry, and automated CI/CD workflows.")
+- [Python Linters: A Guide for Clean Code](https://www.glukhov.org/post/2025/11/linters-for-python/ "Comprehensive guide to Python linters including Ruff, Pylint, Flake8, and mypy for maintaining high code quality in modern development workflows")
 
 
 ## AWS, Flutter, Go and other development
@@ -142,6 +143,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Building CLI Applications in Go with Cobra & Viper](https://www.glukhov.org/post/2025/11/go-cli-applications-with-cobra-and-viper/ "Learn how to build professional command-line applications in Go using Cobra for CLI structure and Viper for configuration management. Complete guide with practical examples and best practices.")
 - [Flutter DevTools: Debug & Optimize Apps](https://www.glukhov.org/post/2025/11/flutter-dev-tools/ "Flutter DevTools is a comprehensive suite of performance profiling and debugging tools for Flutter developers. Learn how to use Widget Inspector, Performance View, Memory Profiler, Network Monitor, and more to build better apps.")
 - [Advanced Anti-Fingerprinting Protection](https://www.glukhov.org/post/2025/11/anti-fingerprinting-techniques-browser-and-network-level/ "Comprehensive guide to browser and network-level anti-fingerprinting techniques, tools, and best practices to protect your digital privacy and prevent tracking across the web.")
+- [Go Linters: Essential Tools for Code Quality](https://www.glukhov.org/post/2025/11/linters-for-go/ "Complete guide to Go linters: golangci-lint, staticcheck, and best practices for automated code quality in Go projects with CI/CD integration.")
 
 ## Latex
 
