@@ -199,6 +199,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://www.glukhov.org/post/2025/11/hosting-llms-ollama-localai-jan-lmstudio-vllm-comparison/ "Comprehensive comparison of 12+ local LLM tools: Ollama, vLLM, LocalAI, Jan, LM Studio, Lemonade, Msty & more. API maturity, tool calling, GGUF support, benchmarks.")
 - [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://www.glukhov.org/post/2025/11/advanced-rag-variants-longrag-self-rag-graphrag/  "Deep dive into advanced RAG variants: LongRAG for long contexts, Self-RAG with self-reflection, and GraphRAG using knowledge graphs. Compare architectures, use cases, and implementation strategies for production AI systems.")
 - [Docker Model Runner: Context Size Config Guide](https://www.glukhov.org/post/2025/11/context-size-in-docker-model-runner/ "Complete guide to configuring context sizes in Docker Model Runner. Learn workarounds for docker-compose limitations, using docker model configure, and packaging models with custom context sizes.")
 - [Adding NVIDIA GPU Support to Docker Model Runner](https://www.glukhov.org/post/2025/11/adding-nvidia-gpu-support-to-docker-model-runner/ "Complete guide to enable NVIDIA GPU acceleration for Docker Model Runner. Step-by-step instructions for configuring CUDA support, Docker daemon settings, and verifying GPU usage for AI model inference.")
