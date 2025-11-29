@@ -103,6 +103,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Adding Swagger to Go API](https://www.glukhov.org/post/2025/11/adding-swagger-to-api-in-go/ "Learn to generate and serve OpenAPI documentation with swaggo, integrate Swagger UI in Gin/Echo/Fiber apps, and follow best practices for Go API documentation.")
 - [Go Microservices for AI/ML Orchestration](https://www.glukhov.org/post/2025/11/go-microservices-for-ai-ml-orchestration-patterns/ "Explore proven patterns for building scalable AI/ML orchestration systems using Go microservices. Learn event-driven architectures, workflow engines, and best practices for production deployments.")
 - [Building REST APIs in Go: Complete Guide](https://www.glukhov.org/post/2025/11/implementing-api-in-go/ "A comprehensive guide to implementing RESTful APIs in Go, covering standard library approaches, frameworks, authentication, testing patterns, and production-ready best practices for scalable backend services.")
 - [Go Unit Testing: Structure & Best Practices](https://www.glukhov.org/post/2025/11/unit-tests-in-go/ "Master Go unit testing with built-in testing package, table-driven tests, mocks, coverage analysis, and industry best practices for robust Go applications.")
