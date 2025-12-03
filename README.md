@@ -263,6 +263,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+- [RAM Price Surge: Up to 619% in 2025](https://www.glukhov.org/post/2025/12/ram-price-increase/ "RAM prices surged 163-619% across global markets in late 2025: AI data center demand, supply constraints, and DDR5 pricing trends. Impact on PC builds and future outlook.")
 - [NVidia RTX 5080 and RTX 5090 prices in Australia - November 2025](https://www.glukhov.org/post/2025/11/nvidia-rtx-5080-rtx-5090-australia-prices-november-2025/ "Dynamics of NVidia RTX 5080 and RTX 5090 prices in Australia in November 2025")
 - [AI Infrastructure on Consumer Hardware](https://www.glukhov.org/post/2025/11/building-team-ai-infrastructure-on-consumer-hardware/ "Deploying self-hosted AI infrastructure for teams using consumer GPUs, open-source LLMs, and cost-effective solutions that rival cloud services while maintaining privacy.")
 - [NVIDIA DGX Spark vs Mac Studio vs RTX-4080: Ollama Performance Comparison](https://www.glukhov.org/post/2025/10/dgx-spark-vs-mac-studio-vs-rtx4080/ "Real-world Ollama performance comparison running GPT-OSS 120b (a 117B parameter MoE model with 5.1B active parameters) across NVIDIA DGX Spark, Mac Studio, and RTX 4080. Detailed benchmarks show prompt evaluation, token generation rates, and CPU/GPU offloading behavior for this 65GB model.")
