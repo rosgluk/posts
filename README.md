@@ -103,6 +103,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Using Ollama Web Search API in Go](https://www.glukhov.org/post/2025/12/ollama-web-search-in-go/ "Master Ollama's native Web Search API with Go. Learn to implement web_search and web_fetch, build intelligent search agents with tool calling, and create production-ready Go applications with complete code examples.")
 - [Adding Swagger to Go API](https://www.glukhov.org/post/2025/11/adding-swagger-to-api-in-go/ "Learn to generate and serve OpenAPI documentation with swaggo, integrate Swagger UI in Gin/Echo/Fiber apps, and follow best practices for Go API documentation.")
 - [Go Microservices for AI/ML Orchestration](https://www.glukhov.org/post/2025/11/go-microservices-for-ai-ml-orchestration-patterns/ "Explore proven patterns for building scalable AI/ML orchestration systems using Go microservices. Learn event-driven architectures, workflow engines, and best practices for production deployments.")
 - [Building REST APIs in Go: Complete Guide](https://www.glukhov.org/post/2025/11/implementing-api-in-go/ "A comprehensive guide to implementing RESTful APIs in Go, covering standard library approaches, frameworks, authentication, testing patterns, and production-ready best practices for scalable backend services.")
@@ -200,6 +201,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
+- [Vector Stores for RAG Comparison](https://www.glukhov.org/post/2025/12/vector-stores-for-rag-comparison/ "Comprehensive comparison of vector databases for Retrieval Augmented Generation: Pinecone, Chroma, Weaviate, Milvus, Qdrant, FAISS, and pgvector. Performance, features, and use cases.")
 - [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://www.glukhov.org/post/2025/11/hosting-llms-ollama-localai-jan-lmstudio-vllm-comparison/ "Comprehensive comparison of 12+ local LLM tools: Ollama, vLLM, LocalAI, Jan, LM Studio, Lemonade, Msty & more. API maturity, tool calling, GGUF support, benchmarks.")
 - [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://www.glukhov.org/post/2025/11/advanced-rag-variants-longrag-self-rag-graphrag/  "Deep dive into advanced RAG variants: LongRAG for long contexts, Self-RAG with self-reflection, and GraphRAG using knowledge graphs. Compare architectures, use cases, and implementation strategies for production AI systems.")
 - [Docker Model Runner: Context Size Config Guide](https://www.glukhov.org/post/2025/11/context-size-in-docker-model-runner/ "Complete guide to configuring context sizes in Docker Model Runner. Learn workarounds for docker-compose limitations, using docker model configure, and packaging models with custom context sizes.")
