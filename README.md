@@ -283,6 +283,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Is the Quadro RTX 5880 Ada 48GB Any Good?](https://www.glukhov.org/post/2025/06/rtx-5880-ada/ "Is the Quadro RTX 5880 Ada 48GB Any Good?")
 - [Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025](https://www.glukhov.org/post/2025/06/nvidia-rtx-5080-rtx-5090-prices-australia/ "Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025")
 - [NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025](https://www.glukhov.org/post/2025/07/nvidia-rtx-5080-rtx-5090-prices-july-2025/ "NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025")
+- [RAM Price in Australia - December 2025](https://www.glukhov.org/post/2025/12/ram-price-in-australia-december-2025/ "RAM Price in Australia in December 2025")
 
 ## Melbourne
 
