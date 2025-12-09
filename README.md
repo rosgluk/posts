@@ -190,6 +190,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AI & Object Detection
 
+- [Jupyter Notebook Cheatsheet](https://www.glukhov.org/post/2025/12/jupyter-notebook-cheatsheet/ "Essential Jupyter Notebook shortcuts, magic commands, and productivity tips for data scientists and developers working with Python.")
 - https://www.glukhov.org/post/2019/object-detection-with-tensorflow/
 - https://www.glukhov.org/post/2024/07/label-studio-object-detection/
 - [Running FLUX.1-dev GGUF Q8 in Python](https://www.glukhov.org/post/2025/11/quantized-flux-1-dev-with-gguf/ "Learn how to use GGUF quantized FLUX.1-dev models to reduce memory requirements from 24GB to 12GB while maintaining image quality. Complete Python implementation guide with diffusers library.")
