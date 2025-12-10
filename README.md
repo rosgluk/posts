@@ -104,6 +104,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Dependency Injection in Go: Patterns & Best Practices](https://www.glukhov.org/post/2025/12/dependency-injection-in-go/ "Master dependency injection in Go with constructor injection, interfaces, DI frameworks like Wire and Dig, and best practices for testable, maintainable code.")
 - [Parallel Table-Driven Tests in Go](https://www.glukhov.org/post/2025/12/parallel-table-driven-tests-in-go/ "Parallel execution of table-driven tests in Go: Learn best practices, avoid race conditions, and optimize test performance with t.Parallel() and subtests.")
 - [Using Ollama Web Search API in Go](https://www.glukhov.org/post/2025/12/ollama-web-search-in-go/ "Master Ollama's native Web Search API with Go. Learn to implement web_search and web_fetch, build intelligent search agents with tool calling, and create production-ready Go applications with complete code examples.")
 - [Adding Swagger to Go API](https://www.glukhov.org/post/2025/11/adding-swagger-to-api-in-go/ "Learn to generate and serve OpenAPI documentation with swaggo, integrate Swagger UI in Gin/Echo/Fiber apps, and follow best practices for Go API documentation.")
