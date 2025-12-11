@@ -253,6 +253,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Hugo
 
+- [Deploy Hugo Site to AWS S3 with AWS CLI](https://www.glukhov.org/post/2025/12/hugo-website-deployment-to-aws-s3-with-aws-cli/ "Complete guide to deploying Hugo static sites to AWS S3 using AWS CLI, including CloudFront setup, cache management, and automation strategies")
 - [Hugo Caching Strategies for Performance](https://www.glukhov.org/post/2025/11/hugo-caching-strategies/ "Master Hugo caching: build cache, incremental builds, CDN optimization, HTTP headers, and asset caching for faster static sites.")
 - [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
