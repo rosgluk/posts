@@ -101,6 +101,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Build Python Packages: Development to PyPI Guide](https://www.glukhov.org/post/2025/11/building-python-packages-from-development-to-pypi/ "Comprehensive guide to building, packaging, and publishing Python projects to PyPI using modern tools like pyproject.toml, setuptools, Poetry, and automated CI/CD workflows.")
 - [Python Linters: A Guide for Clean Code](https://www.glukhov.org/post/2025/11/linters-for-python/ "Comprehensive guide to Python linters including Ruff, Pylint, Flake8, and mypy for maintaining high code quality in modern development workflows")
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
+- [Dependency Injection: a Python Way](https://www.glukhov.org/post/2025/12/dependency-injection-in-python/ "Master dependency injection in Python with constructor injection, DI frameworks, protocols, and best practices for testable, maintainable code.")
 
 
 ## AWS, Flutter, Go and other development
