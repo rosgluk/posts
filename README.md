@@ -51,6 +51,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Flatpak Cheatsheet: Universal Linux Package Manager](https://www.glukhov.org/post/2025/11/flatpak-cheatsheet-package-manager-ubuntu/ "Guide to Flatpak on Ubuntu and Linux. Learn to install, manage, and troubleshoot Flatpak apps from Flathub with sandboxing, permissions, and best practices")
 - [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
 - [Converting Windows Text to Linux Format](https://www.glukhov.org/post/2025/11/conversing-windows-text-to-linux/ "Complete guide to converting Windows CRLF line endings to Linux LF format using dos2unix, sed, and tr with Git configuration for cross-platform development.")
+- [Snap vs Flatpak: Ultimate Guide for 2025](https://www.glukhov.org/post/2025/12/snap-vs-flatpack/ "Comprehensive comparison of Snap and Flatpak universal package managers: architecture, performance, security, and which one fits your Linux workflow best.")
 
 ## Docker and Kuberntetes
 
@@ -106,6 +107,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Go Project Structure: Practices & Patterns](https://www.glukhov.org/post/2025/12/go-project-structure/ "Master Go project layouts with proven patterns from flat structures to hexagonal architecture. Learn when to use cmd/, internal/, pkg/ and avoid common pitfalls.")
 - [Dependency Injection in Go: Patterns & Best Practices](https://www.glukhov.org/post/2025/12/dependency-injection-in-go/ "Master dependency injection in Go with constructor injection, interfaces, DI frameworks like Wire and Dig, and best practices for testable, maintainable code.")
 - [Parallel Table-Driven Tests in Go](https://www.glukhov.org/post/2025/12/parallel-table-driven-tests-in-go/ "Parallel execution of table-driven tests in Go: Learn best practices, avoid race conditions, and optimize test performance with t.Parallel() and subtests.")
 - [Using Ollama Web Search API in Go](https://www.glukhov.org/post/2025/12/ollama-web-search-in-go/ "Master Ollama's native Web Search API with Go. Learn to implement web_search and web_fetch, build intelligent search agents with tool calling, and create production-ready Go applications with complete code examples.")
