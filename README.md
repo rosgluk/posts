@@ -69,6 +69,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
 - [Helm Charts: Kubernetes Package Management](https://www.glukhov.org/post/2025/11/helm-charts-for-kubernetes-packages/ "Creating, managing, and deploying Helm Charts for Kubernetes. Comprehensive guide covering chart structure, templating, values management, OCI registries, and production best practices for DevOps teams")
 - [StatefulSets & Persistent Storage in K8s](https://www.glukhov.org/post/2025/11/statefulsets-and-persistent-storage-in-kubernetes/ "Learn how Kubernetes StatefulSets manage stateful applications with stable identities, ordered deployments, and persistent storage through PersistentVolumeClaims and volumeClaimTemplates for databases and distributed systems.")
+- [Show Git Branch & Status in Bash Prompt](https://www.glukhov.org/post/2025/12/adding-git-repo-details-to-bash-prompt/ "Learn how to customize your bash prompt to display git repository information including branch names, commit status, and file changes for enhanced productivity.")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
@@ -272,6 +273,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Opengraph image metadata in Hugo static site generator](https://www.glukhov.org/post/2025/07/opengraph-image-metadata-in-hugo/ "Description how Hugo generates Opengraph Image Metadata for the website")
 - [How to add a page number to the blog post list page title in Hugo](https://www.glukhov.org/post/2025/08/add-pagenumber-to-post-list-title-in-hugo-website/ "Description and example on wow to add a page number to the blog post list page title in Hugo")
 - [Converting Word Documents to Markdown: A Complete Guide](https://www.glukhov.org/post/2025/09/converting-word-document-to-markdown/ "How to Convert Word Documents to Markdown: A Complete Guide for IOS, Windows and Linux")
+- [SEO Breadcrumbs: Schema Markup Implementation Guide](https://www.glukhov.org/post/2025/12/breadcrumbs-for-seo/ "Master breadcrumb navigation with JSON-LD schema markup to boost SEO rankings and enhance user experience on your website in 2025")
 
 ## Drivers and Hardware
 
