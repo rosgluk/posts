@@ -211,6 +211,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/post/2025/12/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
 - [Vector Stores for RAG Comparison](https://www.glukhov.org/post/2025/12/vector-stores-for-rag-comparison/ "Comprehensive comparison of vector databases for Retrieval Augmented Generation: Pinecone, Chroma, Weaviate, Milvus, Qdrant, FAISS, and pgvector. Performance, features, and use cases.")
 - [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://www.glukhov.org/post/2025/11/hosting-llms-ollama-localai-jan-lmstudio-vllm-comparison/ "Comprehensive comparison of 12+ local LLM tools: Ollama, vLLM, LocalAI, Jan, LM Studio, Lemonade, Msty & more. API maturity, tool calling, GGUF support, benchmarks.")
