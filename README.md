@@ -105,6 +105,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Python Linters: A Guide for Clean Code](https://www.glukhov.org/post/2025/11/linters-for-python/ "Comprehensive guide to Python linters including Ruff, Pylint, Flake8, and mypy for maintaining high code quality in modern development workflows")
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
 - [Dependency Injection: a Python Way](https://www.glukhov.org/post/2025/12/dependency-injection-in-python/ "Master dependency injection in Python with constructor injection, DI frameworks, protocols, and best practices for testable, maintainable code.")
+- [BAML vs Instructor: Structured LLM Outputs](https://www.glukhov.org/post/2025/12/baml-vs-instruct-for-structured-output-llm-in-python/ "Compare BAML and Instructor frameworks for type-safe structured outputs from LLMs in Python. Learn implementation patterns, performance, and best practices.")
 
 
 ## AWS, Flutter, Go and other development
@@ -256,6 +257,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models)
 - [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
 - [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
+- [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/post/2025/12/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
 
 
 ## Hugo
