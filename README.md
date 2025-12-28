@@ -208,6 +208,7 @@ This page contains links to my posts about software development, AI, experiments
 - [AI & LLMs](https://glukhov.au/posts/2024/llms/)
 - [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
 - [Linux Data Science Stack: Jupyter, Pandas & Tools](https://www.glukhov.org/post/2025/11/linux-for-data-science-jupyter-pandas-tools/ "A Guide to setting up a powerful Linux environment for data science with Jupyter, Pandas, Anaconda, and essential tools - optimization tips, best practices, and workflow automation for efficient data analysis.")
+- [Detecting AI Slop: Techniques & Red Flags](https://www.glukhov.org/post/2025/12/ai-slop-detection/ "Learn practical methods for identifying low-quality AI-generated content, including detection tools, linguistic patterns, and technical approaches.")
 
 
 ## LLMs, Docker Model Runner, and Ollama
