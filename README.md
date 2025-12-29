@@ -106,6 +106,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
 - [Dependency Injection: a Python Way](https://www.glukhov.org/post/2025/12/dependency-injection-in-python/ "Master dependency injection in Python with constructor injection, DI frameworks, protocols, and best practices for testable, maintainable code.")
 - [BAML vs Instructor: Structured LLM Outputs](https://www.glukhov.org/post/2025/12/baml-vs-instruct-for-structured-output-llm-in-python/ "Compare BAML and Instructor frameworks for type-safe structured outputs from LLMs in Python. Learn implementation patterns, performance, and best practices.")
+- [Playwright: Web Scraping & Testing](https://www.glukhov.org/post/2025/12/playwright-for-scraping-and-testing-webapps/ "Complete guide to Playwright for web scraping, testing, and browser automation with Python, JavaScript, and TypeScript examples for modern web apps.")
 
 
 ## AWS, Flutter, Go and other development
