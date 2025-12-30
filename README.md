@@ -107,6 +107,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Dependency Injection: a Python Way](https://www.glukhov.org/post/2025/12/dependency-injection-in-python/ "Master dependency injection in Python with constructor injection, DI frameworks, protocols, and best practices for testable, maintainable code.")
 - [BAML vs Instructor: Structured LLM Outputs](https://www.glukhov.org/post/2025/12/baml-vs-instruct-for-structured-output-llm-in-python/ "Compare BAML and Instructor frameworks for type-safe structured outputs from LLMs in Python. Learn implementation patterns, performance, and best practices.")
 - [Playwright: Web Scraping & Testing](https://www.glukhov.org/post/2025/12/playwright-for-scraping-and-testing-webapps/ "Complete guide to Playwright for web scraping, testing, and browser automation with Python, JavaScript, and TypeScript examples for modern web apps.")
+- [Extract Text from PDFs with PDFMiner in Python](https://www.glukhov.org/post/2025/12/extract-text-from-pdf-using-pdfminer-python/ "Learn how to extract text from PDF files using PDFMiner.six in Python with practical examples, layout analysis, and performance optimization techniques")
 
 
 ## AWS, Flutter, Go and other development
