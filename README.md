@@ -196,6 +196,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
 - [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
 - [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
+- [DIY Printing Planner Inserts: 3 ways to do](https://www.glukhov.org/post/2025/12/diy-printing-planner-inserts/ "Comprehensive guide to printing custom planner inserts using booklet binding software")
 
 
 ## AI & Object Detection
