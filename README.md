@@ -301,6 +301,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025](https://www.glukhov.org/post/2025/06/nvidia-rtx-5080-rtx-5090-prices-australia/ "Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025")
 - [NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025](https://www.glukhov.org/post/2025/07/nvidia-rtx-5080-rtx-5090-prices-july-2025/ "NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025")
 - [RAM Price in Australia - December 2025](https://www.glukhov.org/post/2025/12/ram-price-in-australia-december-2025/ "RAM Price in Australia in December 2025")
+- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://www.glukhov.org/post/2026/01/dgx-spark-pricing-in-australia/ "NVIDIA DGX Spark now available in Australia from $6,249 AUD. Compare prices at Centrecom, Scorptec, PCCaseGear, and PLE - ASUS Ascent GX10 & MSI EdgeXpert GB10 configs.")
 
 ## Melbourne
 
