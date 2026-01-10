@@ -197,8 +197,6 @@ This page contains links to my posts about software development, AI, experiments
 - [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
 - [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
 - [DIY Printing Planner Inserts: 3 ways to do](https://www.glukhov.org/post/2025/12/diy-printing-planner-inserts/ "Comprehensive guide to printing custom planner inserts using booklet binding software")
-- [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/ "Comprehensive guide to tech conferences, meetups, and developer events in Melbourne throughout 2026, covering AI, DevOps, Python, security, and more")
-
 
 ## AI & Object Detection
 
@@ -307,6 +305,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Melbourne
 
+- [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/ "Comprehensive guide to tech conferences, meetups, and developer events in Melbourne throughout 2026, covering AI, DevOps, Python, security, and more")
 - [Tech Events in Melbourne in 2025-2026](https://www.glukhov.org/post/2025/08/tech-events-in-melbourne-2025-2026/ "Software development, cloud, IT, and AI-related conferences, meetups, and workshops happening in Melbourne from mid-2025 through the end of 2026")
 - [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
 
