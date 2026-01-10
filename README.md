@@ -197,6 +197,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
 - [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
 - [DIY Printing Planner Inserts: 3 ways to do](https://www.glukhov.org/post/2025/12/diy-printing-planner-inserts/ "Comprehensive guide to printing custom planner inserts using booklet binding software")
+- [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/ "Comprehensive guide to tech conferences, meetups, and developer events in Melbourne throughout 2026, covering AI, DevOps, Python, security, and more")
 
 
 ## AI & Object Detection
