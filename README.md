@@ -215,6 +215,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Open WebUI: Self-Hosted LLM Interface](https://www.glukhov.org/post/2026/01/open-webui-overview-quickstart-and-alternatives/ "Complete guide to Open WebUI: a powerful self-hosted web interface for Ollama and OpenAI-compatible APIs with RAG, multi-user auth, and Docker deployment.")
 - [vLLM Quickstart: High-Performance LLM Serving](https://www.glukhov.org/post/2026/01/vllm-quickstart/ "Complete vLLM setup guide with Docker, OpenAI API compatibility, PagedAttention optimization. Compare vLLM vs Ollama vs Docker Model Runner for production.")
 - [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/post/2025/12/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
