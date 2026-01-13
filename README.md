@@ -54,6 +54,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Snap vs Flatpak: Ultimate Guide for 2025](https://www.glukhov.org/post/2025/12/snap-vs-flatpack/ "Comprehensive comparison of Snap and Flatpak universal package managers: architecture, performance, security, and which one fits your Linux workflow best.")
 - [Show Git Branch & Status in Bash Prompt](https://www.glukhov.org/post/2025/12/adding-git-repo-details-to-bash-prompt/ "Learn how to customize your bash prompt to display git repository information including branch names, commit status, and file changes for enhanced productivity.")
 - [Install KVM on Ubuntu 24.04](https://www.glukhov.org/post/2025/12/install-kvm-ubuntu-24-04/ "How to Install KVM on Ubuntu 24.04 - step-by-step")
+- [Best Linux Terminal Emulators: 2026 Comparison](https://www.glukhov.org/post/2026/01/terminal-emulators-for-linux-comparison/ "Compare top Linux terminal emulators: Alacritty, Kitty, WezTerm, GNOME Terminal, and more. Features, performance, and customization options reviewed.")
 
 ## Docker and Kuberntetes
 
