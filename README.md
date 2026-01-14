@@ -109,6 +109,7 @@ This page contains links to my posts about software development, AI, experiments
 - [BAML vs Instructor: Structured LLM Outputs](https://www.glukhov.org/post/2025/12/baml-vs-instruct-for-structured-output-llm-in-python/ "Compare BAML and Instructor frameworks for type-safe structured outputs from LLMs in Python. Learn implementation patterns, performance, and best practices.")
 - [Playwright: Web Scraping & Testing](https://www.glukhov.org/post/2025/12/playwright-for-scraping-and-testing-webapps/ "Complete guide to Playwright for web scraping, testing, and browser automation with Python, JavaScript, and TypeScript examples for modern web apps.")
 - [Extract Text from PDFs with PDFMiner in Python](https://www.glukhov.org/post/2025/12/extract-text-from-pdf-using-pdfminer-python/ "Learn how to extract text from PDF files using PDFMiner.six in Python with practical examples, layout analysis, and performance optimization techniques")
+- [Curated List of Articles about Coding in Python](https://glukhov.au/posts/2026/python-coding/ "Curated List of Articles about Coding in Python")
 
 
 ## AWS, Flutter, Go and other development
@@ -159,6 +160,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Flutter DevTools: Debug & Optimize Apps](https://www.glukhov.org/post/2025/11/flutter-dev-tools/ "Flutter DevTools is a comprehensive suite of performance profiling and debugging tools for Flutter developers. Learn how to use Widget Inspector, Performance View, Memory Profiler, Network Monitor, and more to build better apps.")
 - [Advanced Anti-Fingerprinting Protection](https://www.glukhov.org/post/2025/11/anti-fingerprinting-techniques-browser-and-network-level/ "Comprehensive guide to browser and network-level anti-fingerprinting techniques, tools, and best practices to protect your digital privacy and prevent tracking across the web.")
 - [Go Linters: Essential Tools for Code Quality](https://www.glukhov.org/post/2025/11/linters-for-go/ "Complete guide to Go linters: golangci-lint, staticcheck, and best practices for automated code quality in Go projects with CI/CD integration.")
+- [Collection of articles about coding in Golang](https://glukhov.au/posts/2026/go-coding/)
 
 ## Latex
 
@@ -310,6 +312,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/ "Comprehensive guide to tech conferences, meetups, and developer events in Melbourne throughout 2026, covering AI, DevOps, Python, security, and more")
 - [Tech Events in Melbourne in 2025-2026](https://www.glukhov.org/post/2025/08/tech-events-in-melbourne-2025-2026/ "Software development, cloud, IT, and AI-related conferences, meetups, and workshops happening in Melbourne from mid-2025 through the end of 2026")
 - [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
+- [Calendar of IT Events, CTech Converences and MeetUps in Melbourne](https://glukhov.au/posts/2026/melbourne-tech-events-2026/)
 
 ## Tags:
 - [Python space](https://www.glukhov.org/tags/python)
