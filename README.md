@@ -87,6 +87,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Python Coding incl AWS
 
+- [Anaconda vs Miniconda vs Mamba Comparison](https://www.glukhov.org/post/2026/01/anaconda-vs-miniconda-vs-mamba/ "Complete comparison of Anaconda, Miniconda, and Mamba for Python package management. Learn installation, performance differences, and when to use each tool for data science and development.")
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 - [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
 - [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
