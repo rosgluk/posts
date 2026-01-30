@@ -87,6 +87,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Python Coding incl AWS
 
+- [Top 17 Trending Python Projects on GitHub](https://www.glukhov.org/post/2026/01/most-popular-python-projects-on-github/ "Discover the hottest Python projects on GitHub this month, ranked by stars gained. Claude Skills dominate with AI agents, RAG frameworks, and development tools leading the charge.")
 - [Anaconda vs Miniconda vs Mamba Comparison](https://www.glukhov.org/post/2026/01/anaconda-vs-miniconda-vs-mamba/ "Complete comparison of Anaconda, Miniconda, and Mamba for Python package management. Learn installation, performance differences, and when to use each tool for data science and development.")
 - [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
 - [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
