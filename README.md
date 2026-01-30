@@ -164,6 +164,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Advanced Anti-Fingerprinting Protection](https://www.glukhov.org/post/2025/11/anti-fingerprinting-techniques-browser-and-network-level/ "Comprehensive guide to browser and network-level anti-fingerprinting techniques, tools, and best practices to protect your digital privacy and prevent tracking across the web.")
 - [Go Linters: Essential Tools for Code Quality](https://www.glukhov.org/post/2025/11/linters-for-go/ "Complete guide to Go linters: golangci-lint, staticcheck, and best practices for automated code quality in Go projects with CI/CD integration.")
 - [Collection of articles about coding in Golang](https://glukhov.au/posts/2026/go-coding/)
+- [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
 
 ## Latex
 
