@@ -223,6 +223,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [LLM Self-Hosting and AI Sovereignty](https://www.glukhov.org/post/2026/02/llm-selfhosting-and-ai-sovereignty/ "Why and how self-hosted LLMs support AI sovereignty: control, data residency, and compliance for orgs and nations.")
 - [Comparing LLMs performance on Ollama on 16GB VRAM GPU](https://www.glukhov.org/post/2026/01/choosing-best-llm-for-ollama-on-16gb-vram-gpu/ "Benchmark of 9 LLMs on RTX 4080 16GB with Ollama 0.15.2. Compare tokens/sec, VRAM usage, and CPU offloading for GPT-OSS, Qwen3, Mistral, and more.")
 - [Open WebUI: Self-Hosted LLM Interface](https://www.glukhov.org/post/2026/01/open-webui-overview-quickstart-and-alternatives/ "Complete guide to Open WebUI: a powerful self-hosted web interface for Ollama and OpenAI-compatible APIs with RAG, multi-user auth, and Docker deployment.")
 - [vLLM Quickstart: High-Performance LLM Serving](https://www.glukhov.org/post/2026/01/vllm-quickstart/ "Complete vLLM setup guide with Docker, OpenAI API compatibility, PagedAttention optimization. Compare vLLM vs Ollama vs Docker Model Runner for production.")
