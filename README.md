@@ -117,6 +117,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Terminal UI: BubbleTea (Go) vs Ratatui (Rust)](https://www.glukhov.org/post/2026/02/tui-frameworks-bubbletea-go-vs-ratatui-rust/ "BubbleTea and Ratatui compared: Elm-style vs immediate mode, Crush and 2000+ crates, Netflix/OpenAI/AWS. One example each; when to choose which.")
 - [Top 19 Trending Go Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-go-projects-on-github/ "Discover the hottest Go projects on GitHub this month, ranked by stars gained. From AI coding agents to Docker management, self-hosted apps to LLM gateways - complete overview with stats, licenses, and use cases.")
 - [Go Project Structure: Practices & Patterns](https://www.glukhov.org/post/2025/12/go-project-structure/ "Master Go project layouts with proven patterns from flat structures to hexagonal architecture. Learn when to use cmd/, internal/, pkg/ and avoid common pitfalls.")
 - [Dependency Injection in Go: Patterns & Best Practices](https://www.glukhov.org/post/2025/12/dependency-injection-in-go/ "Master dependency injection in Go with constructor injection, interfaces, DI frameworks like Wire and Dig, and best practices for testable, maintainable code.")
