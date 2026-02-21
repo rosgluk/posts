@@ -173,6 +173,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Latex
 
+- [Documentation Tools in 2026: Markdown, LaTeX, PDF & Printing Workflows](https://www.glukhov.org/documentation-tools/ "Practical guides for Markdown, LaTeX, PDF processing and document printing workflows. Conversion tools, formatting tips, and automation techniques.")
 - [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
 - [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
 - [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
@@ -227,6 +228,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [LLM Performance in 2026: Benchmarks, Bottlenecks & Optimization](https://www.glukhov.org/llm-performance/ "Practical LLM performance engineering: throughput vs latency, VRAM limits, parallel requests, memory allocation, and benchmarks across runtimes and hardware.")
+- [LLM Hosting in 2026: Local, Self-Hosted & Cloud Infrastructure Compared](https://www.glukhov.org/llm-hosting/ "Complete guide to LLM hosting in 2026. Compare Ollama, vLLM, Docker Model Runner, LocalAI and cloud providers. Learn cost, performance, and infrastructure trade-offs.")
 - [LLM Self-Hosting and AI Sovereignty](https://www.glukhov.org/post/2026/02/llm-selfhosting-and-ai-sovereignty/ "Why and how self-hosted LLMs support AI sovereignty: control, data residency, and compliance for orgs and nations.")
 - [Comparing LLMs performance on Ollama on 16GB VRAM GPU](https://www.glukhov.org/post/2026/01/choosing-best-llm-for-ollama-on-16gb-vram-gpu/ "Benchmark of 9 LLMs on RTX 4080 16GB with Ollama 0.15.2. Compare tokens/sec, VRAM usage, and CPU offloading for GPT-OSS, Qwen3, Mistral, and more.")
 - [Open WebUI: Self-Hosted LLM Interface](https://www.glukhov.org/post/2026/01/open-webui-overview-quickstart-and-alternatives/ "Complete guide to Open WebUI: a powerful self-hosted web interface for Ollama and OpenAI-compatible APIs with RAG, multi-user auth, and Docker deployment.")
@@ -300,6 +303,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Drivers and Hardware
 
+- [Compute Hardware in 2026: GPUs, CPUs, Memory & AI Workstations](https://www.glukhov.org/hardware/ "Analysis of GPUs, CPUs, RAM pricing, AI workstations and compute infrastructure trends. Hardware economics and performance considerations for modern workloads.")
 - [Hardware Price Crisis: GPUs and RAM in 2025-2026](https://glukhov.au/posts/2026/hardware-pricehikes/ "Hardware Price Crisis: GPUs and RAM in 2025-2026")
 - [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://www.glukhov.org/post/2026/01/ram-and-gpu-price-increase/ "RTX 5090 prices jumped 15.2% to $5,566, RTX 5080 rose 6% to $1,899, and RAM surged 38% to $689 in Australia. Latest price analysis for January 2026 across Centrecom, PCCG, and Scorptec.")
 - [RAM Price Surge: Up to 619% in 2025](https://www.glukhov.org/post/2025/12/ram-price-increase/ "RAM prices surged 163-619% across global markets in late 2025: AI data center demand, supply constraints, and DDR5 pricing trends. Impact on PC builds and future outlook.")
