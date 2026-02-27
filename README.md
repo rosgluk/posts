@@ -228,6 +228,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Chunking Strategies in RAG Comparison: Alternatives, Trade‑offs, and Examples](https://www.glukhov.org/rag/retrieval/chunking-strategies-in-rag/ "A rigorous, engineering‑first guide to chunking for RAG: fixed vs semantic vs hierarchical chunking, evaluation dimensions, decision matrix, and runnable Python implementations with FAISS/Chroma/Weaviate and OpenAI embeddings.")
 - [LLM Performance in 2026: Benchmarks, Bottlenecks & Optimization](https://www.glukhov.org/llm-performance/ "Practical LLM performance engineering: throughput vs latency, VRAM limits, parallel requests, memory allocation, and benchmarks across runtimes and hardware.")
 - [LLM Hosting in 2026: Local, Self-Hosted & Cloud Infrastructure Compared](https://www.glukhov.org/llm-hosting/ "Complete guide to LLM hosting in 2026. Compare Ollama, vLLM, Docker Model Runner, LocalAI and cloud providers. Learn cost, performance, and infrastructure trade-offs.")
 - [LLM Self-Hosting and AI Sovereignty](https://www.glukhov.org/post/2026/02/llm-selfhosting-and-ai-sovereignty/ "Why and how self-hosted LLMs support AI sovereignty: control, data residency, and compliance for orgs and nations.")
