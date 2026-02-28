@@ -228,6 +228,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLMs, Docker Model Runner, and Ollama
 
+- [Observability for LLM Systems: Metrics, Traces, Logs, and Testing in Production](https://www.glukhov.org/observability/observability-for-llm-systems/ "A deep, production-minded guide to observability for LLM systems, covering LLM metrics, distributed tracing, logs, profiling, synthetic testing, SLOs, and an LLM observability tools comparison (Prometheus, Grafana, OpenTelemetry, Jaeger/Tempo, Loki/ELK, DCGM, and major APM platforms).")
 - [Chunking Strategies in RAG Comparison: Alternatives, Trade‑offs, and Examples](https://www.glukhov.org/rag/retrieval/chunking-strategies-in-rag/ "A rigorous, engineering‑first guide to chunking for RAG: fixed vs semantic vs hierarchical chunking, evaluation dimensions, decision matrix, and runnable Python implementations with FAISS/Chroma/Weaviate and OpenAI embeddings.")
 - [LLM Performance in 2026: Benchmarks, Bottlenecks & Optimization](https://www.glukhov.org/llm-performance/ "Practical LLM performance engineering: throughput vs latency, VRAM limits, parallel requests, memory allocation, and benchmarks across runtimes and hardware.")
 - [LLM Hosting in 2026: Local, Self-Hosted & Cloud Infrastructure Compared](https://www.glukhov.org/llm-hosting/ "Complete guide to LLM hosting in 2026. Compare Ollama, vLLM, Docker Model Runner, LocalAI and cloud providers. Learn cost, performance, and infrastructure trade-offs.")
