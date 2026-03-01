@@ -4,6 +4,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Linux & ops
 
+- [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
 - [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
 - [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
@@ -119,6 +120,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AWS, Flutter, Go and other development
 
+- [Implementing Workflow Applications with Temporal in Go: A Complete Guide](https://www.glukhov.org/post/2026/03/workflow-applications-temporal-in-go/ "Learn how to implement workflow applications with Temporal in Go using the official Temporal Go SDK. This end-to-end guide covers configuration, examples, deployment, troubleshooting, and best practices for building scalable, resilient workflows.")
 - [Create AWS CloudFront on Pay-as-You-Go (not the Free) Plan](https://www.glukhov.org/post/2026/02/create-aws-cloudfront-distribution-pay-as-you-go-instead-of-free/ "Use AWS CLI to create a CloudFront distribution on pay-as-you-go pricing when the console only offers Free or Pro flat-rate plans.")
 - [Terminal UI: BubbleTea (Go) vs Ratatui (Rust)](https://www.glukhov.org/post/2026/02/tui-frameworks-bubbletea-go-vs-ratatui-rust/ "BubbleTea and Ratatui compared: Elm-style vs immediate mode, Crush and 2000+ crates, Netflix/OpenAI/AWS. One example each; when to choose which.")
 - [Top 19 Trending Go Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-go-projects-on-github/ "Discover the hottest Go projects on GitHub this month, ranked by stars gained. From AI coding agents to Docker management, self-hosted apps to LLM gateways - complete overview with stats, licenses, and use cases.")
