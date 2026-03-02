@@ -5,6 +5,7 @@ This page contains links to my posts about software development, AI, experiments
 ## Linux & ops
 
 - [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
+- [Garage vs MinIO vs AWS S3: Object Storage Comparison and Feature Matrix](https://www.glukhov.org/data-infrastructure/object-storage/garage-vs-minio-vs-s3/ "Compare MinIO, Garage, and AWS S3 for object storage. Feature matrix, cost model, operational complexity, and when to choose each—managed S3, self-hosted Garage, or MinIO with broad S3 parity.")
 - [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
 - [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
