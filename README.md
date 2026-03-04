@@ -38,7 +38,6 @@ This page contains links to my posts about software development, AI, experiments
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
 - [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
-- [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
 - [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
@@ -64,7 +63,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
 - [Monitor LLM Inference in Production (2026): Prometheus & Grafana for vLLM, TGI, llama.cpp](https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ "Learn how to monitor LLM inference in production using Prometheus and Grafana. Track p95 latency, tokens/sec, queue duration, and KV cache usage across vLLM, TGI, and llama.cpp. Includes PromQL examples, dashboards, alerts, Docker & Kubernetes setups.")
 - [Observability for LLM Systems: Metrics, Traces, Logs, and Testing in Production](https://www.glukhov.org/observability/observability-for-llm-systems/ "A deep, production-minded guide to observability for LLM systems, covering LLM metrics, distributed tracing, logs, profiling, synthetic testing, SLOs, and an LLM observability tools comparison (Prometheus, Grafana, OpenTelemetry, Jaeger/Tempo, Loki/ELK, DCGM, and major APM platforms).")
-
+- [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
 
 ## Docker and Kuberntetes
 
