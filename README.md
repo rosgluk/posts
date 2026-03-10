@@ -178,6 +178,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Go Linters: Essential Tools for Code Quality](https://www.glukhov.org/post/2025/11/linters-for-go/ "Complete guide to Go linters: golangci-lint, staticcheck, and best practices for automated code quality in Go projects with CI/CD integration.")
 - [Collection of articles about coding in Golang](https://glukhov.au/posts/2026/go-coding/)
 - [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
+- [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
 
 ## Latex
 
