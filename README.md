@@ -2,6 +2,10 @@
 
 This page contains links to my posts about software development, AI, experiments and Melbourne it-related events.
 
+## AI DevTools
+
+- [OpenCode Quickstart: Install, Configure, and Use the Terminal AI Coding Agent](https://www.glukhov.org/ai-devtools/opencode/ "A practical OpenCode quickstart for developers: install and verify, connect models/providers, run CLI workflows, use the server + JS SDK, and keep a short cheatsheet.")
+
 ## Linux & ops
 
 - [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
