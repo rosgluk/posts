@@ -8,6 +8,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [LocalAI QuickStart: Run OpenAI-Compatible LLMs Locally](https://www.glukhov.org/llm-hosting/local-ai/ "Learn to install LocalAI, load models from the gallery or Hugging Face, and serve an OpenAI-compatible API plus Web UI for chat, embeddings, images and audio on your own hardware.")
 - [llama.cpp Quickstart with CLI and Server](https://www.glukhov.org/llm-hosting/llama-cpp/_index/ "Install llama.cpp, run GGUF models with llama-cli, and serve OpenAI-compatible APIs using llama-server. Key flags, examples, and tuning tips with a short commands cheatsheet")
 - [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
 - [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
