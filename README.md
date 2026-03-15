@@ -5,6 +5,7 @@ This page contains links to my posts about software development, AI, experiments
 ## AI DevTools
 
 - [OpenCode Quickstart: Install, Configure, and Use the Terminal AI Coding Agent](https://www.glukhov.org/ai-devtools/opencode/ "A practical OpenCode quickstart for developers: install and verify, connect models/providers, run CLI workflows, use the server + JS SDK, and keep a short cheatsheet.")
+- [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
