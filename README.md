@@ -134,6 +134,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Monitor LLM Inference in Production (2026): Prometheus & Grafana for vLLM, TGI, llama.cpp](https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ "Learn how to monitor LLM inference in production using Prometheus and Grafana. Track p95 latency, tokens/sec, queue duration, and KV cache usage across vLLM, TGI, and llama.cpp. Includes PromQL examples, dashboards, alerts, Docker & Kubernetes setups.")
 - [Observability for LLM Systems: Metrics, Traces, Logs, and Testing in Production](https://www.glukhov.org/observability/observability-for-llm-systems/ "A deep, production-minded guide to observability for LLM systems, covering LLM metrics, distributed tracing, logs, profiling, synthetic testing, SLOs, and an LLM observability tools comparison (Prometheus, Grafana, OpenTelemetry, Jaeger/Tempo, Loki/ELK, DCGM, and major APM platforms).")
 - [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
+- [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
 
 ## Docker and Kuberntetes
 
