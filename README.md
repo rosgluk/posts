@@ -126,6 +126,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Best Linux Terminal Emulators: 2026 Comparison](https://www.glukhov.org/post/2026/01/terminal-emulators-for-linux-comparison/ "Compare top Linux terminal emulators: Alacritty, Kitty, WezTerm, GNOME Terminal, and more. Features, performance, and customization options reviewed.")
 - [Wayland vs X11: 2026 Comparison](https://www.glukhov.org/post/2026/01/wayland-vs-x11-comparison/ "Complete comparison of Wayland and X11 display servers: architecture, security, performance, compatibility, and migration guide for Linux users in 2026.")
 - [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://www.glukhov.org/post/2026/02/configure-desktop-launchers-ubuntu-24/ "Create and edit .desktop launchers on Ubuntu 24.04: Icon, Exec, locations, and freedesktop.org spec. Put launchers on Desktop or in applications menu,  with Standard Ubuntu Icons")
+- [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
 
 ## Observability and Monitoring: Prometheus and Grafana
 
