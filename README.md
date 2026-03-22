@@ -13,6 +13,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [llama.swap Model Switcher Quickstart for OpenAI-Compatible Local LLMs](https://www.glukhov.org/llm-hosting/llama-swap/ "Install and configure llama-swap (llama.swap), hot-swap local models via OpenAI or Anthropic APIs, compare with Ollama and LM Studio, and troubleshoot common errors.")
+- [SGLang QuickStart: Install, Configure, and Serve LLMs via OpenAI API](https://www.glukhov.org/llm-hosting/sglang/ "Install SGLang with uv, pip, or Docker; configure YAML and server flags; then serve Hugging Face LLMs with an OpenAI-compatible API plus native /generate and offline Engine examples.")
 - [LocalAI QuickStart: Run OpenAI-Compatible LLMs Locally](https://www.glukhov.org/llm-hosting/local-ai/ "Learn to install LocalAI, load models from the gallery or Hugging Face, and serve an OpenAI-compatible API plus Web UI for chat, embeddings, images and audio on your own hardware.")
 - [llama.cpp Quickstart with CLI and Server](https://www.glukhov.org/llm-hosting/llama-cpp/_index/ "Install llama.cpp, run GGUF models with llama-cli, and serve OpenAI-compatible APIs using llama-server. Key flags, examples, and tuning tips with a short commands cheatsheet")
 - [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
