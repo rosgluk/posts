@@ -266,6 +266,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## Other
 
+- [Hosted email for custom domains compared - Workspace, Microsoft 365, Zoho, Proton, WorkMail](https://www.glukhov.org/web-infrastructure/domain-services/email/ "Google Workspace, Microsoft 365, Zoho, Proton, and AWS WorkMail compared for custom-domain email. Typical monthly cost, what MX and SPF really buy you, deliverability tradeoffs, and when to skip self-hosting.")
 - [Beyond Google: Alternative Search Engines Guide](https://www.glukhov.org/post/2025/10/alternative-search-engines/ "Comprehensive guide to alternative search engines including hosted and self-hosted options, AI-powered search, and privacy-focused alternatives.")
 - [Tor Network Statistics: A Decade of Growth and Challenges (2015-2025)](https://www.glukhov.org/post/2025/10/tor-statistics/ "Comprehensive analysis of Tor network statistics from 2015-2025, examining exit relay and bridge count fluctuations, underlying causes, and implications for network resilience and user accessibility.")
 - [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
@@ -325,6 +326,7 @@ This page contains links to my posts about software development, AI, experiments
 - [How to add a page number to the blog post list page title in Hugo](https://www.glukhov.org/post/2025/08/add-pagenumber-to-post-list-title-in-hugo-website/ "Description and example on wow to add a page number to the blog post list page title in Hugo")
 - [Converting Word Documents to Markdown: A Complete Guide](https://www.glukhov.org/post/2025/09/converting-word-document-to-markdown/ "How to Convert Word Documents to Markdown: A Complete Guide for IOS, Windows and Linux")
 - [SEO Breadcrumbs: Schema Markup Implementation Guide](https://www.glukhov.org/post/2025/12/breadcrumbs-for-seo/ "Master breadcrumb navigation with JSON-LD schema markup to boost SEO rankings and enhance user experience on your website in 2025")
+- [IndexNow explained - notify search engines when you publish](https://www.glukhov.org/web-infrastructure/indexing/indexnow/ "IndexNow pushes URL changes to Bing and other engines in minutes. Learn why it beats waiting for crawls, how host and key verification work, and how to run submissions from the CLI or a sitemap.")
 
 ## Drivers and Hardware
 
