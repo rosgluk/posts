@@ -129,6 +129,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Wayland vs X11: 2026 Comparison](https://www.glukhov.org/post/2026/01/wayland-vs-x11-comparison/ "Complete comparison of Wayland and X11 display servers: architecture, security, performance, compatibility, and migration guide for Linux users in 2026.")
 - [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://www.glukhov.org/post/2026/02/configure-desktop-launchers-ubuntu-24/ "Create and edit .desktop launchers on Ubuntu 24.04: Icon, Exec, locations, and freedesktop.org spec. Put launchers on Desktop or in applications menu,  with Standard Ubuntu Icons")
 - [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
+- [Apache Flink on K8s and Kafka: PyFlink, Go, ops, and managed pricing](https://www.glukhov.org/data-infrastructure/stream-processing/apache-flink/ "DevOps guide to Flink. Stateful streaming, JobManager and TaskManagers, checkpoints vs savepoints, vs Spark and Kafka Streams, K8s Operator, Helm, PyFlink, Go, managed pricing.")
 
 ## Observability and Monitoring: Prometheus and Grafana
 
@@ -195,6 +196,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Playwright: Web Scraping & Testing](https://www.glukhov.org/post/2025/12/playwright-for-scraping-and-testing-webapps/ "Complete guide to Playwright for web scraping, testing, and browser automation with Python, JavaScript, and TypeScript examples for modern web apps.")
 - [Extract Text from PDFs with PDFMiner in Python](https://www.glukhov.org/post/2025/12/extract-text-from-pdf-using-pdfminer-python/ "Learn how to extract text from PDF files using PDFMiner.six in Python with practical examples, layout analysis, and performance optimization techniques")
 - [Curated List of Articles about Coding in Python](https://glukhov.au/posts/2026/python-coding/ "Curated List of Articles about Coding in Python")
+- [Neo4j graph database for GraphRAG, install, Cypher, vectors, ops](https://www.glukhov.org/data-infrastructure/databases/neo4j/ "Senior-engineer guide to Neo4j for property graphs and GraphRAG. Cypher, ACID, Neo4j vs Neptune and TigerGraph, Docker and AuraDB, ports and neo4j.conf, vector indexes, hybrid retrieval, and Python neo4j-graphrag.")
 
 
 ## AWS, Flutter, Go and other development
@@ -327,6 +329,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Converting Word Documents to Markdown: A Complete Guide](https://www.glukhov.org/post/2025/09/converting-word-document-to-markdown/ "How to Convert Word Documents to Markdown: A Complete Guide for IOS, Windows and Linux")
 - [SEO Breadcrumbs: Schema Markup Implementation Guide](https://www.glukhov.org/post/2025/12/breadcrumbs-for-seo/ "Master breadcrumb navigation with JSON-LD schema markup to boost SEO rankings and enhance user experience on your website in 2025")
 - [IndexNow explained - notify search engines when you publish](https://www.glukhov.org/web-infrastructure/indexing/indexnow/ "IndexNow pushes URL changes to Bing and other engines in minutes. Learn why it beats waiting for crawls, how host and key verification work, and how to run submissions from the CLI or a sitemap.")
+- [Netlify for Hugo & static sites: pricing, free tier, and alternatives](https://www.glukhov.org/web-infrastructure/hugo/netlify/ "Technical guide to Netlify for Hugo and modern web apps. Deploy Previews, Functions, Edge Functions, credit-based pricing, Free plan limits, Hugo netlify.toml patterns, and alternatives such as Vercel and Cloudflare Pages.")
 
 ## Drivers and Hardware
 
