@@ -13,6 +13,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Text embeddings for RAG and search - Python, Ollama, OpenAI-compatible APIs](https://www.glukhov.org/rag/embeddings/ "Learn what text embeddings are, how they power RAG and semantic search, and how to call embedding APIs from Python using Ollama or an OpenAI-compatible server (for example llama.cpp). Includes persistence, retrieval, and links to chunking, vector stores, and reranking on this site.")
 - [llama.swap Model Switcher Quickstart for OpenAI-Compatible Local LLMs](https://www.glukhov.org/llm-hosting/llama-swap/ "Install and configure llama-swap (llama.swap), hot-swap local models via OpenAI or Anthropic APIs, compare with Ollama and LM Studio, and troubleshoot common errors.")
 - [SGLang QuickStart: Install, Configure, and Serve LLMs via OpenAI API](https://www.glukhov.org/llm-hosting/sglang/ "Install SGLang with uv, pip, or Docker; configure YAML and server flags; then serve Hugging Face LLMs with an OpenAI-compatible API plus native /generate and offline Engine examples.")
 - [LocalAI QuickStart: Run OpenAI-Compatible LLMs Locally](https://www.glukhov.org/llm-hosting/local-ai/ "Learn to install LocalAI, load models from the gallery or Hugging Face, and serve an OpenAI-compatible API plus Web UI for chat, embeddings, images and audio on your own hardware.")
