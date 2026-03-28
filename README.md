@@ -225,7 +225,7 @@ This page contains links to my posts about software development, AI, experiments
 - [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
 - [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
 - [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
-- [AWS lambda performance: JavaScript vs Python vs Golang](https://www.glukhov.org/post/2024/08/aws-lambda-golang-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and Golang")
+- [AWS lambda performance: JavaScript vs Python vs g](https://www.glukhov.org/post/2024/08/aws-lambda-g-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and g")
 - [Golang Cheat Sheet](https://www.glukhov.org/post/2022/golang-cheatsheet/)
 - [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
 - [Flutter (Dart) Cheat Sheet](https://www.glukhov.org/post/2022/flutter-dart-cheatsheet/ "Flutter (Dart) Cheatsheet with examples")
@@ -257,6 +257,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Collection of articles about coding in Golang](https://glukhov.au/posts/2026/go-coding/)
 - [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
 - [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
+- [Structured Logging in Go with slog for Observability and Alerting](https://www.glukhov.org/observability/logging/structured-logging-go-slog/ "Structured logs turn Go application output into queryable events. Explore log/slog records, JSON handlers, context and trace correlation, redaction, and log-based signals that support monitoring and alerting.")
 
 ## Latex
 
