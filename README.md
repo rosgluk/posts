@@ -77,6 +77,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
 - [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
 - [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/post/2025/12/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
+- [LLM hosting, performance, RAG, and observability](https://glukhov.au/posts/2026/llms-hosting-performance-rag-observability "Updates of pillar hubs on glukhov.org organise LLM hosting, performance, RAG, and observability - with dives on runtimes, benchmarks, retrieval, and inference monitoring")
 
 ## Linux & ops
 
