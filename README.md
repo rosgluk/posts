@@ -340,6 +340,7 @@ This page contains links to my posts about software development, AI, experiments
 ## Drivers and Hardware
 
 - [Compute Hardware in 2026: GPUs, CPUs, Memory & AI Workstations](https://www.glukhov.org/hardware/ "Analysis of GPUs, CPUs, RAM pricing, AI workstations and compute infrastructure trends. Hardware economics and performance considerations for modern workloads.")
+- [RTX 5090 in Australia March 2026 Pricing Stock Reality](https://www.glukhov.org/hardware/gpu/nvidia-rtx-5080-rtx-5090-prices-march-2026/ "RTX 5090 GPUs in Australia remain scarce and expensive in March 2026, with limited stock, long wait times, and inflated prices. Here is what is really happening and what comes next.")
 - [Hardware Price Crisis: GPUs and RAM in 2025-2026](https://glukhov.au/posts/2026/hardware-pricehikes/ "Hardware Price Crisis: GPUs and RAM in 2025-2026")
 - [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://www.glukhov.org/post/2026/01/ram-and-gpu-price-increase/ "RTX 5090 prices jumped 15.2% to $5,566, RTX 5080 rose 6% to $1,899, and RAM surged 38% to $689 in Australia. Latest price analysis for January 2026 across Centrecom, PCCG, and Scorptec.")
 - [RAM Price Surge: Up to 619% in 2025](https://www.glukhov.org/post/2025/12/ram-price-increase/ "RAM prices surged 163-619% across global markets in late 2025: AI data center demand, supply constraints, and DDR5 pricing trends. Impact on PC builds and future outlook.")
