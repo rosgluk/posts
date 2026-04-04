@@ -13,6 +13,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://www.glukhov.org/llm-performance/benchmarks/best-llm-on-16gb-vram-gpu/ "Compare llama.cpp speeds on a 16 GB GPU for dense and MoE models at 19K, 32K, and 64K context. Tables list VRAM, GPU load, and tokens per second.")
 - [Remote Ollama access via Tailscale or WireGuard, no public ports](https://www.glukhov.org/llm-hosting/ollama/ollama-remote-access/ "Patterns for running Ollama on a home lab or office box and reaching it safely from remote devices. Covers OLLAMA_HOST binding, Tailscale or WireGuard, firewall pinning, and a tight security checklist.")
 - [Ollama in Docker Compose with GPU and Persistent Model Storage](https://www.glukhov.org/llm-hosting/ollama/ollama-in-docker-compose/ "Run Ollama as a reproducible single-node LLM server using Docker Compose. Configure OLLAMA_HOST and OLLAMA_MODELS, keep models on persistent volumes, enable NVIDIA GPUs, and upgrade safely with rollbacks.")
 - [Ollama behind a reverse proxy with Caddy or Nginx for HTTPS streaming](https://www.glukhov.org/llm-hosting/ollama/ollama-behind-reverse-proxy/ "Expose Ollama securely behind Caddy or Nginx with automated HTTPS, optional Basic Auth or SSO front gates, and correct streaming and WebSocket proxying. Includes timeouts, buffering pitfalls, rate limits, and curl checks.")
