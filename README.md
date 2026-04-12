@@ -18,6 +18,13 @@ This page contains links to my posts about software development, AI, experiments
 - [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
 - [OpenClaw: Examining a Self-Hosted AI Assistant as a Real System](https://www.glukhov.org/ai-systems/openclaw/ "A case-study exploration of OpenClaw — a self-hosted AI assistant system that integrates local LLMs, retrieval, memory, routing, and observability into a cohesive local infrastructure.")
 
+## AI Systems and Frontends
+
+- [Vane (Perplexica 2.0) Quickstart With Ollama and llama.cpp](https://www.glukhov.org/llm-hosting/llm-frontends/vane-perplexica-2/ "Self-host Vane (Perplexica 2.0) with Docker, wire it to SearxNG, and use local LLMs via Ollama or llama.cpp. History, features, API.")
+- [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
+- [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
+- [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
+
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
 - [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
@@ -65,9 +72,6 @@ This page contains links to my posts about software development, AI, experiments
 - [LLM speed performance comparison](https://www.glukhov.org/post/2024/06/llms-speed-cpu-vs-gpu/) 
 - [Comparing LLM Summarising Abilities](https://www.glukhov.org/post/2024/07/llm-summarising-comparison/) 
 - [Writing effective prompts for LLMs](https://www.glukhov.org/post/2024/08/writing-effective-llm-prompts/)
-- [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
-- [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
-- [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
 - [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step")
 - [New LLMs comparison - Mistral Small, Gemma 2, Qwen 2.5, Mistral Nemo, LLama3 and Phi](https://www.glukhov.org/post/2024/11/mistral-small-gemma-qwen-mistral-nemo/)
 - [Ollama CLI Cheatsheet: ls, serve, run, ps + commands (2026 update)](https://www.glukhov.org/llm-hosting/ollama/ollama-cheatsheet/ "Ollama CLI cheatsheet: ollama serve command, ollama run command examples, ollama ps, and model management.")
