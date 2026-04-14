@@ -14,6 +14,7 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AI Assistants
 
+- [Anthropic Closes Claude Loophole for Agent Tools](https://www.glukhov.org/ai-systems/openclaw/anthropic-claude-subscription-agent-tools/ "Anthropic blocks Claude subscriptions in agent tools like OpenClaw, forcing API usage. What changed, who is affected, and practical workarounds.")
 - [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
 - [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
 - [OpenClaw: Examining a Self-Hosted AI Assistant as a Real System](https://www.glukhov.org/ai-systems/openclaw/ "A case-study exploration of OpenClaw — a self-hosted AI assistant system that integrates local LLMs, retrieval, memory, routing, and observability into a cohesive local infrastructure.")
