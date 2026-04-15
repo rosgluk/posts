@@ -148,8 +148,15 @@ This page contains links to my posts about software development, AI, experiments
 - [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
 - [Apache Flink on K8s and Kafka: PyFlink, Go, ops, and managed pricing](https://www.glukhov.org/data-infrastructure/stream-processing/apache-flink/ "DevOps guide to Flink. Stateful streaming, JobManager and TaskManagers, checkpoints vs savepoints, vs Spark and Kafka Streams, K8s Operator, Helm, PyFlink, Go, managed pricing.")
 
-## Observability and Monitoring: Prometheus and Grafana
+## Architecture
 
+- [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
+- [Slack Integration Patterns for Alerts and Workflows](https://www.glukhov.org/app-architecture/integration-patterns/slack/ "Deep dive on Slack webhooks and apps for alerts, approvals, and workflow automation. Block Kit buttons, signature verification, Go and Python examples.")
+- [Discord Integration Pattern for Alerts and Control Loops](https://www.glukhov.org/app-architecture/integration-patterns/discord/ "Deep dive on Discord webhooks and bots for alerts, approvals, and human-in-the-loop control. Go and Python examples, security, idempotency, and routing.")
+
+## Observability Monitoring and Alerting incl. Prometheus and Grafana
+
+- [Modern Alerting Systems Design for Observability Teams](https://www.glukhov.org/observability/alerting/ "A practical pillar page on alerting design, routing, noise reduction, and human response across observability systems, paging tools, and chat platforms.")
 - [Install and Use Grafana on Ubuntu: Complete Guide](https://www.glukhov.org/post/2025/11/grafana-installing-using-in-ubuntu/ "Step-by-step guide to installing, configuring, and using Grafana on Ubuntu for powerful monitoring, visualization, and observability with multiple data sources")
 - [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
 - [Monitor LLM Inference in Production (2026): Prometheus & Grafana for vLLM, TGI, llama.cpp](https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ "Learn how to monitor LLM inference in production using Prometheus and Grafana. Track p95 latency, tokens/sec, queue duration, and KV cache usage across vLLM, TGI, and llama.cpp. Includes PromQL examples, dashboards, alerts, Docker & Kubernetes setups.")
