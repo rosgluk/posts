@@ -279,6 +279,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
 - [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
 - [Structured Logging in Go with slog for Observability and Alerting](https://www.glukhov.org/observability/logging/structured-logging-go-slog/ "Structured logs turn Go application output into queryable events. Explore log/slog records, JSON handlers, context and trace correlation, redaction, and log-based signals that support monitoring and alerting.")
+- [PostgreSQL Full Text Search vs Elasticsearch Comparison](https://www.glukhov.org/data-infrastructure/search/postgresql-full-text-search-vs-elasticsearch/ "A practical comparison of PostgreSQL full text search and Elasticsearch across relevance, scale, latency, cost, and operations for modern apps.")
 
 ## Latex
 
