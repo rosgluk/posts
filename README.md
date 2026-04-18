@@ -14,10 +14,15 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AI Assistants
 
-- [Anthropic Closes Claude Loophole for Agent Tools](https://www.glukhov.org/ai-systems/openclaw/anthropic-claude-subscription-agent-tools/ "Anthropic blocks Claude subscriptions in agent tools like OpenClaw, forcing API usage. What changed, who is affected, and practical workarounds.")
-- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
-- [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
 - [OpenClaw: Examining a Self-Hosted AI Assistant as a Real System](https://www.glukhov.org/ai-systems/openclaw/ "A case-study exploration of OpenClaw — a self-hosted AI assistant system that integrates local LLMs, retrieval, memory, routing, and observability into a cohesive local infrastructure.")
+- [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
+- [OpenClaw Plugins — Ecosystem Guide and Practical Picks](https://www.glukhov.org/ai-systems/openclaw/plugins/ "Native OpenClaw plugins, workspace and global extension directories, CLI lifecycle and safety rails, plus mature picks. Includes a compact glossary of OpenClaw skills so ClawHub listings do not blur what counts as an in-process plugin.")
+- [OpenClaw Skills Ecosystem and Practical Production Picks](https://www.glukhov.org/ai-systems/openclaw/skills/ "A practical guide to OpenClaw skills, ClawHub, install and removal flows, security tradeoffs, and the skills worth using in real work today.")
+- [OpenClaw Production Setup Patterns with Plugins and Skills](https://www.glukhov.org/ai-systems/openclaw/production-setup/ "Real world OpenClaw production setups combining plugins and skills by user type, with practical architecture patterns for reliability, workflows, and scale.")
+- [Anthropic Closes Claude Loophole for Agent Tools](https://www.glukhov.org/ai-systems/openclaw/anthropic-claude-subscription-agent-tools/ "Anthropic blocks Claude subscriptions in agent tools like OpenClaw, forcing API usage. What changed, who is affected, and practical workarounds.")
+
+- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
+- [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
 
 ## AI Systems and Frontends
 
