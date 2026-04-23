@@ -154,6 +154,7 @@ Hermes:
 - [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://www.glukhov.org/post/2026/02/configure-desktop-launchers-ubuntu-24/ "Create and edit .desktop launchers on Ubuntu 24.04: Icon, Exec, locations, and freedesktop.org spec. Put launchers on Desktop or in applications menu,  with Standard Ubuntu Icons")
 - [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
 - [Apache Flink on K8s and Kafka: PyFlink, Go, ops, and managed pricing](https://www.glukhov.org/data-infrastructure/stream-processing/apache-flink/ "DevOps guide to Flink. Stateful streaming, JobManager and TaskManagers, checkpoints vs savepoints, vs Spark and Kafka Streams, K8s Operator, Helm, PyFlink, Go, managed pricing.")
+- [Pause Scripts with 'Press Any Key' in Bash, CMD, PowerShell, and macOS](https://www.glukhov.org/developer-tools/terminals-shell/press-any-key-pause-bash-powershell-cmd/ "Pause shell or batch scripts until a keypress. Covers CMD pause, PowerShell Read-Host and ReadKey, Bash and POSIX read, macOS, and TTY guards for CI and cron.")
 
 ## Architecture
 
