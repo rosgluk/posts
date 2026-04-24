@@ -11,6 +11,7 @@ This page contains links to my posts about software development, AI, experiments
 - [Oh My Opencode Review: Honest Results, Billing Risks, and When It's Worth It](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode-experience/ "Real hands-on Oh My Opencode experience plus community benchmarks. Learn when Ultrawork beats vanilla OpenCode, when it doesn't, and how to avoid the billing surprises that caught users off guard.")
 - [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
 - [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/ "A practical Claude Code guide: install, quickstart commands, settings.json, permissions, pricing, and running fully local backends via Ollama or llama.cpp.")
+- [Claude Skills and SKILL.md for Developers: VS Code, JetBrains, Cursor](https://www.glukhov.org/ai-devtools/claude-code/claude-skills-for-developers/ "Build reliable Claude Skills with SKILL.md: IDE compatibility across VS Code, JetBrains, and Cursor, folder layout, trigger tuning, agent-safe scripts, and testing.")
 
 ## AI Assistants
 
