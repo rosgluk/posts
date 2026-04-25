@@ -36,6 +36,7 @@ Hermes:
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://www.glukhov.org/llm-hosting/llama-cpp/llama-server-router-mode/ "How to configure llama-server router mode for dynamic model loading and switching. Covers models.ini setup, systemd service, API usage, and honest comparison to Ollama and llama-swap.")
 - [TGI - Text Generation Inference - Install, Config, Troubleshoot](https://www.glukhov.org/llm-hosting/tgi/ "A practical guide to installing Hugging Face TGI, launching your first LLM endpoint, tuning key flags, and fixing the failures you will meet.")
 - [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://www.glukhov.org/llm-performance/benchmarks/best-llm-on-16gb-vram-gpu/ "Compare llama.cpp speeds on a 16 GB GPU for dense and MoE models at 19K, 32K, and 64K context. Tables list VRAM, GPU load, and tokens per second.")
 - [Remote Ollama access via Tailscale or WireGuard, no public ports](https://www.glukhov.org/llm-hosting/ollama/ollama-remote-access/ "Patterns for running Ollama on a home lab or office box and reaching it safely from remote devices. Covers OLLAMA_HOST binding, Tailscale or WireGuard, firewall pinning, and a tight security checklist.")
