@@ -29,6 +29,12 @@ Hermes:
 - [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
 - [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
 
+Agent Memory
+
+- [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
+- [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/ai-systems/memory/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
+- [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/ai-systems/memory/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
+
 ## AI Systems and Frontends
 
 - [Vane (Perplexica 2.0) Quickstart With Ollama and llama.cpp](https://www.glukhov.org/llm-hosting/llm-frontends/vane-perplexica-2/ "Self-host Vane (Perplexica 2.0) with Docker, wire it to SearxNG, and use local LLMs via Ollama or llama.cpp. History, features, API.")
@@ -57,7 +63,6 @@ Hermes:
 - [Comparing LLMs performance on Ollama on 16GB VRAM GPU](https://www.glukhov.org/post/2026/01/choosing-best-llm-for-ollama-on-16gb-vram-gpu/ "Benchmark of 9 LLMs on RTX 4080 16GB with Ollama 0.15.2. Compare tokens/sec, VRAM usage, and CPU offloading for GPT-OSS, Qwen3, Mistral, and more.")
 - [Open WebUI: Self-Hosted LLM Interface](https://www.glukhov.org/post/2026/01/open-webui-overview-quickstart-and-alternatives/ "Complete guide to Open WebUI: a powerful self-hosted web interface for Ollama and OpenAI-compatible APIs with RAG, multi-user auth, and Docker deployment.")
 - [vLLM Quickstart: High-Performance LLM Serving](https://www.glukhov.org/post/2026/01/vllm-quickstart/ "Complete vLLM setup guide with Docker, OpenAI API compatibility, PagedAttention optimization. Compare vLLM vs Ollama vs Docker Model Runner for production.")
-- [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/post/2025/12/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
 - [Vector Stores for RAG Comparison](https://www.glukhov.org/post/2025/12/vector-stores-for-rag-comparison/ "Comprehensive comparison of vector databases for Retrieval Augmented Generation: Pinecone, Chroma, Weaviate, Milvus, Qdrant, FAISS, and pgvector. Performance, features, and use cases.")
 - [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://www.glukhov.org/post/2025/11/hosting-llms-ollama-localai-jan-lmstudio-vllm-comparison/ "Comprehensive comparison of 12+ local LLM tools: Ollama, vLLM, LocalAI, Jan, LM Studio, Lemonade, Msty & more. API maturity, tool calling, GGUF support, benchmarks.")
@@ -99,7 +104,6 @@ Hermes:
 - [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models)
 - [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
 - [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
-- [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/post/2025/12/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
 - [LLM hosting, performance, RAG, and observability](https://glukhov.au/posts/2026/llms-hosting-performance-rag-observability "Updates of pillar hubs on glukhov.org organise LLM hosting, performance, RAG, and observability - with dives on runtimes, benchmarks, retrieval, and inference monitoring")
 
 ## Linux & ops
