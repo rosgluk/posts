@@ -16,6 +16,7 @@ This page contains links to my posts about software development, AI, experiments
 ## AI Assistants
 
 OpenClaw:
+- [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
 - [OpenClaw Rise and Fall — Timeline and Real Reasons Behind the Collapse](https://www.glukhov.org/ai-systems/openclaw/openclaw-rise-and-fall-timeline/ "How OpenClaw grew to 247,000 GitHub stars in weeks and then collapsed when Anthropic blocked Claude subscription access. Full timeline and analysis of the real causes.")
 - [OpenClaw: Examining a Self-Hosted AI Assistant as a Real System](https://www.glukhov.org/ai-systems/openclaw/ "A case-study exploration of OpenClaw — a self-hosted AI assistant system that integrates local LLMs, retrieval, memory, routing, and observability into a cohesive local infrastructure.")
 - [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
