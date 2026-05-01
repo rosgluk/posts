@@ -106,10 +106,16 @@ Agent Memory:
 - [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
 - [LLM hosting, performance, RAG, and observability](https://glukhov.au/posts/2026/llms-hosting-performance-rag-observability "Updates of pillar hubs on glukhov.org organise LLM hosting, performance, RAG, and observability - with dives on runtimes, benchmarks, retrieval, and inference monitoring")
 
-## Linux & ops
+## Data and Infrastructure
 
+- [MinIO CE in 2026: Retired Upstream, Source-Only, and What to Use](https://www.glukhov.org/data-infrastructure/object-storage/minio-dead/ "MinIO CE is archived, source-only, and operationally high risk. Here is the timeline, community verdict, and safer alternatives for S3 compatible storage.")
 - [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
 - [Garage vs MinIO vs AWS S3: Object Storage Comparison and Feature Matrix](https://www.glukhov.org/data-infrastructure/object-storage/garage-vs-minio-vs-s3/ "Compare MinIO, Garage, and AWS S3 for object storage. Feature matrix, cost model, operational complexity, and when to choose each—managed S3, self-hosted Garage, or MinIO with broad S3 parity.")
+- [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
+- [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
+
+## Linux & ops
+
 - [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
 - [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
@@ -134,8 +140,6 @@ Agent Memory:
 - [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
 - [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
 - [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
-- [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
-- [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
 - [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
