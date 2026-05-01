@@ -113,6 +113,8 @@ Agent Memory:
 - [Garage vs MinIO vs AWS S3: Object Storage Comparison and Feature Matrix](https://www.glukhov.org/data-infrastructure/object-storage/garage-vs-minio-vs-s3/ "Compare MinIO, Garage, and AWS S3 for object storage. Feature matrix, cost model, operational complexity, and when to choose each—managed S3, self-hosted Garage, or MinIO with broad S3 parity.")
 - [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
 - [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
+- [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
+- [PostgreSQL Full Text Search vs Elasticsearch Comparison](https://www.glukhov.org/data-infrastructure/search/postgresql-full-text-search-vs-elasticsearch/ "A practical comparison of PostgreSQL full text search and Elasticsearch across relevance, scale, latency, cost, and operations for modern apps.")
 
 ## Linux & ops
 
@@ -151,7 +153,6 @@ Agent Memory:
 - [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
 - [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
 - [Ubuntu Keyboard Shortcuts: Complete Cheatsheet](https://www.glukhov.org/post/2025/10/ubuntu-keyboard-shortcuts-cheatsheet/ "Master Ubuntu productivity with essential keyboard shortcuts for window management, workspaces, terminal, file management, and system controls. Boost your Linux workflow efficiency today.")
-- [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
 - [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
 - [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
 - [Ubuntu Package Management: APT and dpkg Cheatsheet](https://www.glukhov.org/post/2025/11/listing-installing-upgrading-packages-in-ubuntu-with-apt/ "Ubuntu package management with APT, apt-get, dpkg, Snap, and Flatpak. Learn to list, install, upgrade, and remove packages efficiently with this comprehensive guide.")
@@ -299,7 +300,6 @@ Agent Memory:
 - [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
 - [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
 - [Structured Logging in Go with slog for Observability and Alerting](https://www.glukhov.org/observability/logging/structured-logging-go-slog/ "Structured logs turn Go application output into queryable events. Explore log/slog records, JSON handlers, context and trace correlation, redaction, and log-based signals that support monitoring and alerting.")
-- [PostgreSQL Full Text Search vs Elasticsearch Comparison](https://www.glukhov.org/data-infrastructure/search/postgresql-full-text-search-vs-elasticsearch/ "A practical comparison of PostgreSQL full text search and Elasticsearch across relevance, scale, latency, cost, and operations for modern apps.")
 
 ## Latex
 
