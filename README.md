@@ -26,6 +26,7 @@ OpenClaw:
 - [Anthropic Closes Claude Loophole for Agent Tools](https://www.glukhov.org/ai-systems/openclaw/anthropic-claude-subscription-agent-tools/ "Anthropic blocks Claude subscriptions in agent tools like OpenClaw, forcing API usage. What changed, who is affected, and practical workarounds.")
 
 Hermes:
+- [Hermes Agent CLI cheat sheet — commands, flags, and slash shortcuts](https://www.glukhov.org/ai-systems/hermes/hermes-agent-cli-cheatsheet/ "Quick reference for Hermes Agent CLI. Install path, hermes chat and -z one-shots, model, gateway, skills, memory, logs, profiles, and slash shortcuts.")
 - [Hermes Agent Memory System: How Persistent AI Memory Actually Works](https://www.glukhov.org/ai-systems/hermes/hermes-agent-memory-system/ "A deep technical guide to Hermes Agent's memory architecture — from bounded 2-file core memory to 8 pluggable external providers. Explains why curated, always-active memory outperforms retrieval-based approaches for persistent AI agents.")
 - [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
 - [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
