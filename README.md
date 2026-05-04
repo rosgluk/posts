@@ -30,6 +30,7 @@ Hermes:
 - [Hermes Agent Memory System: How Persistent AI Memory Actually Works](https://www.glukhov.org/ai-systems/hermes/hermes-agent-memory-system/ "A deep technical guide to Hermes Agent's memory architecture — from bounded 2-file core memory to 8 pluggable external providers. Explains why curated, always-active memory outperforms retrieval-based approaches for persistent AI agents.")
 - [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
 - [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
+- [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://www.glukhov.org/ai-systems/hermes/authoring-hermes-skill/ "Author Hermes skills with YAML frontmatter, progressive disclosure, conditional activation, secrets versus config, and index troubleshooting.")
 
 Agent Memory:
 - [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
