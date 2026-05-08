@@ -32,6 +32,7 @@ Hermes:
 - [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
 - [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://www.glukhov.org/ai-systems/hermes/authoring-hermes-skill/ "Author Hermes skills with YAML frontmatter, progressive disclosure, conditional activation, secrets versus config, and index troubleshooting.")
 - [Kanban in Hermes Agent for Self Hosted LLM Workflows](https://www.glukhov.org/ai-systems/hermes/kanban-in-hermes/ "Set up Hermes Kanban to safely schedule multi agent tasks on self hosted LLMs using a dispatcher daemon, rate limits and cron based batching.")
+- [Hermes Voice Control from Your Phone](https://www.glukhov.org/ai-systems/hermes/hermes-voice-control/ "Set up Hermes voice control on Telegram and Discord using local Whisper and free Edge TTS. Includes setup, tuning tips, examples, and troubleshooting.")
 
 Agent Memory:
 - [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
