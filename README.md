@@ -178,6 +178,7 @@ Agent Memory:
 - [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
 - [Slack Integration Patterns for Alerts and Workflows](https://www.glukhov.org/app-architecture/integration-patterns/slack/ "Deep dive on Slack webhooks and apps for alerts, approvals, and workflow automation. Block Kit buttons, signature verification, Go and Python examples.")
 - [Discord Integration Pattern for Alerts and Control Loops](https://www.glukhov.org/app-architecture/integration-patterns/discord/ "Deep dive on Discord webhooks and bots for alerts, approvals, and human-in-the-loop control. Go and Python examples, security, idempotency, and routing.")
+- [Idempotency in Distributed Systems That Actually Works](https://www.glukhov.org/app-architecture/integration-patterns/idempotency-in-distributed-systems/ "Idempotency is not an HTTP trick. Learn how to stop duplicate writes, replayed messages, and double charges across APIs, queues, webhooks, and workflows.")
 
 ## Observability Monitoring and Alerting incl. Prometheus and Grafana
 
