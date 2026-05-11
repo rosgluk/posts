@@ -48,6 +48,7 @@ Agent Memory:
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Agentic LLM Inference Parameters Reference for Qwen 3.6 and Gemma 6](https://www.glukhov.org/llm-performance/benchmarks/agentic-inference-parameters-reference/ "Curated reference of vendor and community inference parameters for Qwen 3.6 and Gemma 4, optimized for agentic workflows and real-world coding systems.")
 - [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://www.glukhov.org/llm-hosting/llama-cpp/llama-server-router-mode/ "How to configure llama-server router mode for dynamic model loading and switching. Covers models.ini setup, systemd service, API usage, and honest comparison to Ollama and llama-swap.")
 - [TGI - Text Generation Inference - Install, Config, Troubleshoot](https://www.glukhov.org/llm-hosting/tgi/ "A practical guide to installing Hugging Face TGI, launching your first LLM endpoint, tuning key flags, and fixing the failures you will meet.")
 - [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://www.glukhov.org/llm-performance/benchmarks/best-llm-on-16gb-vram-gpu/ "Compare llama.cpp speeds on a 16 GB GPU for dense and MoE models at 19K, 32K, and 64K context. Tables list VRAM, GPU load, and tokens per second.")
