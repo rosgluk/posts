@@ -308,6 +308,10 @@ Agent Memory:
 - [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
 - [Structured Logging in Go with slog for Observability and Alerting](https://www.glukhov.org/observability/logging/structured-logging-go-slog/ "Structured logs turn Go application output into queryable events. Explore log/slog records, JSON handlers, context and trace correlation, redaction, and log-based signals that support monitoring and alerting.")
 
+## Knowledge Management
+
+- [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/ "Learn what a second brain really is, how it differs from PKM, wikis, and RAG, and why the best systems turn notes into reusable thinking over time.")
+
 ## Latex
 
 - [Documentation Tools in 2026: Markdown, LaTeX, PDF & Printing Workflows](https://www.glukhov.org/documentation-tools/ "Practical guides for Markdown, LaTeX, PDF processing and document printing workflows. Conversion tools, formatting tips, and automation techniques.")
