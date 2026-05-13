@@ -150,7 +150,6 @@ Agent Memory:
 - [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
 - [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
-- [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
 - [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
@@ -311,6 +310,13 @@ Agent Memory:
 ## Knowledge Management
 
 - [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/ "Learn what a second brain really is, how it differs from PKM, wikis, and RAG, and why the best systems turn notes into reusable thinking over time.")
+- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://www.glukhov.org/knowledge-management/foundations/pkm-vs-rag-vs-wiki-vs-memory-systems/ "Compare PKM, RAG, wikis, and AI memory systems by structure, retrieval, ownership, evolution, and real-world use cases.")
+- [Retrieval vs Representation in Knowledge Systems](https://www.glukhov.org/knowledge-management/foundations/retrieval-vs-representation/ "Learn the difference between retrieval and representation in knowledge systems, why RAG is not enough, and when structure matters more than search.")
+- [LLM Wiki - Compiled Knowledge That RAG Cannot Replace](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/what-is-llm-wiki/ "RAG retrieves fragments on demand. LLM Wiki compiles structured knowledge before any question is asked. Learn when ingest-time synthesis beats query-time retrieval, and when it does not.")
+- [Personal Knowledge Management - Goals, Methods and Tools to use in 2025](https://www.glukhov.org/post/2025/07/personal-knowledge-management/ "Personal Knowledge Management - What it is, it's goals, methods and tools to use in 2025")
+- [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
+- [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
+- [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
 
 ## Latex
 
@@ -339,8 +345,6 @@ Agent Memory:
 - [SQL Cheatsheet](https://www.glukhov.org/post/2024/02/sql-cheatsheet "SQL Cheatsheet")
 - [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
 - [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
-- [Personal Knowledge Management - Goals, Methods and Tools to use in 2025](https://www.glukhov.org/post/2025/07/personal-knowledge-management/ "Personal Knowledge Management - What it is, it's goals, methods and tools to use in 2025")
-- [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
 - [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
 - [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
 - [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
@@ -348,7 +352,6 @@ Agent Memory:
 - [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
 - [Writefreely Federated Blogging Platform - selfhosting vs managed costs](https://www.glukhov.org/post/2025/10/writefreely-selfhosting-vs-managed-costs/ "Here’s a practical, up-to-date briefing on Write.as / WriteFreely—how it fits into the fediverse, where to get managed hosting (with pricing), what the usage trend looks like, and how to self-host (plus rough costings")
 - [Nostr: Decentralized Social Networking, User Statistics, and Alternatives](https://www.glukhov.org/post/2025/10/nostr-overview-and-statistics/ "Explore Nostr's censorship-resistant protocol, user growth statistics, and how it compares to Bluesky and Mastodon in the decentralized social media landscape.")
-- [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
 - [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
 - [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
 - [DIY Printing Planner Inserts: 3 ways to do](https://www.glukhov.org/post/2025/12/diy-printing-planner-inserts/ "Comprehensive guide to printing custom planner inserts using booklet binding software")
