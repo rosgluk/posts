@@ -48,6 +48,7 @@ Agent Memory:
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Qwen 3.6 27B and 35B MTP vs Standard on 16GB GPU](https://www.glukhov.org/llm-performance/benchmarks/comparing-qwen-3-6-mtp-vs-standard/ "Benchmark results for Qwen 3.6 27B and 35B MTP speculative decoding in llama.cpp on RTX 4080 16GB. Token speed, VRAM cost, and optimal --spec-draft-n-max settings.")
 - [Unload All llama.cpp Router Models Without Restarting](https://www.glukhov.org/llm-hosting/llama-cpp/unload-llama-cpp-router-models/ "Learn how to unload every loaded llama.cpp router model with curl and jq, free VRAM safely, and avoid restarting llama-server in local LLM workflows.")
 - [Agentic LLM Inference Parameters Reference for Qwen 3.6 and Gemma 4](https://www.glukhov.org/llm-performance/benchmarks/agentic-inference-parameters-reference/ "Curated reference of vendor and community inference parameters for Qwen 3.6 and Gemma 4, optimized for agentic workflows and real-world coding systems.")
 - [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://www.glukhov.org/llm-hosting/llama-cpp/llama-server-router-mode/ "How to configure llama-server router mode for dynamic model loading and switching. Covers models.ini setup, systemd service, API usage, and honest comparison to Ollama and llama-swap.")
