@@ -15,6 +15,8 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AI Assistants
 
+- [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
+
 OpenClaw:
 - [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
 - [OpenClaw Rise and Fall — Timeline and Real Reasons Behind the Collapse](https://www.glukhov.org/ai-systems/openclaw/openclaw-rise-and-fall-timeline/ "How OpenClaw grew to 247,000 GitHub stars in weeks and then collapsed when Anthropic blocked Claude subscription access. Full timeline and analysis of the real causes.")
