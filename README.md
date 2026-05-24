@@ -314,6 +314,7 @@ Agent Memory:
 ## Knowledge Management
 
 - [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/ "Learn what a second brain really is, how it differs from PKM, wikis, and RAG, and why the best systems turn notes into reusable thinking over time.")
+- [Zettelkasten for Developers: A Practical Method That Works](https://www.glukhov.org/knowledge-management/methods/zettelkasten-for-developers/ "A practical Zettelkasten guide for developers: write atomic notes, link concepts to code, avoid folder traps, and build a useful knowledge system.")
 - [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://www.glukhov.org/knowledge-management/foundations/pkm-vs-rag-vs-wiki-vs-memory-systems/ "Compare PKM, RAG, wikis, and AI memory systems by structure, retrieval, ownership, evolution, and real-world use cases.")
 - [Retrieval vs Representation in Knowledge Systems](https://www.glukhov.org/knowledge-management/foundations/retrieval-vs-representation/ "Learn the difference between retrieval and representation in knowledge systems, why RAG is not enough, and when structure matters more than search.")
 - [LLM Wiki - Compiled Knowledge That RAG Cannot Replace](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/what-is-llm-wiki/ "RAG retrieves fragments on demand. LLM Wiki compiles structured knowledge before any question is asked. Learn when ingest-time synthesis beats query-time retrieval, and when it does not.")
