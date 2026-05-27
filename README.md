@@ -313,6 +313,7 @@ Agent Memory:
 
 ## Knowledge Management
 
+- [AI for Knowledge Management: Real Workflows That Hold Up](https://www.glukhov.org/knowledge-management/ai-augmented-knowledge/ai-for-knowledge-management-workflows/ "A practical guide to AI-augmented knowledge management, from summarisation and extraction to semantic linking, local models, APIs, and review loops.")
 - [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/ "Learn what a second brain really is, how it differs from PKM, wikis, and RAG, and why the best systems turn notes into reusable thinking over time.")
 - [Zettelkasten for Developers: A Practical Method That Works](https://www.glukhov.org/knowledge-management/methods/zettelkasten-for-developers/ "A practical Zettelkasten guide for developers: write atomic notes, link concepts to code, avoid folder traps, and build a useful knowledge system.")
 - [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://www.glukhov.org/knowledge-management/foundations/pkm-vs-rag-vs-wiki-vs-memory-systems/ "Compare PKM, RAG, wikis, and AI memory systems by structure, retrieval, ownership, evolution, and real-world use cases.")
