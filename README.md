@@ -16,6 +16,7 @@ This page contains links to my posts about software development, AI, experiments
 ## AI Assistants
 
 - [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
+- [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://www.glukhov.org/ai-systems/architecture/ai-assistant-architecture/ "A deep technical guide to AI assistant architecture: LLMs, memory, tools, routing, and observability, with real tradeoffs, failure modes, and design patterns.")
 
 OpenClaw:
 - [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
