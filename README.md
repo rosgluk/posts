@@ -38,6 +38,7 @@ Hermes:
 - [Hermes Voice Control from Your Phone](https://www.glukhov.org/ai-systems/hermes/hermes-voice-control/ "Set up Hermes voice control on Telegram and Discord using local Whisper and free Edge TTS. Includes setup, tuning tips, examples, and troubleshooting.")
 
 Agent Memory:
+- [Memory Systems in AI Assistants](https://www.glukhov.org/ai-systems/memory/memory-systems-in-ai-assistants/ "How to design short-term, long-term, and structured memory for AI assistants, with retrieval mechanics, tradeoffs, failure modes, and real patterns from OpenAI, LangGraph, Hermes, and OpenClaw.")
 - [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
 - [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/ai-systems/memory/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/ai-systems/memory/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
