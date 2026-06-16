@@ -50,6 +50,14 @@ Agent Memory:
 - [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
 
+## LLM Systems Architecture
+
+- [LLM Architecture: System Design for Production AI](https://www.glukhov.org/llm-architecture/ "System design decisions for production LLM systems: model routing, cost optimization, guardrails, multi-model orchestration, and prompt engineering. Practical patterns with working code.")
+- [Cost Optimization for LLM Systems: Where the Money Actually Goes](https://www.glukhov.org/llm-architecture/cost-optimization/cost-optimization-for-llm-systems/ "Token budgeting, fallback models, and caching strategies that cut LLM API bills. With real numbers, hardware break-even analysis, and working Python code.")
+- [LLM Guardrails in Practice: What Actually Works](https://www.glukhov.org/llm-architecture/guardrails/llm-guardrails-in-practice/ "Input validation, output filtering, and safety mechanisms that protect your LLM system without breaking it. Patterns with real Python examples and compliance notes.")
+- [Multi-Model System Design: When One Model Isn't Enough](https://www.glukhov.org/llm-architecture/model-routing/multi-model-system-design/ "Architecture patterns for orchestrating multiple LLMs — sequential, parallel, hierarchical, and ensemble approaches with working Python code and tradeoff analysis.")
+- [Model Routing: Stop Using One Model for Everything](https://www.glukhov.org/llm-architecture/model-routing/model-routing-strategies/ "Routing tasks to the right model saves money and cuts latency. Capability-based, cost-aware, and latency-aware strategies with working Python code.")
+
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
 - [Qwen 3.6 27B and 35B MTP vs Standard on 16GB GPU](https://www.glukhov.org/llm-performance/benchmarks/comparing-qwen-3-6-mtp-vs-standard/ "Benchmark results for Qwen 3.6 27B and 35B MTP speculative decoding in llama.cpp on RTX 4080 16GB. Token speed, VRAM cost, and optimal --spec-draft-n-max settings.")
