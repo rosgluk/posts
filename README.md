@@ -190,6 +190,7 @@ Agent Memory:
 
 ## Architecture
 
+- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/ "Learn how to implement the CQRS pattern in Go. This guide covers design principles, practical code examples, library recommendations (Watermill, Event Horizon), and architectural tradeoffs for building scalable, maintainable systems.")
 - [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
 - [Slack Integration Patterns for Alerts and Workflows](https://www.glukhov.org/app-architecture/integration-patterns/slack/ "Deep dive on Slack webhooks and apps for alerts, approvals, and workflow automation. Block Kit buttons, signature verification, Go and Python examples.")
 - [Discord Integration Pattern for Alerts and Control Loops](https://www.glukhov.org/app-architecture/integration-patterns/discord/ "Deep dive on Discord webhooks and bots for alerts, approvals, and human-in-the-loop control. Go and Python examples, security, idempotency, and routing.")
@@ -337,7 +338,7 @@ Agent Memory:
 - [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
 
-## Latex
+## Documentation: Latex, Markdown, Mermaid etc
 
 - [Documentation Tools in 2026: Markdown, LaTeX, PDF & Printing Workflows](https://www.glukhov.org/documentation-tools/ "Practical guides for Markdown, LaTeX, PDF processing and document printing workflows. Conversion tools, formatting tips, and automation techniques.")
 - [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
@@ -347,6 +348,7 @@ Agent Memory:
 - [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
 - [LaTeX to Markdown Conversion Tools](https://www.glukhov.org/post/2025/11/converting-latex-to-markdown-tools-and-workflows/ "Converting LaTeX documents to Markdown using Pandoc, automated workflows, and best practices for academic and technical content migration")
 - [Tables in Markdown: Quick Guide](https://www.glukhov.org/post/2025/11/tables-in-markdown/ "Master Markdown table syntax with this comprehensive guide covering basic tables, alignment, GitHub Flavored Markdown (GFM), formatting best practices, common pitfalls, and tools for creating professional-looking tables. Learn how to structure data effectively in your documentation, README files, and technical blogs with practical examples and expert tips for optimizing readability and maintainability.")
+- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://www.glukhov.org/documentation-tools/diagrams/mermaid-diagrams-quickstart-cheatsheet/ "Learn Mermaid diagrams fast with a practical quickstart, syntax cheatsheet, Hugo setup notes, examples, and best practices for technical blogs.")
 
 ## Other
 
