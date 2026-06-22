@@ -17,6 +17,8 @@ This page contains links to my posts about software development, AI, experiments
 
 - [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
 - [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://www.glukhov.org/ai-systems/architecture/ai-assistant-architecture/ "A deep technical guide to AI assistant architecture: LLMs, memory, tools, routing, and observability, with real tradeoffs, failure modes, and design patterns.")
+- [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
+- [What Is the A2A Protocol? Agent Cards and Tasks Explained](https://www.glukhov.org/ai-systems/architecture/a2a-protocol-explained/ "A practical guide to the A2A Protocol for AI agents, explaining Agent Cards, tasks, messages, parts, artifacts, discovery, and architecture tradeoffs.")
 
 OpenClaw:
 - [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
