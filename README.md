@@ -194,6 +194,7 @@ Agent Memory:
 
 ## Architecture
 
+- [Decision Records for AI-Driven Software Development](https://www.glukhov.org/app-architecture/documentation/decision-records-ai-driven-development/ "Learn how ADRs, PDRs, and DDRs preserve intent, guide AI coding agents, and keep architecture, product, and design decisions close to code.")
 - [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/ "Learn how to implement the CQRS pattern in Go. This guide covers design principles, practical code examples, library recommendations (Watermill, Event Horizon), and architectural tradeoffs for building scalable, maintainable systems.")
 - [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
 - [Slack Integration Patterns for Alerts and Workflows](https://www.glukhov.org/app-architecture/integration-patterns/slack/ "Deep dive on Slack webhooks and apps for alerts, approvals, and workflow automation. Block Kit buttons, signature verification, Go and Python examples.")
