@@ -12,6 +12,7 @@ This page contains links to my posts about software development, AI, experiments
 - [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
 - [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/ "A practical Claude Code guide: install, quickstart commands, settings.json, permissions, pricing, and running fully local backends via Ollama or llama.cpp.")
 - [Claude Skills and SKILL.md for Developers: VS Code, JetBrains, Cursor](https://www.glukhov.org/ai-devtools/claude-code/claude-skills-for-developers/ "Build reliable Claude Skills with SKILL.md: IDE compatibility across VS Code, JetBrains, and Cursor, folder layout, trigger tuning, agent-safe scripts, and testing.")
+- [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/ "Vibe coding drifts, SDD promises structure -- but is it just waterfall with markdown? Learn when specs help, when they hurt, and how to find the useful middle ground.")
 
 ## AI Assistants
 
@@ -194,6 +195,7 @@ Agent Memory:
 
 ## Architecture
 
+- [What Is Spec-Driven Development? The Spec as Source of Truth](https://www.glukhov.org/app-architecture/documentation/what-is-spec-driven-development/ "SDD makes the specification the source of truth for AI coding. Learn the core workflow, how it differs from TDD and BDD, and the real costs and benefits.")
 - [Decision Records for AI-Driven Software Development](https://www.glukhov.org/app-architecture/documentation/decision-records-ai-driven-development/ "Learn how ADRs, PDRs, and DDRs preserve intent, guide AI coding agents, and keep architecture, product, and design decisions close to code.")
 - [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/ "Learn how to implement the CQRS pattern in Go. This guide covers design principles, practical code examples, library recommendations (Watermill, Event Horizon), and architectural tradeoffs for building scalable, maintainable systems.")
 - [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
