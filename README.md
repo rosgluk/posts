@@ -18,10 +18,6 @@ This page contains links to my posts about software development, AI, experiments
 
 - [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
 - [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://www.glukhov.org/ai-systems/architecture/ai-assistant-architecture/ "A deep technical guide to AI assistant architecture: LLMs, memory, tools, routing, and observability, with real tradeoffs, failure modes, and design patterns.")
-- [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
-- [What Is the A2A Protocol? Agent Cards and Tasks Explained](https://www.glukhov.org/ai-systems/architecture/a2a-protocol-explained/ "A practical guide to the A2A Protocol for AI agents, explaining Agent Cards, tasks, messages, parts, artifacts, discovery, and architecture tradeoffs.")
-- [Polling Agents in AI Assistants: 11 Implementation Patterns](https://www.glukhov.org/ai-systems/architecture/polling-agents-ai-assistants-implementation-patterns/ "A practical guide to polling agent patterns in AI assistants — schedulers, queues, webhooks, durable workflows, state management, and tradeoffs for production systems.")
-- [Google A2A Protocol in 2026: Adoption, Hype, and Reality](https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption/ "Is Google's A2A protocol actually useful in 2026? A practical review of A2A adoption, MCP overlap, security concerns, and when to use agent-to-agent protocols in production.")
 
 OpenClaw:
 - [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
@@ -48,6 +44,14 @@ Agent Memory:
 - [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/ai-systems/memory/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/ai-systems/memory/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
 
+Agents
+- [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
+- [What Is the A2A Protocol? Agent Cards and Tasks Explained](https://www.glukhov.org/ai-systems/architecture/a2a-protocol-explained/ "A practical guide to the A2A Protocol for AI agents, explaining Agent Cards, tasks, messages, parts, artifacts, discovery, and architecture tradeoffs.")
+- [Polling Agents in AI Assistants: 11 Implementation Patterns](https://www.glukhov.org/ai-systems/architecture/polling-agents-ai-assistants-implementation-patterns/ "A practical guide to polling agent patterns in AI assistants — schedulers, queues, webhooks, durable workflows, state management, and tradeoffs for production systems.")
+- [Google A2A Protocol in 2026: Adoption, Hype, and Reality](https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption/ "Is Google's A2A protocol actually useful in 2026? A practical review of A2A adoption, MCP overlap, security concerns, and when to use agent-to-agent protocols in production.")
+- [Multi-Agent Orchestration Patterns: A Practical Guide](https://www.glukhov.org/ai-systems/architecture/multi-agent-orchestration-patterns/ "Six proven multi-agent orchestration patterns for production AI systems: orchestrator-worker, sequential pipeline, fan-out, hierarchical, swarm, and mesh. Decision framework, failure modes, cost analysis, and observability.")
+
+
 ## AI Systems and Frontends
 
 - [Vane (Perplexica 2.0) Quickstart With Ollama and llama.cpp](https://www.glukhov.org/llm-hosting/llm-frontends/vane-perplexica-2/ "Self-host Vane (Perplexica 2.0) with Docker, wire it to SearxNG, and use local LLMs via Ollama or llama.cpp. History, features, API.")
@@ -65,6 +69,7 @@ Agent Memory:
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Speculative Decoding: 20-50% Faster LLM Inference](https://www.glukhov.org/llm-performance/optimization/speculative-decoding/ "Speculative decoding speeds up LLM inference 20-50% with zero quality loss. Draft-verify mechanics, EAGLE-3, P-EAGLE, n-gram, MTP, and setup for llama.cpp, vLLM, SGLang, TensorRT-LLM.")
 - [Qwen 3.6 27B and 35B MTP vs Standard on 16GB GPU](https://www.glukhov.org/llm-performance/benchmarks/comparing-qwen-3-6-mtp-vs-standard/ "Benchmark results for Qwen 3.6 27B and 35B MTP speculative decoding in llama.cpp on RTX 4080 16GB. Token speed, VRAM cost, and optimal --spec-draft-n-max settings.")
 - [Unload All llama.cpp Router Models Without Restarting](https://www.glukhov.org/llm-hosting/llama-cpp/unload-llama-cpp-router-models/ "Learn how to unload every loaded llama.cpp router model with curl and jq, free VRAM safely, and avoid restarting llama-server in local LLM workflows.")
 - [Agentic LLM Inference Parameters Reference for Qwen 3.6 and Gemma 4](https://www.glukhov.org/llm-performance/benchmarks/agentic-inference-parameters-reference/ "Curated reference of vendor and community inference parameters for Qwen 3.6 and Gemma 4, optimized for agentic workflows and real-world coding systems.")
