@@ -231,6 +231,7 @@ Agents
 ## Docker and Kuberntetes
 
 - [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://www.glukhov.org/developer-tools/containers/install-docker-on-ubuntu/ "Compare Docker install methods on Ubuntu: official APT repo, docker.io, Snap, rootless mode, Compose plugin, and post-install security. Decision table and migration paths included.")
+- [Run Docker Compose as a Linux Service with systemd](https://www.glukhov.org/developer-tools/containers/docker-compose-as-systemd-service/ "Run Docker Compose as a reliable Linux service with systemd. Type=oneshot units, restart policies, logs, updates, health checks, backups, and safe cleanup.")
 - [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
 - [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
 - [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
