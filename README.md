@@ -50,6 +50,8 @@ Agents
 - [Polling Agents in AI Assistants: 11 Implementation Patterns](https://www.glukhov.org/ai-systems/architecture/polling-agents-ai-assistants-implementation-patterns/ "A practical guide to polling agent patterns in AI assistants — schedulers, queues, webhooks, durable workflows, state management, and tradeoffs for production systems.")
 - [Google A2A Protocol in 2026: Adoption, Hype, and Reality](https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption/ "Is Google's A2A protocol actually useful in 2026? A practical review of A2A adoption, MCP overlap, security concerns, and when to use agent-to-agent protocols in production.")
 - [Multi-Agent Orchestration Patterns: A Practical Guide](https://www.glukhov.org/ai-systems/architecture/multi-agent-orchestration-patterns/ "Six proven multi-agent orchestration patterns for production AI systems: orchestrator-worker, sequential pipeline, fan-out, hierarchical, swarm, and mesh. Decision framework, failure modes, cost analysis, and observability.")
+- [A2A Streaming and Async Tasks for Long-Running Agent Workflows](https://www.glukhov.org/ai-systems/architecture/a2a-streaming-async-task-lifecycle/ "How to design A2A protocol streaming, async tasks, push notifications, and long-running agent workflows with SSE, polling, HITL states, and production observability.")
+- [A2A and MCP Agent Security: Identity, Delegation, and Audit Trails](https://www.glukhov.org/llm-architecture/guardrails/a2a-mcp-agent-security/ "Secure A2A and MCP agent systems with identity, auth, delegation controls, gateways, registries, audit trails, and a production checklist for multi-agent deployments.")
 
 
 ## AI Systems and Frontends
