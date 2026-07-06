@@ -13,6 +13,8 @@ This page contains links to my posts about software development, AI, experiments
 - [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/ "A practical Claude Code guide: install, quickstart commands, settings.json, permissions, pricing, and running fully local backends via Ollama or llama.cpp.")
 - [Claude Skills and SKILL.md for Developers: VS Code, JetBrains, Cursor](https://www.glukhov.org/ai-devtools/claude-code/claude-skills-for-developers/ "Build reliable Claude Skills with SKILL.md: IDE compatibility across VS Code, JetBrains, and Cursor, folder layout, trigger tuning, agent-safe scripts, and testing.")
 - [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/ "Vibe coding drifts, SDD promises structure -- but is it just waterfall with markdown? Learn when specs help, when they hurt, and how to find the useful middle ground.")
+- [Spec-Driven Development Workflow From Requirements to Code](https://www.glukhov.org/app-architecture/documentation/spec-driven-development-workflow/ "A practical five-phase spec-driven workflow for teams and AI agents. Cover requirements, design, task breakdown, implementation slices, and validation before you ship.")
+- [GitHub Spec Kit vs Kiro vs Claude Code SDD Workflows](https://www.glukhov.org/ai-devtools/ai-coding-assistants/spec-kit-vs-kiro-vs-claude-code/ "Compare GitHub Spec Kit, AWS Kiro, and Claude Code SDD workflows by portability, setup friction, review gates, and lock-in -- then pick the right setup for your team.")
 
 ## AI Assistants
 
