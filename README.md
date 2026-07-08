@@ -39,6 +39,7 @@ Hermes:
 - [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://www.glukhov.org/ai-systems/hermes/authoring-hermes-skill/ "Author Hermes skills with YAML frontmatter, progressive disclosure, conditional activation, secrets versus config, and index troubleshooting.")
 - [Kanban in Hermes Agent for Self Hosted LLM Workflows](https://www.glukhov.org/ai-systems/hermes/kanban-in-hermes/ "Set up Hermes Kanban to safely schedule multi agent tasks on self hosted LLMs using a dispatcher daemon, rate limits and cron based batching.")
 - [Hermes Voice Control from Your Phone](https://www.glukhov.org/ai-systems/hermes/hermes-voice-control/ "Set up Hermes voice control on Telegram and Discord using local Whisper and free Edge TTS. Includes setup, tuning tips, examples, and troubleshooting.")
+- [Hermes Agent: Headless Server + Remote Desktop Setup](https://www.glukhov.org/ai-systems/hermes/hermes-remote-backend-desktop/ "Run Hermes Agent on a headless server with remote desktop access. Covers hermes serve, gateway setup, systemd, and network security.")
 
 Agent Memory:
 - [Memory Systems in AI Assistants](https://www.glukhov.org/ai-systems/memory/memory-systems-in-ai-assistants/ "How to design short-term, long-term, and structured memory for AI assistants, with retrieval mechanics, tradeoffs, failure modes, and real patterns from OpenAI, LangGraph, Hermes, and OpenClaw.")
