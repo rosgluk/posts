@@ -439,6 +439,7 @@ Agents
 
 ## Drivers and Hardware
 
+- [GPUs for AI in 2026: NVIDIA, AMD, Intel Compared](https://www.glukhov.org/hardware/ai/gpu-comparison-ai-workloads-2026-nvidia-amd-intel/ "Compare NVIDIA Blackwell, AMD Radeon AI Pro R9700, and Intel Arc Pro B70 for local LLM inference. VRAM, bandwidth, software ecosystem, and real-world recommendations.")
 - [Compute Hardware in 2026: GPUs, CPUs, Memory & AI Workstations](https://www.glukhov.org/hardware/ "Analysis of GPUs, CPUs, RAM pricing, AI workstations and compute infrastructure trends. Hardware economics and performance considerations for modern workloads.")
 - [RTX 5090 in Australia March 2026 Pricing Stock Reality](https://www.glukhov.org/hardware/gpu/nvidia-rtx-5080-rtx-5090-prices-march-2026/ "RTX 5090 GPUs in Australia remain scarce and expensive in March 2026, with limited stock, long wait times, and inflated prices. Here is what is really happening and what comes next.")
 - [Hardware Price Crisis: GPUs and RAM in 2025-2026](https://glukhov.au/posts/2026/hardware-pricehikes/ "Hardware Price Crisis: GPUs and RAM in 2025-2026")
