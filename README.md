@@ -250,6 +250,7 @@ Agents
 - [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
 - [Helm Charts: Kubernetes Package Management](https://www.glukhov.org/post/2025/11/helm-charts-for-kubernetes-packages/ "Creating, managing, and deploying Helm Charts for Kubernetes. Comprehensive guide covering chart structure, templating, values management, OCI registries, and production best practices for DevOps teams")
 - [StatefulSets & Persistent Storage in K8s](https://www.glukhov.org/post/2025/11/statefulsets-and-persistent-storage-in-kubernetes/ "Learn how Kubernetes StatefulSets manage stateful applications with stable identities, ordered deployments, and persistent storage through PersistentVolumeClaims and volumeClaimTemplates for databases and distributed systems.")
+- [Podman Quadlet vs Docker Compose for Linux Services](https://www.glukhov.org/developer-tools/containers/podman-quadlet-vs-docker-compose/ "Compare Podman Quadlet and Docker Compose for Linux services: systemd integration, rootless containers, updates, logs, and migration.")
 
 
 ## Gitea as a self-hosted git server and other Git-related devops
