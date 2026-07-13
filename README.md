@@ -207,6 +207,7 @@ Agents
 
 ## Architecture
 
+- [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://www.glukhov.org/app-architecture/integration-patterns/circuit-breaker-pattern-in-go/ "Implement the circuit breaker pattern in Go with gobreaker, context timeouts, retries, fallbacks, and production-ready configuration for microservices.")
 - [What Is Spec-Driven Development? The Spec as Source of Truth](https://www.glukhov.org/app-architecture/documentation/what-is-spec-driven-development/ "SDD makes the specification the source of truth for AI coding. Learn the core workflow, how it differs from TDD and BDD, and the real costs and benefits.")
 - [Decision Records for AI-Driven Software Development](https://www.glukhov.org/app-architecture/documentation/decision-records-ai-driven-development/ "Learn how ADRs, PDRs, and DDRs preserve intent, guide AI coding agents, and keep architecture, product, and design decisions close to code.")
 - [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/ "Learn how to implement the CQRS pattern in Go. This guide covers design principles, practical code examples, library recommendations (Watermill, Event Horizon), and architectural tradeoffs for building scalable, maintainable systems.")
