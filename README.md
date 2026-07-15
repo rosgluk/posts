@@ -364,6 +364,7 @@ Agents
 - [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
 - [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
 - [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
+- [Syncthing File Sync for Self-Hosted Knowledge Systems](https://www.glukhov.org/knowledge-management/self-hosted-knowledge/syncthing-file-sync/ "A practical guide to using Syncthing for private file sync across notes, documents, servers, and local-first knowledge workflows without cloud lock-in.")
 
 ## Documentation: Latex, Markdown, Mermaid etc
 
