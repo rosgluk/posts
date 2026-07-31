@@ -74,6 +74,7 @@ Agents
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [Ollama to vLLM: When to Migrate Your Local LLM Server](https://www.glukhov.org/llm-hosting/comparisons/ollama-to-vllm-migration/ "Learn when to migrate from Ollama to vLLM. Migration signals, planning steps, Docker Compose setup, and a practical checklist for moving your local LLM server.")
 - [Speculative Decoding: 20-50% Faster LLM Inference](https://www.glukhov.org/llm-performance/optimization/speculative-decoding/ "Speculative decoding speeds up LLM inference 20-50% with zero quality loss. Draft-verify mechanics, EAGLE-3, P-EAGLE, n-gram, MTP, and setup for llama.cpp, vLLM, SGLang, TensorRT-LLM.")
 - [Qwen 3.6 27B and 35B MTP vs Standard on 16GB GPU](https://www.glukhov.org/llm-performance/benchmarks/comparing-qwen-3-6-mtp-vs-standard/ "Benchmark results for Qwen 3.6 27B and 35B MTP speculative decoding in llama.cpp on RTX 4080 16GB. Token speed, VRAM cost, and optimal --spec-draft-n-max settings.")
 - [Unload All llama.cpp Router Models Without Restarting](https://www.glukhov.org/llm-hosting/llama-cpp/unload-llama-cpp-router-models/ "Learn how to unload every loaded llama.cpp router model with curl and jq, free VRAM safely, and avoid restarting llama-server in local LLM workflows.")
@@ -207,6 +208,7 @@ Agents
 
 ## Architecture
 
+- [Dead Letter Queues: Handling Poison Messages in Distributed Systems](https://www.glukhov.org/app-architecture/integration-patterns/dead-letter-queues/ "A practical guide to dead-letter queues: catching poison messages, choosing retry vs discard policies, and designing safe replay strategies.")
 - [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://www.glukhov.org/app-architecture/integration-patterns/circuit-breaker-pattern-in-go/ "Implement the circuit breaker pattern in Go with gobreaker, context timeouts, retries, fallbacks, and production-ready configuration for microservices.")
 - [What Is Spec-Driven Development? The Spec as Source of Truth](https://www.glukhov.org/app-architecture/documentation/what-is-spec-driven-development/ "SDD makes the specification the source of truth for AI coding. Learn the core workflow, how it differs from TDD and BDD, and the real costs and benefits.")
 - [Decision Records for AI-Driven Software Development](https://www.glukhov.org/app-architecture/documentation/decision-records-ai-driven-development/ "Learn how ADRs, PDRs, and DDRs preserve intent, guide AI coding agents, and keep architecture, product, and design decisions close to code.")
@@ -223,6 +225,7 @@ Agents
 - [Go Error Handling Architecture: Boundaries and Patterns](https://www.glukhov.org/app-architecture/code-architecture/go-error-handling-architecture/ "Learn Go error handling architecture with wrapping, sentinel errors, custom types, errors.Is, errors.As, API boundaries, logging, and production patterns.")
 - [Go context.Context Done Right: Cancellation, Timeouts, and Values](https://www.glukhov.org/app-architecture/code-architecture/go-context-cancellation-timeouts/ "Master Go context for cancellation, timeouts, and request-scoped values. Covers HTTP handlers, database calls, background workers, goroutine leaks, and graceful shutdown.")
 - [Transactional Outbox Pattern in Go with PostgreSQL](https://www.glukhov.org/app-architecture/integration-patterns/transactional-outbox-pattern-go/ "Stop losing events between your database and message broker. Learn the transactional outbox pattern in Go with PostgreSQL, FOR UPDATE SKIP LOCKED, and a polling relay.")
+- [Keeping Specs, Tests, And Code In Sync In AI Development](https://www.glukhov.org/app-architecture/testing-architecture/specs-tests-code-traceability-ai-development/ "Learn how to build requirement-to-test-to-code traceability for AI-assisted development, catch spec drift early, and enforce it with CI gates and PR checklists.")
 
 ## Observability Monitoring and Alerting incl. Prometheus and Grafana
 
