@@ -4,17 +4,28 @@ This page contains links to my posts about software development, AI, experiments
 
 ## AI DevTools
 
+OpenCode
+
 - [OpenCode Quickstart: Install, Configure, and Use the Terminal AI Coding Agent](https://www.glukhov.org/ai-devtools/opencode/ "A practical OpenCode quickstart for developers: install and verify, connect models/providers, run CLI workflows, use the server + JS SDK, and keep a short cheatsheet.")
 - [Best LLMs for OpenCode - Tested Locally](https://www.glukhov.org/ai-devtools/opencode/llms-comparison/ "Hands-on comparison of LLMs in OpenCode - local Ollama and llama.cpp models vs cloud. Coding tasks, migration map accuracy stats, and honest failure analysis.")
 - [Oh My Opencode QuickStart for OpenCode: Install, Configure, Run](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode/ "A practical Oh My Opencode quickstart for OpenCode. Learn installation via bunx or npm, configuration file locations, ultrawork mode, agent models, and real command examples for daily dev.")
 - [Oh My Opencode Specialised Agents Deep Dive and Model Guide](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode-agents/ "Deep dive into Oh My Opencode specialised agents for OpenCode. Learn Sisyphus orchestration, Prometheus planning, Librarian research, Oracle review, model fallbacks, and local LLM swaps.")
 - [Oh My Opencode Review: Honest Results, Billing Risks, and When It's Worth It](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode-experience/ "Real hands-on Oh My Opencode experience plus community benchmarks. Learn when Ultrawork beats vanilla OpenCode, when it doesn't, and how to avoid the billing surprises that caught users off guard.")
-- [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
+
+Claude Code
+
 - [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/ "A practical Claude Code guide: install, quickstart commands, settings.json, permissions, pricing, and running fully local backends via Ollama or llama.cpp.")
+- [Claude Code Subagents: Setup, Config, and When to Use Them](https://www.glukhov.org/ai-devtools/claude-code/claude-code-subagents/ "How Claude Code subagents work: isolated context, model routing, .claude/agents setup, the Explore-Plan-Execute workflow, and mistakes to avoid.")
 - [Claude Skills and SKILL.md for Developers: VS Code, JetBrains, Cursor](https://www.glukhov.org/ai-devtools/claude-code/claude-skills-for-developers/ "Build reliable Claude Skills with SKILL.md: IDE compatibility across VS Code, JetBrains, and Cursor, folder layout, trigger tuning, agent-safe scripts, and testing.")
+
+Spec-Driven Development
 - [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/ "Vibe coding drifts, SDD promises structure -- but is it just waterfall with markdown? Learn when specs help, when they hurt, and how to find the useful middle ground.")
 - [Spec-Driven Development Workflow From Requirements to Code](https://www.glukhov.org/app-architecture/documentation/spec-driven-development-workflow/ "A practical five-phase spec-driven workflow for teams and AI agents. Cover requirements, design, task breakdown, implementation slices, and validation before you ship.")
 - [GitHub Spec Kit vs Kiro vs Claude Code SDD Workflows](https://www.glukhov.org/ai-devtools/ai-coding-assistants/spec-kit-vs-kiro-vs-claude-code/ "Compare GitHub Spec Kit, AWS Kiro, and Claude Code SDD workflows by portability, setup friction, review gates, and lock-in -- then pick the right setup for your team.")
+
+Other
+
+- [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
 
 ## AI Assistants
 
