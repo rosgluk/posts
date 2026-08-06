@@ -180,6 +180,7 @@ Agents
 - [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
 - [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
 - [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
+- [GFM vs CommonMark vs Pandoc Markdown: Syntax Compared](https://www.glukhov.org/documentation-tools/markdown/gfm-vs-commonmark-vs-pandoc-markdown/ "Compare CommonMark, GitHub Flavored Markdown, and Pandoc Markdown syntax, including tables, footnotes, math, metadata, and portability.")
 - [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
 - [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
 - [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
