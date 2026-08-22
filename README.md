@@ -26,6 +26,7 @@ Spec-Driven Development
 Other
 
 - [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
+- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/ "Pi Coding Agent review with quickstart, security notes, model support, extensions, sessions, and a practical verdict on this open-source terminal agent.")
 
 ## AI Assistants
 
