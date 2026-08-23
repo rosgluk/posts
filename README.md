@@ -22,6 +22,7 @@ Spec-Driven Development
 - [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/ "Vibe coding drifts, SDD promises structure -- but is it just waterfall with markdown? Learn when specs help, when they hurt, and how to find the useful middle ground.")
 - [Spec-Driven Development Workflow From Requirements to Code](https://www.glukhov.org/app-architecture/documentation/spec-driven-development-workflow/ "A practical five-phase spec-driven workflow for teams and AI agents. Cover requirements, design, task breakdown, implementation slices, and validation before you ship.")
 - [GitHub Spec Kit vs Kiro vs Claude Code SDD Workflows](https://www.glukhov.org/ai-devtools/ai-coding-assistants/spec-kit-vs-kiro-vs-claude-code/ "Compare GitHub Spec Kit, AWS Kiro, and Claude Code SDD workflows by portability, setup friction, review gates, and lock-in -- then pick the right setup for your team.")
+- [Superpowers Quickstart: Install, Workflow, and Tryout](https://www.glukhov.org/ai-devtools/superpowers/ "Install Superpowers, the open-source skills framework that enforces brainstorm-to-TDD spec-driven development across Claude Code, Cursor, and other agents.")
 
 Other
 
