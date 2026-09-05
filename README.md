@@ -63,6 +63,7 @@ Agent Memory:
 
 Agents
 - [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
+- [Agent Skills vs MCP Servers: Decision Framework](https://www.glukhov.org/ai-systems/mcp/agent-skills-vs-mcp-servers-decision-framework/ "Choose between Agent Skills and MCP servers using connectivity, credentials, context cost, security, and a practical thin-server pattern for AI agents.")
 - [What Is the A2A Protocol? Agent Cards and Tasks Explained](https://www.glukhov.org/ai-systems/architecture/a2a-protocol-explained/ "A practical guide to the A2A Protocol for AI agents, explaining Agent Cards, tasks, messages, parts, artifacts, discovery, and architecture tradeoffs.")
 - [Polling Agents in AI Assistants: 11 Implementation Patterns](https://www.glukhov.org/ai-systems/architecture/polling-agents-ai-assistants-implementation-patterns/ "A practical guide to polling agent patterns in AI assistants — schedulers, queues, webhooks, durable workflows, state management, and tradeoffs for production systems.")
 - [Google A2A Protocol in 2026: Adoption, Hype, and Reality](https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption/ "Is Google's A2A protocol actually useful in 2026? A practical review of A2A adoption, MCP overlap, security concerns, and when to use agent-to-agent protocols in production.")
