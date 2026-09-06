@@ -276,13 +276,13 @@ Agents
 
 ## Gitea as a self-hosted git server and other Git-related devops
 
-- [Gitflow Explained: Steps, Alternatives, Pros, and Cons](https://www.glukhov.org/post/2025/06/gitflow-steps-and-alternatives/ "Gitflow: a structured branching model for version control. Learn its steps, advantages, weaknesses, and alternatives like GitHub Flow. Ideal for large teams and complex projects.")
-- [Onprem git servers comparison](https://www.glukhov.org/post/2024/04/gitea/)
-- [Configuring gitea server SSL](https://www.glukhov.org/post/2024/04/gitea-ssl/)
-- [Backup and Restore Gitea server](https://www.glukhov.org/post/2024/05/gitea-backup-restore/)
-- [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
-- [DevOps with GitOps - Argo CD, Flux, Jenkins X, Weave GitOps and others](https://www.glukhov.org/post/2025/07/devops-with-gitops/ "DevOps with GitOps - Methodology Overview GitOps tools and comparison to alternatives")
-- [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/post/2025/07/github-actions-cheatsheet/ "GitHub Actions Cheatsheet with GitHub actions structure, short description and the most common actions used across open source and commercial workflows, specifically official, community, and third-party tools, supporting automation from builds and tests to deployment, release management, QA, and notifications")
+- [Gitflow Explained: Steps, Alternatives, Pros, and Cons](https://www.glukhov.org/developer-tools/git-and-forges/gitflow-steps-and-alternatives/ "Gitflow: a structured branching model for version control. Learn its steps, advantages, weaknesses, and alternatives like GitHub Flow. Ideal for large teams and complex projects.")
+- [Onprem git servers comparison](https://www.glukhov.org/developer-tools/git-and-forges/gitea/)
+- [Gitea SSL with Apache as reverse proxy](https://www.glukhov.org/developer-tools/git-and-forges/gitea-ssl/ "My steps to install reverse proxy for serving gitea and container registry over ssl")
+- [Backup and Restore Gitea server](https://www.glukhov.org/developer-tools/git-and-forges/gitea-backup-restore/ "Backup and restore a self-hosted Gitea server with the built-in gitea dump command, plus Docker steps, restore-repo, and troubleshooting tips.")
+- [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/web-infrastructure/hugo/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
+- [DevOps with GitOps - Argo CD, Flux, Jenkins X, Weave GitOps and others](https://www.glukhov.org/developer-tools/ci-cd/devops-with-gitops/ "DevOps with GitOps - Methodology Overview GitOps tools and comparison to alternatives")
+- [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/developer-tools/ci-cd/github-actions-cheatsheet/ "GitHub Actions Cheatsheet with GitHub actions structure, short description and the most common actions used across open source and commercial workflows, specifically official, community, and third-party tools, supporting automation from builds and tests to deployment, release management, QA, and notifications")
 
 ## Python Coding incl AWS
 
