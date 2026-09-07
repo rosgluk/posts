@@ -30,6 +30,10 @@ Other
 - [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
 - [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/ "Pi Coding Agent review with quickstart, security notes, model support, extensions, sessions, and a practical verdict on this open-source terminal agent.")
 
+## AI Models
+
+- [What Comes After LLMs? Mamba, Diffusion & World Models](https://www.glukhov.org/ai-models/architectures/what-comes-after-llms/ "Transformers are hitting walls in compute, data, and energy. State space models (Mamba), diffusion language models, and JEPA world models may come next.")
+
 ## AI Assistants
 
 - [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
