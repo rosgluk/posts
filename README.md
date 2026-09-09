@@ -93,6 +93,7 @@ Agents
 
 ## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
 
+- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://www.glukhov.org/llm-hosting/comparisons/amd-rocm-vs-vulkan-llm-hosting/ "Compare AMD ROCm and Vulkan backends for llama.cpp, Ollama, LM Studio, vLLM and TGI, with build commands, verification checks and a practical 2026 verdict.")
 - [KV Cache on 16 GB GPUs: Making Long Context Actually Fit](https://www.glukhov.org/llm-performance/optimization/kv-cache-16gb-long-context/ "Fit 32K to 128K LLM context into 16 GB VRAM by calculating KV cache cost, choosing cache precision, and tuning llama.cpp, vLLM, or Ollama safely.")
 - [Ollama to vLLM: When to Migrate Your Local LLM Server](https://www.glukhov.org/llm-hosting/comparisons/ollama-to-vllm-migration/ "Learn when to migrate from Ollama to vLLM. Migration signals, planning steps, Docker Compose setup, and a practical checklist for moving your local LLM server.")
 - [Speculative Decoding: 20-50% Faster LLM Inference](https://www.glukhov.org/llm-performance/optimization/speculative-decoding/ "Speculative decoding speeds up LLM inference 20-50% with zero quality loss. Draft-verify mechanics, EAGLE-3, P-EAGLE, n-gram, MTP, and setup for llama.cpp, vLLM, SGLang, TensorRT-LLM.")
