@@ -24,6 +24,7 @@ Spec-Driven Development
 - [Spec-Driven Development Workflow From Requirements to Code](https://www.glukhov.org/app-architecture/documentation/spec-driven-development-workflow/ "A practical five-phase spec-driven workflow for teams and AI agents. Cover requirements, design, task breakdown, implementation slices, and validation before you ship.")
 - [GitHub Spec Kit vs Kiro vs Claude Code SDD Workflows](https://www.glukhov.org/ai-devtools/ai-coding-assistants/spec-kit-vs-kiro-vs-claude-code/ "Compare GitHub Spec Kit, AWS Kiro, and Claude Code SDD workflows by portability, setup friction, review gates, and lock-in -- then pick the right setup for your team.")
 - [Superpowers Quickstart: Install, Workflow, and Tryout](https://www.glukhov.org/ai-devtools/superpowers/ "Install Superpowers, the open-source skills framework that enforces brainstorm-to-TDD spec-driven development across Claude Code, Cursor, and other agents.")
+- [OpenSpec Quickstart: Install, Workflow, and Common Pitfalls](https://www.glukhov.org/ai-devtools/openspec/ "Install OpenSpec, the change-centric spec-driven development CLI. Learn the explore-propose-apply-archive loop, brownfield setup, and where it breaks.")
 
 Other
 
