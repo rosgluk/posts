@@ -35,6 +35,7 @@ Other
 ## AI Models
 
 - [What Comes After LLMs? Mamba, Diffusion & World Models](https://www.glukhov.org/ai-models/architectures/what-comes-after-llms/ "Transformers are hitting walls in compute, data, and energy. State space models (Mamba), diffusion language models, and JEPA world models may come next.")
+- [The Efficient Frontier of Open Models: Finding the Sweet Spot in 2026](https://www.glukhov.org/llm-performance/benchmarks/efficient-frontier-of-open-models-2026/ "In 2026 the open-model efficient frontier sits at 25-34B: Qwen 3.8 27B and Llama 4 Scout deliver near-frontier capability at a fraction of 70B+ cost.")
 
 ## AI Assistants
 
