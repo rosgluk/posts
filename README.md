@@ -84,6 +84,7 @@ Agents
 
 ## AI Systems and Frontends
 
+- [Self-Hosted Deep Research Systems: 12 Tools Compared](https://www.glukhov.org/ai-systems/comparisons/deep-research-with-ai/ "Compare 12 self-hosted Deep Research systems: GPT Researcher, Onyx, Open WebUI, Khoj, Vane and more. Architectures, local LLM, RAG, licenses.")
 - [Vane (Perplexica 2.0) Quickstart With Ollama and llama.cpp](https://www.glukhov.org/llm-hosting/llm-frontends/vane-perplexica-2/ "Self-host Vane (Perplexica 2.0) with Docker, wire it to SearxNG, and use local LLMs via Ollama or llama.cpp. History, features, API.")
 - [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
 - [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
