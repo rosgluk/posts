@@ -26,6 +26,7 @@ Spec-Driven Development
 - [Superpowers Quickstart: Install, Workflow, and Tryout](https://www.glukhov.org/ai-devtools/superpowers/ "Install Superpowers, the open-source skills framework that enforces brainstorm-to-TDD spec-driven development across Claude Code, Cursor, and other agents.")
 - [OpenSpec Quickstart: Install, Workflow, and Common Pitfalls](https://www.glukhov.org/ai-devtools/openspec/ "Install OpenSpec, the change-centric spec-driven development CLI. Learn the explore-propose-apply-archive loop, brownfield setup, and where it breaks.")
 - [OpenSpec Rejected Proposals: A Decision Memory Convention](https://www.glukhov.org/ai-devtools/openspec/handling-rejected-proposals/ "OpenSpec has no native rejected-proposal state. Learn why, what the maintainers decided, and the decision.md convention that stops agents reopening settled investigations.")
+- [gstack: AI Software Engineering Stack](https://www.glukhov.org/ai-devtools/gstack/ "Explore gstack, an opinionated AI engineering stack for Claude Code: its skills, install steps, and how it combines with Superpowers, OpenSpec, and Spec Kit.")
 
 Other
 
