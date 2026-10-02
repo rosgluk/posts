@@ -463,13 +463,14 @@ Agents
 
 ## SEO
 
-[Self-Hosted SEO Tools and Platforms: Open Source Guide](https://www.glukhov.org/web-infrastructure/seo/self-hosted-seo-tools-and-platforms/ "Compare self-hosted SEO platforms, crawlers, rank trackers, MCP tools, and local AI options, including which features work without paid SEO APIs.")
+- [Self-Hosted SEO Tools and Platforms: Open Source Guide](https://www.glukhov.org/web-infrastructure/seo/self-hosted-seo-tools-and-platforms/ "Compare self-hosted SEO platforms, crawlers, rank trackers, MCP tools, and local AI options, including which features work without paid SEO APIs.")
+- [WordPress SEO Plugins Compared: Yoast to Local AI](https://www.glukhov.org/web-infrastructure/wordpress/wordpress-seo-plugins-compared/ "Compare Yoast, Rank Math, AIOSEO, SEOPress, Slim SEO, The SEO Framework, and local-LLM plugins for WordPress, and how to keep inference on your own server.")
+- [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
 
 ## Hugo
 
 - [Deploy Hugo Site to AWS S3 with AWS CLI](https://www.glukhov.org/post/2025/12/hugo-website-deployment-to-aws-s3-with-aws-cli/ "Complete guide to deploying Hugo static sites to AWS S3 using AWS CLI, including CloudFront setup, cache management, and automation strategies")
 - [Hugo Caching Strategies for Performance](https://www.glukhov.org/post/2025/11/hugo-caching-strategies/ "Master Hugo caching: build cache, incremental builds, CDN optimization, HTTP headers, and asset caching for faster static sites.")
-- [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
 - [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
 - [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
 - [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
