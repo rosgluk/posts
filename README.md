@@ -461,6 +461,10 @@ Agents
 - [Linux Data Science Stack: Jupyter, Pandas & Tools](https://www.glukhov.org/post/2025/11/linux-for-data-science-jupyter-pandas-tools/ "A Guide to setting up a powerful Linux environment for data science with Jupyter, Pandas, Anaconda, and essential tools - optimization tips, best practices, and workflow automation for efficient data analysis.")
 - [Detecting AI Slop: Techniques & Red Flags](https://www.glukhov.org/post/2025/12/ai-slop-detection/ "Learn practical methods for identifying low-quality AI-generated content, including detection tools, linguistic patterns, and technical approaches.")
 
+## SEO
+
+[Self-Hosted SEO Tools and Platforms: Open Source Guide](https://www.glukhov.org/web-infrastructure/seo/self-hosted-seo-tools-and-platforms/ "Compare self-hosted SEO platforms, crawlers, rank trackers, MCP tools, and local AI options, including which features work without paid SEO APIs.")
+
 ## Hugo
 
 - [Deploy Hugo Site to AWS S3 with AWS CLI](https://www.glukhov.org/post/2025/12/hugo-website-deployment-to-aws-s3-with-aws-cli/ "Complete guide to deploying Hugo static sites to AWS S3 using AWS CLI, including CloudFront setup, cache management, and automation strategies")
