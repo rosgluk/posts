@@ -264,6 +264,7 @@ Agents
 - [Go context.Context Done Right: Cancellation, Timeouts, and Values](https://www.glukhov.org/app-architecture/code-architecture/go-context-cancellation-timeouts/ "Master Go context for cancellation, timeouts, and request-scoped values. Covers HTTP handlers, database calls, background workers, goroutine leaks, and graceful shutdown.")
 - [Transactional Outbox Pattern in Go with PostgreSQL](https://www.glukhov.org/app-architecture/integration-patterns/transactional-outbox-pattern-go/ "Stop losing events between your database and message broker. Learn the transactional outbox pattern in Go with PostgreSQL, FOR UPDATE SKIP LOCKED, and a polling relay.")
 - [Keeping Specs, Tests, And Code In Sync In AI Development](https://www.glukhov.org/app-architecture/testing-architecture/specs-tests-code-traceability-ai-development/ "Learn how to build requirement-to-test-to-code traceability for AI-assisted development, catch spec drift early, and enforce it with CI gates and PR checklists.")
+- [Go Web Frameworks in 2026: net/http, chi, Gin, Echo, Fiber Compared](https://www.glukhov.org/app-architecture/api-architecture/go-web-frameworks-stdlib-chi-gin-echo-fiber/ "Benchmarked 2026 comparison of Go HTTP stacks: net/http ServeMux, chi, Gin, Echo, and Fiber - routing, allocations, the fasthttp tradeoff, and how to choose.")
 
 ## Observability Monitoring and Alerting incl. Prometheus and Grafana
 
@@ -420,13 +421,20 @@ Agents
 - [Tables in Markdown: Quick Guide](https://www.glukhov.org/post/2025/11/tables-in-markdown/ "Master Markdown table syntax with this comprehensive guide covering basic tables, alignment, GitHub Flavored Markdown (GFM), formatting best practices, common pitfalls, and tools for creating professional-looking tables. Learn how to structure data effectively in your documentation, README files, and technical blogs with practical examples and expert tips for optimizing readability and maintainability.")
 - [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://www.glukhov.org/documentation-tools/diagrams/mermaid-diagrams-quickstart-cheatsheet/ "Learn Mermaid diagrams fast with a practical quickstart, syntax cheatsheet, Hugo setup notes, examples, and best practices for technical blogs.")
 
-## Other
+## Web Infrastructure
 
+- [Best Newsletter Platforms in 2026: Pricing, Hosting and SEO](https://www.glukhov.org/web-infrastructure/newsletters/best-newsletter-platforms/ "Buttondown, EmailOctopus, beehiiv, Kit, Ghost, Substack, MailerLite, Brevo, Sender: pricing, public archives, canonical URLs, APIs, and ownership compared.")
+- [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
+- [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
 - [Hosted email for custom domains compared - Workspace, Microsoft 365, Zoho, Proton, WorkMail](https://www.glukhov.org/web-infrastructure/domain-services/email/ "Google Workspace, Microsoft 365, Zoho, Proton, and AWS WorkMail compared for custom-domain email. Typical monthly cost, what MX and SPF really buy you, deliverability tradeoffs, and when to skip self-hosting.")
 - [Beyond Google: Alternative Search Engines Guide](https://www.glukhov.org/post/2025/10/alternative-search-engines/ "Comprehensive guide to alternative search engines including hosted and self-hosted options, AI-powered search, and privacy-focused alternatives.")
 - [Tor Network Statistics: A Decade of Growth and Challenges (2015-2025)](https://www.glukhov.org/post/2025/10/tor-statistics/ "Comprehensive analysis of Tor network statistics from 2015-2025, examining exit relay and bridge count fluctuations, underlying causes, and implications for network resilience and user accessibility.")
-- [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
-- [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
+- [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
+- [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
+
+
+## Other
+
 - [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
 - [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
 - [Digital Detox](https://www.glukhov.org/post/2024/10/digital-detox/ "Digital Detox - why, when and how to do it properly")
@@ -434,8 +442,6 @@ Agents
 - [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
 - [Optimal Aperture, Shutter Speed and ISO for Video Recording](https://www.glukhov.org/post/2025/01/optimal-parameters-for-video-recording/ "Optimal Parameters for Video Recording - Aperture, Shutter Speed and ISO")
 - [SQL Cheatsheet](https://www.glukhov.org/post/2024/02/sql-cheatsheet "SQL Cheatsheet")
-- [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
-- [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
 - [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
 - [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
 - [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
