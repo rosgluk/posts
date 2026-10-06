@@ -181,6 +181,7 @@ Agents
 
 ## Data and Infrastructure
 
+- [Self-Hosted S3 Alternatives in 2026 (RustFS, Garage, SeaweedFS, Ceph)](https://www.glukhov.org/data-infrastructure/object-storage/self-hosted-s3-alternatives/ "Compare RustFS, Garage, SeaweedFS, Ceph RGW, VersityGW, S3Proxy, and rclone for self-hosted S3. Native object stores vs filesystem-backed S3 gateways.")
 - [MinIO CE in 2026: Retired Upstream, Source-Only, and What to Use](https://www.glukhov.org/data-infrastructure/object-storage/minio-dead/ "MinIO CE is archived, source-only, and operationally high risk. Here is the timeline, community verdict, and safer alternatives for S3 compatible storage.")
 - [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
 - [Garage vs MinIO vs AWS S3: Object Storage Comparison and Feature Matrix](https://www.glukhov.org/data-infrastructure/object-storage/garage-vs-minio-vs-s3/ "Compare MinIO, Garage, and AWS S3 for object storage. Feature matrix, cost model, operational complexity, and when to choose each—managed S3, self-hosted Garage, or MinIO with broad S3 parity.")
