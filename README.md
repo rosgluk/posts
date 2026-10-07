@@ -192,8 +192,17 @@ Agents
 
 ## Linux & ops
 
-- [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
+### VMS
+
+- [Clone a VM in Virt-Manager with virt-clone and virt-sysprep](https://www.glukhov.org/developer-tools/virtualization/cloning-vms-in-virt-manager/ "virt-clone copies the disk, virt-sysprep resets identity, qemu-img exposes backing files. The full pipeline for cloning KVM guests in Virt-Manager.")
 - [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
+- [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
+- [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
+- [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
+
+### Ops
+
+- [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
 - [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
 - [Self-hosting Perplexica - with Ollama](https://www.glukhov.org/post/2024/08/selfhosting-perplexica-ollama/ "Install and configure Perplexica with Ollama")
 - [How t install network-wide adblocker](https://www.glukhov.org/post/2024/06/pi-hole-ad-blocker-install/)
@@ -221,11 +230,8 @@ Agents
 - [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
 - [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
 - [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
-- [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
 - [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
 - [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
-- [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
-- [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
 - [Ubuntu Keyboard Shortcuts: Complete Cheatsheet](https://www.glukhov.org/post/2025/10/ubuntu-keyboard-shortcuts-cheatsheet/ "Master Ubuntu productivity with essential keyboard shortcuts for window management, workspaces, terminal, file management, and system controls. Boost your Linux workflow efficiency today.")
 - [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
 - [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
