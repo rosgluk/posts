@@ -272,6 +272,7 @@ Agents
 - [Transactional Outbox Pattern in Go with PostgreSQL](https://www.glukhov.org/app-architecture/integration-patterns/transactional-outbox-pattern-go/ "Stop losing events between your database and message broker. Learn the transactional outbox pattern in Go with PostgreSQL, FOR UPDATE SKIP LOCKED, and a polling relay.")
 - [Keeping Specs, Tests, And Code In Sync In AI Development](https://www.glukhov.org/app-architecture/testing-architecture/specs-tests-code-traceability-ai-development/ "Learn how to build requirement-to-test-to-code traceability for AI-assisted development, catch spec drift early, and enforce it with CI gates and PR checklists.")
 - [Go Web Frameworks in 2026: net/http, chi, Gin, Echo, Fiber Compared](https://www.glukhov.org/app-architecture/api-architecture/go-web-frameworks-stdlib-chi-gin-echo-fiber/ "Benchmarked 2026 comparison of Go HTTP stacks: net/http ServeMux, chi, Gin, Echo, and Fiber - routing, allocations, the fasthttp tradeoff, and how to choose.")
+- [Bounding Concurrency in Go: errgroup, Worker Pools, and Backpressure](https://www.glukhov.org/app-architecture/code-architecture/bounding-concurrency-in-go/ "Bound Go concurrency: errgroup.SetLimit, semaphore channels, worker pools, and bounded queues - with the goroutine leak that survives errgroup.Wait.")
 
 ## Observability Monitoring and Alerting incl. Prometheus and Grafana
 
