@@ -348,6 +348,7 @@ Agents
 
 ## AWS, Flutter, Go and other development
 
+- [Upgrading to Go 1.27: What Breaks, What to Adopt First](https://www.glukhov.org/developer-tools/local-dev-platforms/go-1-27-upgrade-what-breaks/ "Go 1.27 upgrade guide: encoding/json v2 engine gotchas, stdlib uuid migration, generic methods, simd experiment, and the GODEBUG changes that fail builds.")
 - [Implementing Workflow Applications with Temporal in Go: A Complete Guide](https://www.glukhov.org/post/2026/03/workflow-applications-temporal-in-go/ "Learn how to implement workflow applications with Temporal in Go using the official Temporal Go SDK. This end-to-end guide covers configuration, examples, deployment, troubleshooting, and best practices for building scalable, resilient workflows.")
 - [Create AWS CloudFront on Pay-as-You-Go (not the Free) Plan](https://www.glukhov.org/post/2026/02/create-aws-cloudfront-distribution-pay-as-you-go-instead-of-free/ "Use AWS CLI to create a CloudFront distribution on pay-as-you-go pricing when the console only offers Free or Pro flat-rate plans.")
 - [Terminal UI: BubbleTea (Go) vs Ratatui (Rust)](https://www.glukhov.org/post/2026/02/tui-frameworks-bubbletea-go-vs-ratatui-rust/ "BubbleTea and Ratatui compared: Elm-style vs immediate mode, Crush and 2000+ crates, Netflix/OpenAI/AWS. One example each; when to choose which.")
