@@ -65,6 +65,7 @@ Hermes:
 - [Hermes Agent: Headless Server + Remote Desktop Setup](https://www.glukhov.org/ai-systems/hermes/hermes-remote-backend-desktop/ "Run Hermes Agent on a headless server with remote desktop access. Covers hermes serve, gateway setup, systemd, and network security.")
 - [How to Migrate from OpenClaw to Hermes Agent Safely](https://www.glukhov.org/ai-systems/hermes/migrate-from-openclaw/ "Migrate OpenClaw to Hermes Agent with dry-run checks, precise memory and skill mapping, secret handling, channel cutover, rollback, and manual fixes.")
 - [Mnemosyne for Hermes Agent: Local Memory Quickstart](https://www.glukhov.org/ai-systems/hermes/mnemosyne-memory/ "Install Mnemosyne as a local Hermes memory provider, configure recall and retention, and inspect the SQLite store.")
+- [Hindsight for Hermes Agent: Self-Hosted Memory with Local LLMs](https://www.glukhov.org/ai-systems/hermes/hindsight-for-hermes-local-llms/ "Deploy Hindsight for Hermes Agent with Docker and PostgreSQL. Wire local Qwen3 embeddings and reranking through Ollama or llama.cpp, with no cloud inference.")
 
 Agent Memory:
 - [Self-Reinforcing Memory Loops in AI Agents: Causes and Fixes](https://www.glukhov.org/ai-systems/memory/self-reinforcing-memory-loops/ "Agent memory can turn model inferences into future evidence. How those loops form, why they matter, and which write-path controls limit them.")
