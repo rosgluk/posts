@@ -92,6 +92,8 @@ Agents
 - [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
 - [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
 - [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
+- [Trending Open Source AI Projects on GitHub, October 2026](https://www.glukhov.org/developer-tools/comparisons/trending-open-source-ai-projects/ "October 2026 snapshot of trending open source AI projects on GitHub, grouped by job: assistants, memory, RAG, local inference, builders, and gateways.")
+
 
 ## LLM Systems Architecture
 
