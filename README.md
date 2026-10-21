@@ -73,6 +73,7 @@ Agent Memory:
 - [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
 - [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/ai-systems/memory/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
 - [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/ai-systems/memory/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
+- [Tiered Context: A Knowledge Hierarchy for AI Agents](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/tiered-context-hierarchy-for-agents/ "How to layer agent knowledge by injection trigger — always, task, semantic recall, explicit reference — and enforce domain separation with profile boundaries.")
 
 Agents
 - [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
