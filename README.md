@@ -35,6 +35,7 @@ Other
 
 ## AI Models
 
+- [Decision LLMs: When a Model Should Decide — and When It Shouldn't](https://www.glukhov.org/ai-systems/architecture/decision-llms-when-models-should-decide/ "LLMs answer well and decide badly. A decision rubric: five decision roles, routing to the smallest competent model, and verifiable decisions.")
 - [Qwen 4 Is Coming: What's Confirmed and What It Means for Local AI](https://www.glukhov.org/ai-models/families/qwen-4/ "Alibaba has confirmed Qwen 4 is in training. What is actually confirmed, the 27B benchmark ladder, Flash-Next architecture clues, and consumer-GPU fit.")
 - [What Comes After LLMs? Mamba, Diffusion & World Models](https://www.glukhov.org/ai-models/architectures/what-comes-after-llms/ "Transformers are hitting walls in compute, data, and energy. State space models (Mamba), diffusion language models, and JEPA world models may come next.")
 - [The Efficient Frontier of Open Models: Finding the Sweet Spot in 2026](https://www.glukhov.org/llm-performance/benchmarks/efficient-frontier-of-open-models-2026/ "In 2026 the open-model efficient frontier sits at 25-34B: Qwen 3.8 27B and Llama 4 Scout deliver near-frontier capability at a fraction of 70B+ cost.")
