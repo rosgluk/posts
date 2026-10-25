@@ -1,546 +1,183 @@
-# posts
+# Posts
 
-This page contains links to my posts about software development, AI, experiments and Melbourne it-related events.
+Articles on [glukhov.org](https://www.glukhov.org/) about AI systems, local infrastructure, and software development.
+
+Each section links the section page, a few articles to open first, and a file in this repo with the full list.
 
 ## AI DevTools
 
-OpenCode
+Terminal and IDE coding agents, spec-driven workflows, and the skills frameworks around them.
 
-- [OpenCode Quickstart: Install, Configure, and Use the Terminal AI Coding Agent](https://www.glukhov.org/ai-devtools/opencode/ "A practical OpenCode quickstart for developers: install and verify, connect models/providers, run CLI workflows, use the server + JS SDK, and keep a short cheatsheet.")
-- [OpenCode CLI in Practice: Workflows, Automation, and Pitfalls](https://www.glukhov.org/ai-devtools/opencode/opencode-cli-in-practice/ "A practical guide to OpenCode from the command line: opencode run, scripting, CI automation, agents, permissions, local models, and real failure modes.")
-- [Best LLMs for OpenCode - Tested Locally](https://www.glukhov.org/ai-devtools/opencode/llms-comparison/ "Hands-on comparison of LLMs in OpenCode - local Ollama and llama.cpp models vs cloud. Coding tasks, migration map accuracy stats, and honest failure analysis.")
-- [Oh My Opencode QuickStart for OpenCode: Install, Configure, Run](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode/ "A practical Oh My Opencode quickstart for OpenCode. Learn installation via bunx or npm, configuration file locations, ultrawork mode, agent models, and real command examples for daily dev.")
-- [Oh My Opencode Specialised Agents Deep Dive and Model Guide](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode-agents/ "Deep dive into Oh My Opencode specialised agents for OpenCode. Learn Sisyphus orchestration, Prometheus planning, Librarian research, Oracle review, model fallbacks, and local LLM swaps.")
-- [Oh My Opencode Review: Honest Results, Billing Risks, and When It's Worth It](https://www.glukhov.org/ai-devtools/opencode/oh-my-opencode-experience/ "Real hands-on Oh My Opencode experience plus community benchmarks. Learn when Ultrawork beats vanilla OpenCode, when it doesn't, and how to avoid the billing surprises that caught users off guard.")
+- [AI Developer Tools: The Complete Guide to AI-Powered Development](https://www.glukhov.org/ai-devtools/)
+- [OpenCode Quickstart: Install, Configure, and Use the Terminal AI Coding Agent](https://www.glukhov.org/ai-devtools/opencode/)
+- [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/)
+- [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/)
+- [gstack: AI Software Engineering Stack](https://www.glukhov.org/ai-devtools/gstack/)
 
-Claude Code
+Full list: [ai-devtools.md](ai-devtools.md)
 
-- [Claude Code install and config for Ollama, llama.cpp, pricing](https://www.glukhov.org/ai-devtools/claude-code/ "A practical Claude Code guide: install, quickstart commands, settings.json, permissions, pricing, and running fully local backends via Ollama or llama.cpp.")
-- [Claude Code Subagents: Setup, Config, and When to Use Them](https://www.glukhov.org/ai-devtools/claude-code/claude-code-subagents/ "How Claude Code subagents work: isolated context, model routing, .claude/agents setup, the Explore-Plan-Execute workflow, and mistakes to avoid.")
-- [Claude Skills and SKILL.md for Developers: VS Code, JetBrains, Cursor](https://www.glukhov.org/ai-devtools/claude-code/claude-skills-for-developers/ "Build reliable Claude Skills with SKILL.md: IDE compatibility across VS Code, JetBrains, and Cursor, folder layout, trigger tuning, agent-safe scripts, and testing.")
+## AI Systems
 
-Spec-Driven Development
-- [Spec-Driven Development vs Vibe Coding: Waterfall?](https://www.glukhov.org/ai-devtools/vibe-coding/spec-driven-development-vs-vibe-coding/ "Vibe coding drifts, SDD promises structure -- but is it just waterfall with markdown? Learn when specs help, when they hurt, and how to find the useful middle ground.")
-- [Spec-Driven Development Workflow From Requirements to Code](https://www.glukhov.org/app-architecture/documentation/spec-driven-development-workflow/ "A practical five-phase spec-driven workflow for teams and AI agents. Cover requirements, design, task breakdown, implementation slices, and validation before you ship.")
-- [GitHub Spec Kit vs Kiro vs Claude Code SDD Workflows](https://www.glukhov.org/ai-devtools/ai-coding-assistants/spec-kit-vs-kiro-vs-claude-code/ "Compare GitHub Spec Kit, AWS Kiro, and Claude Code SDD workflows by portability, setup friction, review gates, and lock-in -- then pick the right setup for your team.")
-- [Superpowers Quickstart: Install, Workflow, and Tryout](https://www.glukhov.org/ai-devtools/superpowers/ "Install Superpowers, the open-source skills framework that enforces brainstorm-to-TDD spec-driven development across Claude Code, Cursor, and other agents.")
-- [OpenSpec Quickstart: Install, Workflow, and Common Pitfalls](https://www.glukhov.org/ai-devtools/openspec/ "Install OpenSpec, the change-centric spec-driven development CLI. Learn the explore-propose-apply-archive loop, brownfield setup, and where it breaks.")
-- [OpenSpec Rejected Proposals: A Decision Memory Convention](https://www.glukhov.org/ai-devtools/openspec/handling-rejected-proposals/ "OpenSpec has no native rejected-proposal state. Learn why, what the maintainers decided, and the decision.md convention that stops agents reopening settled investigations.")
-- [gstack: AI Software Engineering Stack](https://www.glukhov.org/ai-devtools/gstack/ "Explore gstack, an opinionated AI engineering stack for Claude Code: its skills, install steps, and how it combines with Superpowers, OpenSpec, and Spec Kit.")
+Self-hosted assistants, agent protocols, and memory.
 
-Other
+- [AI Systems: Self-Hosted Assistants, RAG, and Local Infrastructure](https://www.glukhov.org/ai-systems/)
+- [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://www.glukhov.org/ai-systems/architecture/ai-assistant-architecture/)
+- [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/)
+- [Memory Systems in AI Assistants](https://www.glukhov.org/ai-systems/memory/memory-systems-in-ai-assistants/)
+- [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/)
 
-- [OpenHands Coding Assistant QuickStart: Install, CLI Flags, Examples](https://www.glukhov.org/ai-devtools/openhands/ "OpenHands QuickStart for developers. Install the CLI, configure your LLM API key, learn core command-line flags and safety modes, and run practical examples in interactive and headless workflows.")
-- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/ "Pi Coding Agent review with quickstart, security notes, model support, extensions, sessions, and a practical verdict on this open-source terminal agent.")
+Full list: [ai-systems.md](ai-systems.md)
 
 ## AI Models
 
-- [Decision LLMs: When a Model Should Decide — and When It Shouldn't](https://www.glukhov.org/ai-systems/architecture/decision-llms-when-models-should-decide/ "LLMs answer well and decide badly. A decision rubric: five decision roles, routing to the smallest competent model, and verifiable decisions.")
-- [Qwen 4 Is Coming: What's Confirmed and What It Means for Local AI](https://www.glukhov.org/ai-models/families/qwen-4/ "Alibaba has confirmed Qwen 4 is in training. What is actually confirmed, the 27B benchmark ladder, Flash-Next architecture clues, and consumer-GPU fit.")
-- [What Comes After LLMs? Mamba, Diffusion & World Models](https://www.glukhov.org/ai-models/architectures/what-comes-after-llms/ "Transformers are hitting walls in compute, data, and energy. State space models (Mamba), diffusion language models, and JEPA world models may come next.")
-- [The Efficient Frontier of Open Models: Finding the Sweet Spot in 2026](https://www.glukhov.org/llm-performance/benchmarks/efficient-frontier-of-open-models-2026/ "In 2026 the open-model efficient frontier sits at 25-34B: Qwen 3.8 27B and Llama 4 Scout deliver near-frontier capability at a fraction of 70B+ cost.")
-- [LLM Systems: Operational Reference for Self-Hosted Inference](https://llmsystems.dev/ "llmsystems.dev is live: curated model and GGUF artifact records, llama.cpp, hardware memory classes, and weights-only VRAM bands with explicit evidence labels (SOURCE, POLICY, OBSERVED). Built for people who self-host")
+Model families, architectures, and what the benchmarks are measuring.
 
-## AI Assistants
+- [AI Models: Capability Analysis, Architectures, and Family Guides](https://www.glukhov.org/ai-models/)
+- [Qwen 4 Is Coming: What's Confirmed and What It Means for Local AI](https://www.glukhov.org/ai-models/families/qwen-4/)
+- [What Comes After LLMs? Mamba, Diffusion & World Models](https://www.glukhov.org/ai-models/architectures/what-comes-after-llms/)
+- [LLM Systems: Operational Reference for Self-Hosted Inference](https://llmsystems.dev/)
 
-- [OpenClaw vs Hermes Agent: Stars, Downloads & Usage 2026](https://www.glukhov.org/ai-systems/comparisons/openclaw-hermes-alternatives-popularity/ "Full data: 20 AI agent repos ranked by GitHub stars, OpenRouter daily tokens, npm/PyPI downloads, CVE history, ecosystem size, and Reddit sentiment.")
-- [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://www.glukhov.org/ai-systems/architecture/ai-assistant-architecture/ "A deep technical guide to AI assistant architecture: LLMs, memory, tools, routing, and observability, with real tradeoffs, failure modes, and design patterns.")
+Full list: [ai-models.md](ai-models.md)
 
-OpenClaw:
-- [NemoClaw practical guide for secure OpenClaw operations in 2026](https://www.glukhov.org/ai-systems/openclaw/nemoclaw/ "NemoClaw runs OpenClaw inside OpenShell with policy driven network control, routed inference, and lifecycle tooling. This guide covers quickstart, operations, and troubleshooting.")
-- [OpenClaw Rise and Fall — Timeline and Real Reasons Behind the Collapse](https://www.glukhov.org/ai-systems/openclaw/openclaw-rise-and-fall-timeline/ "How OpenClaw grew to 247,000 GitHub stars in weeks and then collapsed when Anthropic blocked Claude subscription access. Full timeline and analysis of the real causes.")
-- [OpenClaw: Examining a Self-Hosted AI Assistant as a Real System](https://www.glukhov.org/ai-systems/openclaw/ "A case-study exploration of OpenClaw — a self-hosted AI assistant system that integrates local LLMs, retrieval, memory, routing, and observability into a cohesive local infrastructure.")
-- [OpenClaw Quickstart: Install with Docker (Ollama GPU or Claude + CPU)](https://www.glukhov.org/ai-systems/openclaw/quickstart/ "Install OpenClaw in minutes with Docker. Run locally with Ollama (GPU) or use Claude Sonnet 4.6 (CPU-only). Includes setup, model config, testing, and troubleshooting.")
-- [OpenClaw Plugins — Ecosystem Guide and Practical Picks](https://www.glukhov.org/ai-systems/openclaw/plugins/ "Native OpenClaw plugins, workspace and global extension directories, CLI lifecycle and safety rails, plus mature picks. Includes a compact glossary of OpenClaw skills so ClawHub listings do not blur what counts as an in-process plugin.")
-- [OpenClaw Skills Ecosystem and Practical Production Picks](https://www.glukhov.org/ai-systems/openclaw/skills/ "A practical guide to OpenClaw skills, ClawHub, install and removal flows, security tradeoffs, and the skills worth using in real work today.")
-- [OpenClaw Production Setup Patterns with Plugins and Skills](https://www.glukhov.org/ai-systems/openclaw/production-setup/ "Real world OpenClaw production setups combining plugins and skills by user type, with practical architecture patterns for reliability, workflows, and scale.")
-- [Anthropic Closes Claude Loophole for Agent Tools](https://www.glukhov.org/ai-systems/openclaw/anthropic-claude-subscription-agent-tools/ "Anthropic blocks Claude subscriptions in agent tools like OpenClaw, forcing API usage. What changed, who is affected, and practical workarounds.")
+## LLM Architecture
 
-Hermes:
-- [Hermes Agent CLI cheat sheet — commands, flags, and slash shortcuts](https://www.glukhov.org/ai-systems/hermes/hermes-agent-cli-cheatsheet/ "Quick reference for Hermes Agent CLI. Install path, hermes chat and -z one-shots, model, gateway, skills, memory, logs, profiles, and slash shortcuts.")
-- [Hermes Agent Memory System: How Persistent AI Memory Actually Works](https://www.glukhov.org/ai-systems/hermes/hermes-agent-memory-system/ "A deep technical guide to Hermes Agent's memory architecture — from bounded 2-file core memory to 8 pluggable external providers. Explains why curated, always-active memory outperforms retrieval-based approaches for persistent AI agents.")
-- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://www.glukhov.org/ai-systems/hermes/ "Self-hosted Hermes Agent install quickstart config workflow and troubleshooting, with provider setup, tool sandboxing, gateway tips, and diagnostics.")
-- [Hermes AI Assistant Skills for Real Production Setups](https://www.glukhov.org/ai-systems/hermes/production-setup/ "A profile-first guide to Hermes Agent configuration and skills for engineers, researchers, operators, and executive workflows in production.")
-- [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://www.glukhov.org/ai-systems/hermes/authoring-hermes-skill/ "Author Hermes skills with YAML frontmatter, progressive disclosure, conditional activation, secrets versus config, and index troubleshooting.")
-- [Kanban in Hermes Agent for Self Hosted LLM Workflows](https://www.glukhov.org/ai-systems/hermes/kanban-in-hermes/ "Set up Hermes Kanban to safely schedule multi agent tasks on self hosted LLMs using a dispatcher daemon, rate limits and cron based batching.")
-- [Hermes Voice Control from Your Phone](https://www.glukhov.org/ai-systems/hermes/hermes-voice-control/ "Set up Hermes voice control on Telegram and Discord using local Whisper and free Edge TTS. Includes setup, tuning tips, examples, and troubleshooting.")
-- [Hermes Agent: Headless Server + Remote Desktop Setup](https://www.glukhov.org/ai-systems/hermes/hermes-remote-backend-desktop/ "Run Hermes Agent on a headless server with remote desktop access. Covers hermes serve, gateway setup, systemd, and network security.")
-- [How to Migrate from OpenClaw to Hermes Agent Safely](https://www.glukhov.org/ai-systems/hermes/migrate-from-openclaw/ "Migrate OpenClaw to Hermes Agent with dry-run checks, precise memory and skill mapping, secret handling, channel cutover, rollback, and manual fixes.")
-- [Mnemosyne for Hermes Agent: Local Memory Quickstart](https://www.glukhov.org/ai-systems/hermes/mnemosyne-memory/ "Install Mnemosyne as a local Hermes memory provider, configure recall and retention, and inspect the SQLite store.")
-- [Hindsight for Hermes Agent: Self-Hosted Memory with Local LLMs](https://www.glukhov.org/ai-systems/hermes/hindsight-for-hermes-local-llms/ "Deploy Hindsight for Hermes Agent with Docker and PostgreSQL. Wire local Qwen3 embeddings and reranking through Ollama or llama.cpp, with no cloud inference.")
+Routing, guardrails, cost, and prompt design for systems that call models.
 
-Agent Memory:
-- [Self-Reinforcing Memory Loops in AI Agents: Causes and Fixes](https://www.glukhov.org/ai-systems/memory/self-reinforcing-memory-loops/ "Agent memory can turn model inferences into future evidence. How those loops form, why they matter, and which write-path controls limit them.")
-- [Memory Systems in AI Assistants](https://www.glukhov.org/ai-systems/memory/memory-systems-in-ai-assistants/ "How to design short-term, long-term, and structured memory for AI assistants, with retrieval mechanics, tradeoffs, failure modes, and real patterns from OpenAI, LangGraph, Hermes, and OpenClaw.")
-- [Agent Memory Providers Compared — Honcho, Mem0, Hindsight, and Five More](https://www.glukhov.org/ai-systems/memory/agent-memory-providers/ "Compare eight agent memory backends for Hermes, OpenClaw, and other agents — Honcho, OpenViking, Mem0, Hindsight, Holographic, RetainDB, ByteRover, Supermemory — dependencies, self-hosting, and activation.")
-- [Choosing the Right LLM for Cognee: Local Ollama Setup](https://www.glukhov.org/ai-systems/memory/choosing-right-llm-for-cognee-on-ollama/ "Choosing the Right LLM for Cognee: Local Ollama Setup - Comparing qwen3:14b, gpt-oss20b, devstral 2 small, and others")
-- [Self-Hosting Cognee: LLM Performance Tests](https://www.glukhov.org/ai-systems/memory/selfhosting-cognee-quickstart-llms-comparison/ "Testing Cognee RAG framework with local LLMs - gpt-oss, qwen3, deepseek-r1, and others. Real-world results, configs, and performance insights.")
-- [Tiered Context: A Knowledge Hierarchy for AI Agents](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/tiered-context-hierarchy-for-agents/ "How to layer agent knowledge by injection trigger — always, task, semantic recall, explicit reference — and enforce domain separation with profile boundaries.")
+- [LLM Architecture: System Design for Production AI](https://www.glukhov.org/llm-architecture/)
+- [Model Routing: Stop Using One Model for Everything](https://www.glukhov.org/llm-architecture/model-routing/model-routing-strategies/)
+- [LLM Guardrails in Practice: What Actually Works](https://www.glukhov.org/llm-architecture/guardrails/llm-guardrails-in-practice/)
+- [Cost Optimization for LLM Systems: Where the Money Actually Goes](https://www.glukhov.org/llm-architecture/cost-optimization/cost-optimization-for-llm-systems/)
 
-Agents
-- [A2A vs MCP: Do AI Agents Really Need Both Protocols?](https://www.glukhov.org/ai-systems/mcp/a2a-vs-mcp-ai-agent-protocols/ "A practical comparison of A2A and MCP for AI agent systems, covering tools, agents, architecture patterns, overlap, security, and when to use both.")
-- [Agent Skills vs MCP Servers: Decision Framework](https://www.glukhov.org/ai-systems/mcp/agent-skills-vs-mcp-servers-decision-framework/ "Choose between Agent Skills and MCP servers using connectivity, credentials, context cost, security, and a practical thin-server pattern for AI agents.")
-- [What Is the A2A Protocol? Agent Cards and Tasks Explained](https://www.glukhov.org/ai-systems/architecture/a2a-protocol-explained/ "A practical guide to the A2A Protocol for AI agents, explaining Agent Cards, tasks, messages, parts, artifacts, discovery, and architecture tradeoffs.")
-- [Polling Agents in AI Assistants: 11 Implementation Patterns](https://www.glukhov.org/ai-systems/architecture/polling-agents-ai-assistants-implementation-patterns/ "A practical guide to polling agent patterns in AI assistants — schedulers, queues, webhooks, durable workflows, state management, and tradeoffs for production systems.")
-- [Google A2A Protocol in 2026: Adoption, Hype, and Reality](https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption/ "Is Google's A2A protocol actually useful in 2026? A practical review of A2A adoption, MCP overlap, security concerns, and when to use agent-to-agent protocols in production.")
-- [Multi-Agent Orchestration Patterns: A Practical Guide](https://www.glukhov.org/ai-systems/architecture/multi-agent-orchestration-patterns/ "Six proven multi-agent orchestration patterns for production AI systems: orchestrator-worker, sequential pipeline, fan-out, hierarchical, swarm, and mesh. Decision framework, failure modes, cost analysis, and observability.")
-- [A2A Streaming and Async Tasks for Long-Running Agent Workflows](https://www.glukhov.org/ai-systems/architecture/a2a-streaming-async-task-lifecycle/ "How to design A2A protocol streaming, async tasks, push notifications, and long-running agent workflows with SSE, polling, HITL states, and production observability.")
-- [A2A and MCP Agent Security: Identity, Delegation, and Audit Trails](https://www.glukhov.org/llm-architecture/guardrails/a2a-mcp-agent-security/ "Secure A2A and MCP agent systems with identity, auth, delegation controls, gateways, registries, audit trails, and a production checklist for multi-agent deployments.")
+Full list: [llm-architecture.md](llm-architecture.md)
 
+## LLM Hosting
 
-## AI Systems and Frontends
+Ollama, llama.cpp, vLLM, Docker Model Runner, and the frontends in front of them.
 
-- [Self-Hosted Deep Research Systems: 12 Tools Compared](https://www.glukhov.org/ai-systems/comparisons/deep-research-with-ai/ "Compare 12 self-hosted Deep Research systems: GPT Researcher, Onyx, Open WebUI, Khoj, Vane and more. Architectures, local LLM, RAG, licenses.")
-- [Vane (Perplexica 2.0) Quickstart With Ollama and llama.cpp](https://www.glukhov.org/llm-hosting/llm-frontends/vane-perplexica-2/ "Self-host Vane (Perplexica 2.0) with Docker, wire it to SearxNG, and use local LLMs via Ollama or llama.cpp. History, features, API.")
-- [Farfalle vs Perplexica - selfhosted AI search engines](https://www.glukhov.org/post/2024/08/farfalle-vs-perplexica "Comparing Farfalle and Perplexica - UI, content generation and prompts effectiveness") 
-- [Choosing Best LLM for Perplexica](https://www.glukhov.org/post/2024/08/perplexica-best-llm/ "Which model llama3.1, mistral nemo, mistral large, mixtral, gemma2, qwen2, phi3 command-r - for Perplexica")
-- [Perplextica - install, configuring, alternatives and choosing the model](https://glukhov.au/posts/2024/perplexica/)
-- [Trending Open Source AI Projects on GitHub, October 2026](https://www.glukhov.org/developer-tools/comparisons/trending-open-source-ai-projects/ "October 2026 snapshot of trending open source AI projects on GitHub, grouped by job: assistants, memory, RAG, local inference, builders, and gateways.")
+- [LLM Hosting in 2026: Local, Self-Hosted and Cloud Infrastructure Compared](https://www.glukhov.org/llm-hosting/)
+- [llama.cpp vs Ollama in 2026: Which Runtime Should You Run?](https://www.glukhov.org/llm-hosting/comparisons/llama-cpp-vs-ollama/)
+- [Ollama in Docker Compose with GPU and Persistent Model Storage](https://www.glukhov.org/llm-hosting/ollama/ollama-in-docker-compose/)
+- [vLLM Quickstart: High-Performance LLM Serving](https://www.glukhov.org/llm-hosting/vllm/vllm-quickstart/)
+- [llama.cpp Quickstart with CLI and Server](https://www.glukhov.org/llm-hosting/llama-cpp/)
 
+Full list: [llm-hosting.md](llm-hosting.md)
 
-## LLM Systems Architecture
+## LLM Performance
 
-- [LLM Architecture: System Design for Production AI](https://www.glukhov.org/llm-architecture/ "System design decisions for production LLM systems: model routing, cost optimization, guardrails, multi-model orchestration, and prompt engineering. Practical patterns with working code.")
-- [Cost Optimization for LLM Systems: Where the Money Actually Goes](https://www.glukhov.org/llm-architecture/cost-optimization/cost-optimization-for-llm-systems/ "Token budgeting, fallback models, and caching strategies that cut LLM API bills. With real numbers, hardware break-even analysis, and working Python code.")
-- [LLM Guardrails in Practice: What Actually Works](https://www.glukhov.org/llm-architecture/guardrails/llm-guardrails-in-practice/ "Input validation, output filtering, and safety mechanisms that protect your LLM system without breaking it. Patterns with real Python examples and compliance notes.")
-- [Multi-Model System Design: When One Model Isn't Enough](https://www.glukhov.org/llm-architecture/model-routing/multi-model-system-design/ "Architecture patterns for orchestrating multiple LLMs — sequential, parallel, hierarchical, and ensemble approaches with working Python code and tradeoff analysis.")
-- [Model Routing: Stop Using One Model for Everything](https://www.glukhov.org/llm-architecture/model-routing/model-routing-strategies/ "Routing tasks to the right model saves money and cuts latency. Capability-based, cost-aware, and latency-aware strategies with working Python code.")
+Benchmarks, VRAM limits, and inference tuning.
 
-## LLM Hosting and Performance - LLMs, Docker Model Runner, Ollama, llama.cpp etc
+- [LLM Performance in 2026: Benchmarks, Bottlenecks & Optimization](https://www.glukhov.org/llm-performance/)
+- [The Efficient Frontier of Open Models: Finding the Sweet Spot in 2026](https://www.glukhov.org/llm-performance/benchmarks/efficient-frontier-of-open-models-2026/)
+- [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://www.glukhov.org/llm-performance/benchmarks/best-llm-on-16gb-vram-gpu/)
+- [KV Cache on 16 GB GPUs: Making Long Context Actually Fit](https://www.glukhov.org/llm-performance/optimization/kv-cache-16gb-long-context/)
 
-### LLM Hosting
+Full list: [llm-performance.md](llm-performance.md)
 
-- [llama.cpp vs Ollama in 2026: Which Runtime Should You Run?](https://www.glukhov.org/llm-hosting/comparisons/llama-cpp-vs-ollama/ "Compare llama-server and Ollama for local LLM hosting in 2026: GGUF management, APIs, GPU control, KV cache, model lifetime, and migration triggers.")
-- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://www.glukhov.org/llm-hosting/comparisons/amd-rocm-vs-vulkan-llm-hosting/ "Compare AMD ROCm and Vulkan backends for llama.cpp, Ollama, LM Studio, vLLM and TGI, with build commands, verification checks and a practical 2026 verdict.")
-- [Ollama to vLLM: When to Migrate Your Local LLM Server](https://www.glukhov.org/llm-hosting/comparisons/ollama-to-vllm-migration/ "Learn when to migrate from Ollama to vLLM. Migration signals, planning steps, Docker Compose setup, and a practical checklist for moving your local LLM server.")
-- [Unload All llama.cpp Router Models Without Restarting](https://www.glukhov.org/llm-hosting/llama-cpp/unload-llama-cpp-router-models/ "Learn how to unload every loaded llama.cpp router model with curl and jq, free VRAM safely, and avoid restarting llama-server in local LLM workflows.")
-- [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://www.glukhov.org/llm-hosting/llama-cpp/llama-server-router-mode/ "How to configure llama-server router mode for dynamic model loading and switching. Covers models.ini setup, systemd service, API usage, and honest comparison to Ollama and llama-swap.")
-- [TGI - Text Generation Inference - Install, Config, Troubleshoot](https://www.glukhov.org/llm-hosting/tgi/ "A practical guide to installing Hugging Face TGI, launching your first LLM endpoint, tuning key flags, and fixing the failures you will meet.")
-- [Remote Ollama access via Tailscale or WireGuard, no public ports](https://www.glukhov.org/llm-hosting/ollama/ollama-remote-access/ "Patterns for running Ollama on a home lab or office box and reaching it safely from remote devices. Covers OLLAMA_HOST binding, Tailscale or WireGuard, firewall pinning, and a tight security checklist.")
-- [Ollama in Docker Compose with GPU and Persistent Model Storage](https://www.glukhov.org/llm-hosting/ollama/ollama-in-docker-compose/ "Run Ollama as a reproducible single-node LLM server using Docker Compose. Configure OLLAMA_HOST and OLLAMA_MODELS, keep models on persistent volumes, enable NVIDIA GPUs, and upgrade safely with rollbacks.")
-- [Ollama behind a reverse proxy with Caddy or Nginx for HTTPS streaming](https://www.glukhov.org/llm-hosting/ollama/ollama-behind-reverse-proxy/ "Expose Ollama securely behind Caddy or Nginx with automated HTTPS, optional Basic Auth or SSO front gates, and correct streaming and WebSocket proxying. Includes timeouts, buffering pitfalls, rate limits, and curl checks.")
-- [llama.swap Model Switcher Quickstart for OpenAI-Compatible Local LLMs](https://www.glukhov.org/llm-hosting/llama-swap/ "Install and configure llama-swap (llama.swap), hot-swap local models via OpenAI or Anthropic APIs, compare with Ollama and LM Studio, and troubleshoot common errors.")
-- [SGLang QuickStart: Install, Configure, and Serve LLMs via OpenAI API](https://www.glukhov.org/llm-hosting/sglang/ "Install SGLang with uv, pip, or Docker; configure YAML and server flags; then serve Hugging Face LLMs with an OpenAI-compatible API plus native /generate and offline Engine examples.")
-- [LocalAI QuickStart: Run OpenAI-Compatible LLMs Locally](https://www.glukhov.org/llm-hosting/local-ai/ "Learn to install LocalAI, load models from the gallery or Hugging Face, and serve an OpenAI-compatible API plus Web UI for chat, embeddings, images and audio on your own hardware.")
-- [llama.cpp Quickstart with CLI and Server](https://www.glukhov.org/llm-hosting/llama-cpp/_index/ "Install llama.cpp, run GGUF models with llama-cli, and serve OpenAI-compatible APIs using llama-server. Key flags, examples, and tuning tips with a short commands cheatsheet")
-- [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
-- [vLLM Quickstart: High-Performance LLM Serving](https://www.glukhov.org/post/2026/01/vllm-quickstart/ "Complete vLLM setup guide with Docker, OpenAI API compatibility, PagedAttention optimization. Compare vLLM vs Ollama vs Docker Model Runner for production.")
+## RAG
 
-### LLM Performance
+Chunking, embeddings, vector stores, and reranking.
 
-- [KV Cache on 16 GB GPUs: Making Long Context Actually Fit](https://www.glukhov.org/llm-performance/optimization/kv-cache-16gb-long-context/ "Fit 32K to 128K LLM context into 16 GB VRAM by calculating KV cache cost, choosing cache precision, and tuning llama.cpp, vLLM, or Ollama safely.")
-- [Speculative Decoding: 20-50% Faster LLM Inference](https://www.glukhov.org/llm-performance/optimization/speculative-decoding/ "Speculative decoding speeds up LLM inference 20-50% with zero quality loss. Draft-verify mechanics, EAGLE-3, P-EAGLE, n-gram, MTP, and setup for llama.cpp, vLLM, SGLang, TensorRT-LLM.")
-- [Qwen 3.6 27B and 35B MTP vs Standard on 16GB GPU](https://www.glukhov.org/llm-performance/benchmarks/comparing-qwen-3-6-mtp-vs-standard/ "Benchmark results for Qwen 3.6 27B and 35B MTP speculative decoding in llama.cpp on RTX 4080 16GB. Token speed, VRAM cost, and optimal --spec-draft-n-max settings.")
-- [Agentic LLM Inference Parameters Reference for Qwen 3.6 and Gemma 4](https://www.glukhov.org/llm-performance/benchmarks/agentic-inference-parameters-reference/ "Curated reference of vendor and community inference parameters for Qwen 3.6 and Gemma 4, optimized for agentic workflows and real-world coding systems.")
-- [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://www.glukhov.org/llm-performance/benchmarks/best-llm-on-16gb-vram-gpu/ "Compare llama.cpp speeds on a 16 GB GPU for dense and MoE models at 19K, 32K, and 64K context. Tables list VRAM, GPU load, and tokens per second.")
-- [Text embeddings for RAG and search - Python, Ollama, OpenAI-compatible APIs](https://www.glukhov.org/rag/embeddings/ "Learn what text embeddings are, how they power RAG and semantic search, and how to call embedding APIs from Python using Ollama or an OpenAI-compatible server (for example llama.cpp). Includes persistence, retrieval, and links to chunking, vector stores, and reranking on this site.")
-- [Chunking Strategies in RAG Comparison: Alternatives, Trade‑offs, and Examples](https://www.glukhov.org/rag/retrieval/chunking-strategies-in-rag/ "A rigorous, engineering‑first guide to chunking for RAG: fixed vs semantic vs hierarchical chunking, evaluation dimensions, decision matrix, and runnable Python implementations with FAISS/Chroma/Weaviate and OpenAI embeddings.")
-- [LLM Performance in 2026: Benchmarks, Bottlenecks & Optimization](https://www.glukhov.org/llm-performance/ "Practical LLM performance engineering: throughput vs latency, VRAM limits, parallel requests, memory allocation, and benchmarks across runtimes and hardware.")
-- [LLM Hosting in 2026: Local, Self-Hosted & Cloud Infrastructure Compared](https://www.glukhov.org/llm-hosting/ "Complete guide to LLM hosting in 2026. Compare Ollama, vLLM, Docker Model Runner, LocalAI and cloud providers. Learn cost, performance, and infrastructure trade-offs.")
-- [LLM Self-Hosting and AI Sovereignty](https://www.glukhov.org/post/2026/02/llm-selfhosting-and-ai-sovereignty/ "Why and how self-hosted LLMs support AI sovereignty: control, data residency, and compliance for orgs and nations.")
-- [Data Gravity: The Real Cost of API-First AI](https://www.glukhov.org/llm-hosting/self-hosting/data-gravity-ai-vendor-lockin/ "Data gravity is the force pulling AI workflows toward one provider. The four-stage lock-in mechanism, a scoring checklist, and how to stay portable.")
-- [Comparing LLMs performance on Ollama on 16GB VRAM GPU](https://www.glukhov.org/post/2026/01/choosing-best-llm-for-ollama-on-16gb-vram-gpu/ "Benchmark of 9 LLMs on RTX 4080 16GB with Ollama 0.15.2. Compare tokens/sec, VRAM usage, and CPU offloading for GPT-OSS, Qwen3, Mistral, and more.")
-- [Open WebUI: Self-Hosted LLM Interface](https://www.glukhov.org/post/2026/01/open-webui-overview-quickstart-and-alternatives/ "Complete guide to Open WebUI: a powerful self-hosted web interface for Ollama and OpenAI-compatible APIs with RAG, multi-user auth, and Docker deployment.")
-- [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
-- [Vector Stores for RAG Comparison](https://www.glukhov.org/post/2025/12/vector-stores-for-rag-comparison/ "Comprehensive comparison of vector databases for Retrieval Augmented Generation: Pinecone, Chroma, Weaviate, Milvus, Qdrant, FAISS, and pgvector. Performance, features, and use cases.")
-- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://www.glukhov.org/post/2025/11/hosting-llms-ollama-localai-jan-lmstudio-vllm-comparison/ "Comprehensive comparison of 12+ local LLM tools: Ollama, vLLM, LocalAI, Jan, LM Studio, Lemonade, Msty & more. API maturity, tool calling, GGUF support, benchmarks.")
-- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://www.glukhov.org/post/2025/11/advanced-rag-variants-longrag-self-rag-graphrag/  "Deep dive into advanced RAG variants: LongRAG for long contexts, Self-RAG with self-reflection, and GraphRAG using knowledge graphs. Compare architectures, use cases, and implementation strategies for production AI systems.")
-- [Docker Model Runner: Context Size Config Guide](https://www.glukhov.org/post/2025/11/context-size-in-docker-model-runner/ "Complete guide to configuring context sizes in Docker Model Runner. Learn workarounds for docker-compose limitations, using docker model configure, and packaging models with custom context sizes.")
-- [Adding NVIDIA GPU Support to Docker Model Runner](https://www.glukhov.org/post/2025/11/adding-nvidia-gpu-support-to-docker-model-runner/ "Complete guide to enable NVIDIA GPU acceleration for Docker Model Runner. Step-by-step instructions for configuring CUDA support, Docker daemon settings, and verifying GPU usage for AI model inference.")
-- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org"/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
-- [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
-- [Docker Model Runner vs Ollama: Which to Choose?](https://www.glukhov.org/post/2025/10/docker-model-runner-vs-ollama-comparison/ "Compare Docker's new Model Runner with Ollama for local LLM deployment. Detailed analysis of performance, ease of use, GPU support, API compatibility, and when to choose each solution for your AI workflow in 2025.")
-- [Go SDKs for Ollama - overview with examples](https://www.glukhov.org/post/2025/10/using-ollama-in-go/ "Go clients for Ollama: SDK comparison and Qwen3/GPT-OSS examples")
-- [LLMs Comparison: Qwen3:30b vs GPT-OSS:20b](https://www.glukhov.org/post/2025/10/qwen3-30b-vs-gpt-oss-20b/ "Qwen3:30b vs GPT-OSS:20b: Technical details, performance and speed comparison")
-- [Integrating Ollama with Python: REST API and Python Client Examples](https://www.glukhov.org/post/2025/10/ollama-python-examples/ "Learn how to connect your Python applications to Ollama using both the REST API and the official Python client — with examples for chat, text generation, and 'thinking' models like qwen3.")
-- [Ollama GPT-OSS Structured Output Issues](https://www.glukhov.org/post/2025/10/ollama-gpt-oss-structured-output-issues/ "Ollama GPT-OSS has Structured Output Issues")
-- [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://www.glukhov.org/post/2025/10/structured-output-comparison-popular-llm-providers/ "Comparison of Structured output control across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock - with examples in Python")
-- [LLMs with Structured Output: Ollama, Qwen3 & Python or Go](https://www.glukhov.org/post/2025/09/llm-structured-output-with-ollama-in-python-and-go/ "Constraining LLMs with Structured Output — Using Ollama and Qwen3 with examples in Python and Go")
-- [LLM Structured Output Validation in Python That Holds Up](https://www.glukhov.org/llm-performance/benchmarks/llm-structured-output-validation-python/ "Validate LLM JSON in Python with JSON Schema and Pydantic, handle fences and tool args, add repair retries, tests, and production-safe failure handling.")
-- [Memory allocation and model scheduling in Ollama new version - v0.12.1](https://www.glukhov.org/post/2025/09/memory-allocation-in-ollama-new-version/ "Comparison of Memory allocation and model scheduling in new version of Ollama - v0.12.1 vs the previous version")
-- [First Signs of Ollama Enshittification](https://www.glukhov.org/post/2025/09/ollama-enshittification/ "Overview of the First Signs of Ollama Enshittification")
-- [Reranking text documents with Ollama and Qwen3 Reranker model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-reranker-golang/ "Reranking text documents with Ollama and Qwen3 Reranker model - in Golang")
-- [Comparison of Hugo Page Translation quality - LLMs on Ollama](https://www.glukhov.org/post/2025/06/translation-quality-comparison-llms-on-ollama/ "Comparison of Hugo Page Translation quality - LLMs on Ollama - qwen3 8b, qwen3 14b, qwen3 30b, devstral 24b and mistral small 24b")
-- [Reranking text documents with Ollama and Qwen3 Embedding model - in Go](https://www.glukhov.org/post/2025/06/reranking-with-ollama-qwen3-embedding-golang/ "Reranking text documents with Ollama and Qwen3 Embedding model - in Golang")
-- [Logical Fallacy Detection with LLMs](https://www.glukhov.org/post/2024/05/logical-fallacy-detection-with-llms/) 
-- [Logical Fallacy Detection with new LLMs: Gemma2, Qwen2 and MistralNemo](https://www.glukhov.org/post/2024/08/gemma2-qwen2-mistral-nemo12b/) 
-- [LLM speed performance comparison](https://www.glukhov.org/post/2024/06/llms-speed-cpu-vs-gpu/) 
-- [Comparing LLM Summarising Abilities](https://www.glukhov.org/post/2024/07/llm-summarising-comparison/) 
-- [Writing effective prompts for LLMs](https://www.glukhov.org/post/2024/08/writing-effective-llm-prompts/)
-- [Reranking with embedding models](https://www.glukhov.org/post/2024/09/reranking-with-embedding-models "Reranking with embedding models as a RAG step")
-- [New LLMs comparison - Mistral Small, Gemma 2, Qwen 2.5, Mistral Nemo, LLama3 and Phi](https://www.glukhov.org/post/2024/11/mistral-small-gemma-qwen-mistral-nemo/)
-- [Ollama CLI Cheatsheet: ls, serve, run, ps + commands (2026 update)](https://www.glukhov.org/llm-hosting/ollama/ollama-cheatsheet/ "Ollama CLI cheatsheet: ollama serve command, ollama run command examples, ollama ps, and model management.")
-- [Testing Deepseek-r1 on Ollama](https://www.glukhov.org/post/2025/02/deepseek-r1-on-ollama/ "deepseek-r1 on ollama")
-- [How Ollama Handles Parallel Requests](https://www.glukhov.org/post/2025/05/how-ollama-handles-parallel-requests/ "How Ollama Handles Parallel Requests") 
-- [Comparing NVidia GPU specs suitability for AI](https://www.glukhov.org/post/2025/05/comparing-nvidia-gpu-for-ai/ "Comparing NVidia GPU specs suitability for AI")
-- [How Ollama is using Intel CPU Performance and Efficient Cores](https://www.glukhov.org/post/2025/05/ollama-cpu-cores-usage/ "Test: How Ollama is using Intel CPU Performance and Efficient Cores")
-- [Cloud LLM Providers](https://www.glukhov.org/post/2025/05/cloud-llm-providers/ "Cloud LLM Providers comparison")
-- [Search vs Deepsearch vs Deep Research](https://www.glukhov.org/post/2025/05/search-vs-deepsearch-vs-deep-research/ "Search vs Deepsearch vs Deep Research - Concepts and comparison")
-- [Convert HTML content to Markdown using LLM and Ollama](https://www.glukhov.org/post/2025/05/html-to-markdown-using-llm/ "Convert HTML content to Markdown using LLM and Ollama")
-- [Qwen3 Embedding & Reranker Models on Ollama: State-of-the-Art Performance](https://www.glukhov.org/post/2025/06/qwen3-embedding-qwen3-reranker-on-ollama/ "Qwen3 embedding and reranker models are revolutionizing multilingual NLP with state-of-the-art performance, and explore their integration with Ollama or local deployment via Hugging Face and GitHub.")
-- [Model Context Protocol (MCP), and notes on implementing MCP server in Go](https://www.glukhov.org/post/2025/07/mcp-server-in-go/ "The Model Context Protocol (MCP), how to implement an MCP server in Go, including message structure, protocol specifications, libraries and example implementation.")
-- [Open-Source Chat UIs for LLMs on Local Ollama Instances](https://www.glukhov.org/post/2025/08/chat-ui-for-local-ollama-llms/ "Open-Source Chat UIs for LLMs on Local Ollama Instances - Open WebUI, Page Assist, AnythingLLM and others")
-- [Move Ollama Models to Different Drive or Folder](https://www.glukhov.org/post/2024/06/move-ollama-models)
-- [Reduce LLM Costs: Token Optimization Strategies](https://www.glukhov.org/post/2025/11/cost-effective-llm-applications/ "Howto use token optimization techniques to reduce LLM API costs by up to 80%. Learn prompt compression, caching, batching, and smart model selection strategies for cost-effective AI applications.")
-- [Cross-Modal Embeddings: Bridging AI Modalities](https://www.glukhov.org/post/2025/11/using-cross-modal-embeddings/ "Master cross-modal embeddings for multimodal AI applications. Learn implementation strategies, explore CLIP, ImageBind, and contrastive learning techniques for unified representation spaces.")
-- [LLM hosting, performance, RAG, and observability](https://glukhov.au/posts/2026/llms-hosting-performance-rag-observability "Updates of pillar hubs on glukhov.org organise LLM hosting, performance, RAG, and observability - with dives on runtimes, benchmarks, retrieval, and inference monitoring")
+- [Retrieval-Augmented Generation (RAG) Tutorial: Architecture, Implementation, and Production Guide](https://www.glukhov.org/rag/)
+- [Text embeddings for RAG and search - Python, Ollama, OpenAI-compatible APIs](https://www.glukhov.org/rag/embeddings/)
+- [Chunking Strategies in RAG Comparison: Alternatives, Trade‑offs, and Examples](https://www.glukhov.org/rag/retrieval/chunking-strategies-in-rag/)
+- [Vector Stores for RAG Comparison](https://www.glukhov.org/rag/vector-stores/vector-stores-for-rag-comparison/)
 
-## Data and Infrastructure
+Full list: [rag.md](rag.md)
 
-- [Self-Hosted S3 Alternatives in 2026 (RustFS, Garage, SeaweedFS, Ceph)](https://www.glukhov.org/data-infrastructure/object-storage/self-hosted-s3-alternatives/ "Compare RustFS, Garage, SeaweedFS, Ceph RGW, VersityGW, S3Proxy, and rclone for self-hosted S3. Native object stores vs filesystem-backed S3 gateways.")
-- [MinIO CE in 2026: Retired Upstream, Source-Only, and What to Use](https://www.glukhov.org/data-infrastructure/object-storage/minio-dead/ "MinIO CE is archived, source-only, and operationally high risk. Here is the timeline, community verdict, and safer alternatives for S3 compatible storage.")
-- [Garage - S3 compatible object storage Quickstart](https://www.glukhov.org/data-infrastructure/object-storage/garage-quickstart/ "Garage quickstart for S3-compatible object storage. Run Garage with Docker, set layout and replication, add TLS via reverse proxy, create buckets and keys, and apply production tips for self-hosted storage.")
-- [Garage vs MinIO vs AWS S3: Object Storage Comparison and Feature Matrix](https://www.glukhov.org/data-infrastructure/object-storage/garage-vs-minio-vs-s3/ "Compare MinIO, Garage, and AWS S3 for object storage. Feature matrix, cost model, operational complexity, and when to choose each—managed S3, self-hosted Garage, or MinIO with broad S3 parity.")
-- [MinIO as Aws S3 alternative. Minio overview and install](https://www.glukhov.org/post/2025/05/minio-vs-aws-s3/ "Minio as Aws S3 alternative. Minio overview and install")
-- [MinIO Commandline Parameters Cheatsheet](https://www.glukhov.org/post/2025/05/minio-cheatsheet/ "MinIO Commandline Parameters Cheatsheet")
-- [Elasticsearch Cheatsheet: Essential Commands and Tips](https://www.glukhov.org/post/2025/11/elasticsearch-cheatsheet/ "Complete Elasticsearch cheatsheet covering CRUD operations, search queries, aggregations, index management, and performance optimization. Quick reference for developers working with Elasticsearch cluster.")
-- [PostgreSQL Full Text Search vs Elasticsearch Comparison](https://www.glukhov.org/data-infrastructure/search/postgresql-full-text-search-vs-elasticsearch/ "A practical comparison of PostgreSQL full text search and Elasticsearch across relevance, scale, latency, cost, and operations for modern apps.")
+## Data Infrastructure
 
-## Linux & ops
+Object storage, databases, search, and streaming.
 
-### VMS
+- [Data Infrastructure for AI Systems: Object Storage, Databases, Search & AI Data Architecture](https://www.glukhov.org/data-infrastructure/)
+- [Self-Hosted S3 Alternatives in 2026 (RustFS, Garage, SeaweedFS, Ceph)](https://www.glukhov.org/data-infrastructure/object-storage/self-hosted-s3-alternatives/)
+- [PostgreSQL Full Text Search vs Elasticsearch Comparison](https://www.glukhov.org/data-infrastructure/search/postgresql-full-text-search-vs-elasticsearch/)
+- [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/)
 
-- [Clone a VM in Virt-Manager with virt-clone and virt-sysprep](https://www.glukhov.org/developer-tools/virtualization/cloning-vms-in-virt-manager/ "virt-clone copies the disk, virt-sysprep resets identity, qemu-img exposes backing files. The full pipeline for cloning KVM guests in Virt-Manager.")
-- [GNOME Boxes: A Comprehensive Guide to Features, Advantages, Challenges, and Alternatives](https://www.glukhov.org/post/2025/10/gnome-boxes-linux-virtual-machines-manager/ "Discover GNOME Boxes - the user-friendly Linux virtualization tool. Compare features, performance, and alternatives like VirtualBox, KVM, and VMware. Learn which VM solution fits your needs for development, testing, and server environments.")
-- [Configure VirtualBox Shared Folders for Linux Guest OS](https://www.glukhov.org/post/2025/07/configure-virtualbox-shared-folders-for-linux/ "Step by step instruction on how to configure VirtualBox Shared Folders for Linux Guest OS, Automount on start setup and troubleshooting.")
-- [Proxmox in 2025: A Practical, All-In-One Virtualization Stack](https://www.glukhov.org/post/2025/10/proxmox-virtualization/ "Virtualization with Proxmox: Quicklook, installing and running")
-- [Multipass VM Manager Cheatsheet](https://www.glukhov.org/post/2025/10/vm-manager-multipass-cheatsheet/ "Complete guide to Multipass virtual machine manager for Ubuntu, Windows, and macOS with installation, setup, and essential commands cheatsheet")
+Full list: [data-infrastructure.md](data-infrastructure.md)
 
-### Ops
+## Observability
 
-- [Fixing Ubuntu lost network after kernel upgrade](https://www.glukhov.org/post/2025/12/ubuntu-lost-network/ "How to fix Lost Network in Ubuntu after kernel upgrade")
-- [Bookmarks Synchronisation with Floccus](https://www.glukhov.org/post/2024/08/sync-bookmarks-floccus/)
-- [Self-hosting Perplexica - with Ollama](https://www.glukhov.org/post/2024/08/selfhosting-perplexica-ollama/ "Install and configure Perplexica with Ollama")
-- [How t install network-wide adblocker](https://www.glukhov.org/post/2024/06/pi-hole-ad-blocker-install/)
-- [Configure Git User Name and Email Address](https://www.glukhov.org/post/2024/06/configure-git-username/)
-- [Custom elements in Linux Mint Nemo context menu](https://www.glukhov.org/post/2024/04/cinnamon-context-menu/)
-- [Linux Bash Cheat Sheet](https://www.glukhov.org/post/2024/04/bash-cheat-sheet/)
-- [Reinstall Linux](https://www.glukhov.org/post/2024/04/reinstall-linux/)
-- [Check Linux Ubuntu Version](https://www.glukhov.org/post/2025/06/check-linux-ubuntu-version/ "Check Linux Ubuntu Version")
-- [Install Node.js dev environment](https://www.glukhov.org/post/2022/nodejs-install/)
-- [cURL Cheatsheet](https://www.glukhov.org/post/2022/curl-cheatsheet/ "cURL Cheatsheet - list and description of useful cUrl commands")
-- [Selfhosted integration systems comparison](https://www.glukhov.org/post/2024/11/selfhosted-integration)
-- [Markdown Cheatsheet](https://www.glukhov.org/post/2024/03/markdown-cheatsheet/ "Comprehensive Markdown Cheatsheet")
-- [GFM vs CommonMark vs Pandoc Markdown: Syntax Compared](https://www.glukhov.org/documentation-tools/markdown/gfm-vs-commonmark-vs-pandoc-markdown/ "Compare CommonMark, GitHub Flavored Markdown, and Pandoc Markdown syntax, including tables, footnotes, math, metadata, and portability.")
-- [PowerShell Cheatsheet](https://www.glukhov.org/post/2022/powershell-cheatsheet)
-- [GIT Cheatsheet](https://www.glukhov.org/post/2022/git-cheatsheet)
-- [Self-hosting SearXNG](https://www.glukhov.org/post/2025/02/selfhosting-searxng "Self-hosting SearXNG")
-- [Run any Executable as a Service in Linux](https://www.glukhov.org/post/2025/02/executable-as-a-service-in-linux/ "How to Configure to Run any Executable as a Service in Linux")
-- [Pdf manipulating tools in Ubuntu - Poppler](https://www.glukhov.org/post/2025/04/ubuntu-poppler/ "Pdf manipulating tools in Ubuntu - Poppler")
-- [Encoding - decoding Base64 on Windows, Linux and Mac](https://www.glukhov.org/post/2025/04/base64/ "Base64 encoding/decoding cheatsheet on linux, windows and mac")
-- [Decode and print JWT token](https://www.glukhov.org/post/2025/04/decode-and-print-jwt-token/ "Howto Decode and print JWT token payload in linux bash")
-- [How to extract images from PDF with poppler - commandline parameters in linux](https://www.glukhov.org/post/2025/04/extract-images-from-pdf/ "How to extract images from PDF with poppler - commandline parameters in linux")
-- [Rabbitmq on Eks vs Sqs hosting cost comparison](https://www.glukhov.org/post/2025/05/rabbitmq-on-eks-vs-sqs/ "Rabbitmq on Eks vs Sqs features and hosting cost comparison")
-- [How to start terminal windows tiled on linux mint, ubuntu](https://www.glukhov.org/post/2025/05/howto-start-terminal-windows-tiled-linux-mint-ubuntu/ "Howto start terminal windows tiled linux mint ubuntu")
-- [Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja](https://www.glukhov.org/post/2025/07/file-managers-for-linux-ubuntu/ "Context menu in File managers for Ubuntu 24.04 - Nautilus vs Nemo vs Dolphin vs Caja")
-- [DBeaver vs Beekeeper - SQL Database Management Tools](https://www.glukhov.org/post/2025/07/dbeaver-vs-beekeeper/ "DBeaver vs Beekeeper - SQL Database Management Tools")
-- [How to Install Ubuntu 24.04 & useful tools](https://www.glukhov.org/post/2025/07/install-linux-ubuntu-24-04/ "Howto Install of the Ubuntu 24.04 - steps and useful packages and tools")
-- [Terraform cheatsheet - useful commands and examples](https://www.glukhov.org/post/2025/07/terraform-cheatsheet/ "Terraform cheatsheet: installation, essential commands, configuration elements, resource management, modules, variables, state handling, and best practicesTerraform installation and most useful commands and examples")
-- [How to Change a Static IP Address in Ubuntu Server](https://www.glukhov.org/post/2025/09/how-to-change-static-ip-address-in-ubuntu/ "Detailed instruction How to Change a Static IP Address in Ubuntu Server")
-- [Kubuntu vs KDE Neon: A Technical Deep Dive](https://www.glukhov.org/post/2025/09/kubuntu-vs-kde-neon/ "In-depth comparison of Kubuntu vs KDE Neon: Update and Release Cycle, Package Management, Stability, Performance, and Community")
-- [Ubuntu Keyboard Shortcuts: Complete Cheatsheet](https://www.glukhov.org/post/2025/10/ubuntu-keyboard-shortcuts-cheatsheet/ "Master Ubuntu productivity with essential keyboard shortcuts for window management, workspaces, terminal, file management, and system controls. Boost your Linux workflow efficiency today.")
-- [Strapi vs Directus vs Payload: Headless CMS Showdown](https://www.glukhov.org/post/2025/11/headless-cms-comparison-strapi-directus-payload/ "Deep dive into three popular open-source headless CMS platforms. Compare Strapi, Directus, and Payload on architecture, features, customization, performance, and ideal use cases for modern web applications.")
-- [DORA Metrics Guide: Measuring DevOps Success](https://www.glukhov.org/post/2025/11/devops-metrics-dora/ "Comprehensive guide to DORA metrics: deployment frequency, lead time, change failure rate, and time to restore. Learn how to measure and improve DevOps performance.")
-- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://www.glukhov.org/post/2025/11/listing-installing-upgrading-packages-in-ubuntu-with-apt/ "Ubuntu package management with APT, apt-get, dpkg, Snap, and Flatpak. Learn to list, install, upgrade, and remove packages efficiently with this comprehensive guide.")
-- [Snap Package Manager Cheatsheet](https://www.glukhov.org/post/2025/11/snap-cheatsheet-package-manager-ubuntu/ "Snap package management on Ubuntu. Learn to install, update, manage snaps, understand channels, confinement, and troubleshoot common issues with this comprehensive guide.")
-- [Flatpak Cheatsheet: Universal Linux Package Manager](https://www.glukhov.org/post/2025/11/flatpak-cheatsheet-package-manager-ubuntu/ "Guide to Flatpak on Ubuntu and Linux. Learn to install, manage, and troubleshoot Flatpak apps from Flathub with sandboxing, permissions, and best practices")
-- [Converting Windows Text to Linux Format](https://www.glukhov.org/post/2025/11/conversing-windows-text-to-linux/ "Complete guide to converting Windows CRLF line endings to Linux LF format using dos2unix, sed, and tr with Git configuration for cross-platform development.")
-- [Snap vs Flatpak: Ultimate Guide for 2025](https://www.glukhov.org/post/2025/12/snap-vs-flatpack/ "Comprehensive comparison of Snap and Flatpak universal package managers: architecture, performance, security, and which one fits your Linux workflow best.")
-- [Show Git Branch & Status in Bash Prompt](https://www.glukhov.org/post/2025/12/adding-git-repo-details-to-bash-prompt/ "Learn how to customize your bash prompt to display git repository information including branch names, commit status, and file changes for enhanced productivity.")
-- [Install KVM on Ubuntu 24.04](https://www.glukhov.org/post/2025/12/install-kvm-ubuntu-24-04/ "How to Install KVM on Ubuntu 24.04 - step-by-step")
-- [Best Linux Terminal Emulators: 2026 Comparison](https://www.glukhov.org/post/2026/01/terminal-emulators-for-linux-comparison/ "Compare top Linux terminal emulators: Alacritty, Kitty, WezTerm, GNOME Terminal, and more. Features, performance, and customization options reviewed.")
-- [Wayland vs X11: 2026 Comparison](https://www.glukhov.org/post/2026/01/wayland-vs-x11-comparison/ "Complete comparison of Wayland and X11 display servers: architecture, security, performance, compatibility, and migration guide for Linux users in 2026.")
-- [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://www.glukhov.org/post/2026/02/configure-desktop-launchers-ubuntu-24/ "Create and edit .desktop launchers on Ubuntu 24.04: Icon, Exec, locations, and freedesktop.org spec. Put launchers on Desktop or in applications menu,  with Standard Ubuntu Icons")
-- [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
-- [Apache Flink on K8s and Kafka: PyFlink, Go, ops, and managed pricing](https://www.glukhov.org/data-infrastructure/stream-processing/apache-flink/ "DevOps guide to Flink. Stateful streaming, JobManager and TaskManagers, checkpoints vs savepoints, vs Spark and Kafka Streams, K8s Operator, Helm, PyFlink, Go, managed pricing.")
-- [Pause Scripts with 'Press Any Key' in Bash, CMD, PowerShell, and macOS](https://www.glukhov.org/developer-tools/terminals-shell/press-any-key-pause-bash-powershell-cmd/ "Pause shell or batch scripts until a keypress. Covers CMD pause, PowerShell Read-Host and ReadKey, Bash and POSIX read, macOS, and TTY guards for CI and cron.")
-- [Ubuntu APT Troubleshooting: Fix Broken Packages, Holds, and GPG Errors](https://www.glukhov.org/developer-tools/package-management/ubuntu-apt-troubleshooting-broken-packages-gpg/ "Practical Ubuntu APT troubleshooting guide: fix held packages, broken dependencies, bad PPAs, and NO_PUBKEY GPG errors with a clear step-by-step workflow")
+Metrics, dashboards, logs, and alerting.
 
+- [Observability in Production: Monitoring, Metrics, Prometheus & Grafana Guide (2026)](https://www.glukhov.org/observability/)
+- [Modern Alerting Systems Design for Observability Teams](https://www.glukhov.org/observability/alerting/)
+- [Monitor LLM Inference in Production (2026): Prometheus & Grafana for vLLM, TGI, llama.cpp](https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/)
+- [Observability for LLM Systems: Metrics, Traces, Logs, and Testing in Production](https://www.glukhov.org/observability/observability-for-llm-systems/)
 
-## Architecture
+Full list: [observability.md](observability.md)
 
-- [Dead Letter Queues: Handling Poison Messages in Distributed Systems](https://www.glukhov.org/app-architecture/integration-patterns/dead-letter-queues/ "A practical guide to dead-letter queues: catching poison messages, choosing retry vs discard policies, and designing safe replay strategies.")
-- [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://www.glukhov.org/app-architecture/integration-patterns/circuit-breaker-pattern-in-go/ "Implement the circuit breaker pattern in Go with gobreaker, context timeouts, retries, fallbacks, and production-ready configuration for microservices.")
-- [What Is Spec-Driven Development? The Spec as Source of Truth](https://www.glukhov.org/app-architecture/documentation/what-is-spec-driven-development/ "SDD makes the specification the source of truth for AI coding. Learn the core workflow, how it differs from TDD and BDD, and the real costs and benefits.")
-- [Decision Records for AI-Driven Software Development](https://www.glukhov.org/app-architecture/documentation/decision-records-ai-driven-development/ "Learn how ADRs, PDRs, and DDRs preserve intent, guide AI coding agents, and keep architecture, product, and design decisions close to code.")
-- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/ "Learn how to implement the CQRS pattern in Go. This guide covers design principles, practical code examples, library recommendations (Watermill, Event Horizon), and architectural tradeoffs for building scalable, maintainable systems.")
-- [Chat Platforms as System Interfaces in Modern Systems](https://www.glukhov.org/app-architecture/integration-patterns/chat-platforms-as-system-interfaces/ "Explore how Slack and Discord act as system interfaces for alerting workflows and human in the loop control in modern distributed architectures.")
-- [Slack Integration Patterns for Alerts and Workflows](https://www.glukhov.org/app-architecture/integration-patterns/slack/ "Deep dive on Slack webhooks and apps for alerts, approvals, and workflow automation. Block Kit buttons, signature verification, Go and Python examples.")
-- [Discord Integration Pattern for Alerts and Control Loops](https://www.glukhov.org/app-architecture/integration-patterns/discord/ "Deep dive on Discord webhooks and bots for alerts, approvals, and human-in-the-loop control. Go and Python examples, security, idempotency, and routing.")
-- [Idempotency in Distributed Systems That Actually Works](https://www.glukhov.org/app-architecture/integration-patterns/idempotency-in-distributed-systems/ "Idempotency is not an HTTP trick. Learn how to stop duplicate writes, replayed messages, and double charges across APIs, queues, webhooks, and workflows.")
-- [Saga Pattern in Distributed Transactions - With Examples in Go](https://www.glukhov.org/post/2025/11/saga-transactions-in-microservices/ "Complete guide to Saga pattern implementation in Go for microservices. Learn orchestration vs choreography, compensation strategies, idempotency, event sourcing, and best practices with practical examples.")
-- [Zero-Knowledge Architecture: Privacy by Design](https://www.glukhov.org/post/2025/11/zero-knowledge-architecture/ "Explore zero-knowledge architecture principles, zero-knowledge proofs, and privacy-preserving systems. Learn how ZKPs enable secure authentication, blockchain privacy, and confidential computation.")
-- [Multi-Tenancy Database Patterns with examples in Go](https://www.glukhov.org/post/2025/11/multitenant-database-patterns/ "Explore shared database, separate schema, and database-per-tenant patterns for multi-tenant apps. Learn trade-offs, security, and when to use each approach - with examples in Go")
-- [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://www.glukhov.org/post/2025/11/securing-information-at-rest-in-transit-at-runtime/ "A guide to securing data at rest, in transit, and at runtime using modern architectural patterns. Learn about TDE, TLS 1.3, mTLS, RASP, service meshes, AI-driven threat detection, and quantum-resistant cryptography. Includes practical implementation examples with AWS, Azure, Kubernetes, Istio, and best practices for 2025.")
-- [Testing Concurrent Go Code with synctest](https://www.glukhov.org/app-architecture/testing-architecture/testing-concurrent-go-code-synctest/ "Learn how Go testing/synctest makes concurrent tests faster and more reliable with fake time, isolated bubbles, Wait, and deterministic async behavior.")
-- [Go Error Handling Architecture: Boundaries and Patterns](https://www.glukhov.org/app-architecture/code-architecture/go-error-handling-architecture/ "Learn Go error handling architecture with wrapping, sentinel errors, custom types, errors.Is, errors.As, API boundaries, logging, and production patterns.")
-- [Go context.Context Done Right: Cancellation, Timeouts, and Values](https://www.glukhov.org/app-architecture/code-architecture/go-context-cancellation-timeouts/ "Master Go context for cancellation, timeouts, and request-scoped values. Covers HTTP handlers, database calls, background workers, goroutine leaks, and graceful shutdown.")
-- [Transactional Outbox Pattern in Go with PostgreSQL](https://www.glukhov.org/app-architecture/integration-patterns/transactional-outbox-pattern-go/ "Stop losing events between your database and message broker. Learn the transactional outbox pattern in Go with PostgreSQL, FOR UPDATE SKIP LOCKED, and a polling relay.")
-- [Keeping Specs, Tests, And Code In Sync In AI Development](https://www.glukhov.org/app-architecture/testing-architecture/specs-tests-code-traceability-ai-development/ "Learn how to build requirement-to-test-to-code traceability for AI-assisted development, catch spec drift early, and enforce it with CI gates and PR checklists.")
-- [Go Web Frameworks in 2026: net/http, chi, Gin, Echo, Fiber Compared](https://www.glukhov.org/app-architecture/api-architecture/go-web-frameworks-stdlib-chi-gin-echo-fiber/ "Benchmarked 2026 comparison of Go HTTP stacks: net/http ServeMux, chi, Gin, Echo, and Fiber - routing, allocations, the fasthttp tradeoff, and how to choose.")
-- [Bounding Concurrency in Go: errgroup, Worker Pools, and Backpressure](https://www.glukhov.org/app-architecture/code-architecture/bounding-concurrency-in-go/ "Bound Go concurrency: errgroup.SetLimit, semaphore channels, worker pools, and bounded queues - with the goroutine leak that survives errgroup.Wait.")
+## App Architecture
 
-## Observability Monitoring and Alerting incl. Prometheus and Grafana
+Integration patterns, API design, and code structure.
 
-- [Modern Alerting Systems Design for Observability Teams](https://www.glukhov.org/observability/alerting/ "A practical pillar page on alerting design, routing, noise reduction, and human response across observability systems, paging tools, and chat platforms.")
-- [Install and Use Grafana on Ubuntu: Complete Guide](https://www.glukhov.org/post/2025/11/grafana-installing-using-in-ubuntu/ "Step-by-step guide to installing, configuring, and using Grafana on Ubuntu for powerful monitoring, visualization, and observability with multiple data sources")
-- [Prometheus Monitoring: Setup & Best Practices](https://www.glukhov.org/post/2025/11/monitoring-with-prometheus/ "Guide to Prometheus monitoring system: installation, configuration, PromQL queries, exporters, alerting, and integration with Grafana for comprehensive infrastructure observability.")
-- [Monitor LLM Inference in Production (2026): Prometheus & Grafana for vLLM, TGI, llama.cpp](https://www.glukhov.org/observability/monitoring-llm-inference-prometheus-grafana/ "Learn how to monitor LLM inference in production using Prometheus and Grafana. Track p95 latency, tokens/sec, queue duration, and KV cache usage across vLLM, TGI, and llama.cpp. Includes PromQL examples, dashboards, alerts, Docker & Kubernetes setups.")
-- [Observability for LLM Systems: Metrics, Traces, Logs, and Testing in Production](https://www.glukhov.org/observability/observability-for-llm-systems/ "A deep, production-minded guide to observability for LLM systems, covering LLM metrics, distributed tracing, logs, profiling, synthetic testing, SLOs, and an LLM observability tools comparison (Prometheus, Grafana, OpenTelemetry, Jaeger/Tempo, Loki/ELK, DCGM, and major APM platforms).")
-- [GPU monitoring applications in Linux / Ubuntu](https://www.glukhov.org/post/2025/08/gpu-monitoring-apps-linux/ "NVIDIA GPU monitoring applications in Linux / Ubuntu - list and comparison")
-- [Apache Kafka Quickstart - Install Kafka 4.2 with CLI and Local Examples](https://www.glukhov.org/data-infrastructure/stream-processing/apache-kafka/ "Learn Apache Kafka 4.2 fast with tarball or Docker, start a local KRaft broker, master key CLI tools, and run practical producer, consumer, and Connect examples.")
+- [App Architecture in Production: Integration Patterns, Code Design, and Data Access](https://www.glukhov.org/app-architecture/)
+- [Idempotency in Distributed Systems That Actually Works](https://www.glukhov.org/app-architecture/integration-patterns/idempotency-in-distributed-systems/)
+- [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://www.glukhov.org/app-architecture/integration-patterns/circuit-breaker-pattern-in-go/)
+- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://www.glukhov.org/app-architecture/code-architecture/implementing-cqrs-in-go/)
 
-## Docker and Kuberntetes
+Full list: [app-architecture.md](app-architecture.md)
 
-- [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://www.glukhov.org/developer-tools/containers/install-docker-on-ubuntu/ "Compare Docker install methods on Ubuntu: official APT repo, docker.io, Snap, rootless mode, Compose plugin, and post-install security. Decision table and migration paths included.")
-- [Run Docker Compose as a Linux Service with systemd](https://www.glukhov.org/developer-tools/containers/docker-compose-as-systemd-service/ "Run Docker Compose as a reliable Linux service with systemd. Type=oneshot units, restart policies, logs, updates, health checks, backups, and safe cleanup.")
-- [Docker Cheatsheet](https://www.glukhov.org/post/2024/10/docker-cheatsheet)
-- [Kubernetes Cheatsheet](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "list and description of the most frequent and useful k8s commands - k8s cheatsheet")
-- [Docker Compose Cheatsheet - Most useful commands with examples](https://www.glukhov.org/post/2025/07/docker-compose-cheatsheet/ "The list of most useful docker compose commands, structures and examples with descriptions - The cheat sheet")
-- [Install portainer on linux](https://www.glukhov.org/post/2025/05/install-portainer-on-linux/ "Howto install, connect to and remove Portainer on Linux")
-- [Kubernetes distributions - quick overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2](https://www.glukhov.org/post/2025/08/kubernetes-distributions-overview/ "Kubernetes distributions - overview of kubeadm, k3s, MicroK8s, Minikube, Talos Linux and RKE2")
-- [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
-- [Docker Model Runner Cheatsheet: Commands & Examples](https://www.glukhov.org/post/2025/10/docker-model-runner-cheatsheet/ "Docker Model Runner cheatsheet with commands, examples, and best practices. Learn docker model pull, run, package, and configuration options for deploying AI models locally with Docker's official LLM tool.")
-- [Install Kubernetes with Kubespray](https://www.glukhov.org/post/2024/10/kubernetes-cheatsheet "Step by step instruction on how to Install Kubernetes with Kubespray")
-- [Implementing Service Mesh with Istio and Linkerd: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/service-mesh-with-istio-and-linkerd/ "Service mesh implementation with Istio and Linkerd in Kubernetes. Compare performance benchmarks, security features like mTLS, traffic management patterns, and deployment strategies. Includes step-by-step guides, production best practices, and real-world use cases for choosing the right service mesh for your microservices architecture.")
-- [Comparison of Kubernetes Distributions for a 3-Node Homelab](https://www.glukhov.org/post/2025/08/kubernetes-distributions-comparison/ "Comprehensive Comparison of Kubernetes Distributions for a 3-Node Homelab - K3s, MicroK8s, Minikube, and kubeadm (vanilla Kubernetes)")
-- [Installing k3s on baremetal - step by step walkthrough and with terraform](https://www.glukhov.org/post/2025/08/install-k3s-step-by-step-and-with-terraform/ "Step by step howto - Install k3s kubernetes on baremetal 3-node cluster - manual and with terraform")
-- [Helm Charts: Kubernetes Package Management](https://www.glukhov.org/post/2025/11/helm-charts-for-kubernetes-packages/ "Creating, managing, and deploying Helm Charts for Kubernetes. Comprehensive guide covering chart structure, templating, values management, OCI registries, and production best practices for DevOps teams")
-- [StatefulSets & Persistent Storage in K8s](https://www.glukhov.org/post/2025/11/statefulsets-and-persistent-storage-in-kubernetes/ "Learn how Kubernetes StatefulSets manage stateful applications with stable identities, ordered deployments, and persistent storage through PersistentVolumeClaims and volumeClaimTemplates for databases and distributed systems.")
-- [Podman Quadlet vs Docker Compose for Linux Services](https://www.glukhov.org/developer-tools/containers/podman-quadlet-vs-docker-compose/ "Compare Podman Quadlet and Docker Compose for Linux services: systemd integration, rootless containers, updates, logs, and migration.")
+## Developer Tools
 
+Git, containers, editors, shells, and language tooling.
 
-## Gitea as a self-hosted git server and other Git-related devops
+- [Developer Tools: The Complete Guide to Modern Development Workflows](https://www.glukhov.org/developer-tools/)
+- [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://www.glukhov.org/developer-tools/containers/install-docker-on-ubuntu/)
+- [GIT Cheatsheet](https://www.glukhov.org/developer-tools/git-and-forges/git-cheatsheet/)
+- [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/developer-tools/editors-ides/vscode-cheatsheet/)
+- [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/developer-tools/ci-cd/github-actions-cheatsheet/)
 
-- [Gitflow Explained: Steps, Alternatives, Pros, and Cons](https://www.glukhov.org/developer-tools/git-and-forges/gitflow-steps-and-alternatives/ "Gitflow: a structured branching model for version control. Learn its steps, advantages, weaknesses, and alternatives like GitHub Flow. Ideal for large teams and complex projects.")
-- [Onprem git servers comparison](https://www.glukhov.org/developer-tools/git-and-forges/gitea/)
-- [Gitea SSL with Apache as reverse proxy](https://www.glukhov.org/developer-tools/git-and-forges/gitea-ssl/ "My steps to install reverse proxy for serving gitea and container registry over ssl")
-- [Backup and Restore Gitea server](https://www.glukhov.org/developer-tools/git-and-forges/gitea-backup-restore/ "Backup and restore a self-hosted Gitea server with the built-in gitea dump command, plus Docker steps, restore-repo, and troubleshooting tips.")
-- [Using Gitea Actions deploy Hugo website to AWS S3"](https://www.glukhov.org/web-infrastructure/hugo/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
-- [DevOps with GitOps - Argo CD, Flux, Jenkins X, Weave GitOps and others](https://www.glukhov.org/developer-tools/ci-cd/devops-with-gitops/ "DevOps with GitOps - Methodology Overview GitOps tools and comparison to alternatives")
-- [GitHub Actions Cheatsheet - Standard structure and a List of most useful actions](https://www.glukhov.org/developer-tools/ci-cd/github-actions-cheatsheet/ "GitHub Actions Cheatsheet with GitHub actions structure, short description and the most common actions used across open source and commercial workflows, specifically official, community, and third-party tools, supporting automation from builds and tests to deployment, release management, QA, and notifications")
-
-## Python Coding incl AWS
-
-- [Browser Automation in Python: Playwright, Selenium & More](https://www.glukhov.org/post/2026/02/playwright-vs-selenium-puppeteer-lambdatest-zenrows/ "Compare Playwright, Selenium, Puppeteer, LambdaTest, ZenRows, and Gauge for browser automation and testing in Python. When to use each and setup.")
-- [Top 17 Trending Python Projects on GitHub](https://www.glukhov.org/post/2026/01/most-popular-python-projects-on-github/ "Discover the hottest Python projects on GitHub this month, ranked by stars gained. Claude Skills dominate with AI agents, RAG frameworks, and development tools leading the charge.")
-- [Anaconda vs Miniconda vs Mamba Comparison](https://www.glukhov.org/post/2026/01/anaconda-vs-miniconda-vs-mamba/ "Complete comparison of Anaconda, Miniconda, and Mamba for Python package management. Learn installation, performance differences, and when to use each tool for data science and development.")
-- [Python Cheatsheet](https://www.glukhov.org/post/2024/08/python-cheat-sheet)
-- [Conda Cheatsheet](https://www.glukhov.org/post/2024/10/conda-cheatsheet/ "Anaconda Cheatsheet conda")
-- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
-- [Generating PDF in Python - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-in-python/ "Generating PDF in Python - libraries, packages, tools and examples")
-- [Building MCP Servers in Python: WebSearch & Scrape](https://www.glukhov.org/post/2025/10/mcp-server-in-python/ "A comprehensive guide to implementing Model Context Protocol (MCP) servers in Python with practical examples for web search and scraping capabilities, enabling seamless AI tool integration.")
-- [Unit Testing in Python](https://www.glukhov.org/post/2025/10/unit-testing-in-python/ "Comprehensive guide to unit testing in Python covering pytest, unittest, TDD practices, mocking, fixtures, and best practices for writing maintainable tests with real-world examples and code coverage strategies.")
-- [Converting HTML to Markdown with Python: A Comprehensive Guide](https://www.glukhov.org/post/2025/10/convert-html-to-markdown-in-python/ "Comparing 6 Python libraries for HTML-to-Markdown conversion with benchmarks, code examples, and practical recommendations for web scraping, LLM preprocessing, and Hugo migrations")
-- [venv Cheatsheet](https://www.glukhov.org/post/2025/05/python-venv-cheatsheet/ "venv Cheatsheet")
-- [uv - New Python Package, Project, and Environment Manager](https://www.glukhov.org/post/2025/06/uv-new-python-package-project-and-environment-manager/ "UV is a New Python Package Project and Environment Manager. Here we provide it's short description, performance statistics, how to install it and its main commands")
-- [Building a Dual-Mode AWS Lambda with Python and Terraform](https://www.glukhov.org/post/2025/10/python-lambda-on-aws-sqs-rest-api-terraform/ "Implementing API and AWS SQS consumer with AWS Lambda in Python, and deploying with Terraform to AWS")
-- [Layered Lambdas with AWS SAM and Python](https://www.glukhov.org/post/2024/12/aws-sam-and-layered-lambdas/ "Implementing Layered Lambdas with AWS SAM and Python")
-- [AWS SAM + AWS SQS + Python PowerTools](https://www.glukhov.org/post/2025/01/aws-sam-lambda-python-powertools-sqs/ "AWS SAM + AWS SQS + Python PowerTools")
-- [Implementing Telegram Bot in Python and Javascript with deployment to AWS](https://www.glukhov.org/post/2025/09/implementing-telegram-bot-python-javascript/ "Step-by-step instructions on how to create a Telegram Bot in Python and Javascript with deployment to AWS")
-- [Python Design Patterns for Clean Architecture](https://www.glukhov.org/post/2025/11/python-design-patterns-for-clean-architecture/ "Master SOLID principles, dependency injection, and layered architecture in Python. Learn repository pattern, hexagonal architecture, and domain-driven design for maintainable, testable, and scalable applications.")
-- [FastAPI: Modern High-Performance Python Web Framework](https://www.glukhov.org/post/2025/11/api-in-python-with-fastapi/ "Comprehensive guide to FastAPI—a modern, fast Python web framework for building APIs with automatic documentation, type validation, async support, and production-ready features for scalable applications.")
-- [Build Python Packages: Development to PyPI Guide](https://www.glukhov.org/post/2025/11/building-python-packages-from-development-to-pypi/ "Comprehensive guide to building, packaging, and publishing Python projects to PyPI using modern tools like pyproject.toml, setuptools, Poetry, and automated CI/CD workflows.")
-- [Python Linters: A Guide for Clean Code](https://www.glukhov.org/post/2025/11/linters-for-python/ "Comprehensive guide to Python linters including Ruff, Pylint, Flake8, and mypy for maintaining high code quality in modern development workflows")
-- [Using Ollama Web Search API in Python](https://www.glukhov.org/post/2025/12/ollama-web-search-in-python/ "Master Ollama's native Web Search API with Python. Learn to use web_search and web_fetch functions, build intelligent search agents with tool calling, and integrate with MCP servers for Cline and Codex. Includes complete code examples.")
-- [Dependency Injection: a Python Way](https://www.glukhov.org/post/2025/12/dependency-injection-in-python/ "Master dependency injection in Python with constructor injection, DI frameworks, protocols, and best practices for testable, maintainable code.")
-- [BAML vs Instructor: Structured LLM Outputs](https://www.glukhov.org/post/2025/12/baml-vs-instruct-for-structured-output-llm-in-python/ "Compare BAML and Instructor frameworks for type-safe structured outputs from LLMs in Python. Learn implementation patterns, performance, and best practices.")
-- [Playwright: Web Scraping & Testing](https://www.glukhov.org/post/2025/12/playwright-for-scraping-and-testing-webapps/ "Complete guide to Playwright for web scraping, testing, and browser automation with Python, JavaScript, and TypeScript examples for modern web apps.")
-- [Extract Text from PDFs with PDFMiner in Python](https://www.glukhov.org/post/2025/12/extract-text-from-pdf-using-pdfminer-python/ "Learn how to extract text from PDF files using PDFMiner.six in Python with practical examples, layout analysis, and performance optimization techniques")
-- [Curated List of Articles about Coding in Python](https://glukhov.au/posts/2026/python-coding/ "Curated List of Articles about Coding in Python")
-- [Neo4j graph database for GraphRAG, install, Cypher, vectors, ops](https://www.glukhov.org/data-infrastructure/databases/neo4j/ "Senior-engineer guide to Neo4j for property graphs and GraphRAG. Cypher, ACID, Neo4j vs Neptune and TigerGraph, Docker and AuraDB, ports and neo4j.conf, vector indexes, hybrid retrieval, and Python neo4j-graphrag.")
-
-
-## AWS, Flutter, Go and other development
-
-- [Upgrading to Go 1.27: What Breaks, What to Adopt First](https://www.glukhov.org/developer-tools/local-dev-platforms/go-1-27-upgrade-what-breaks/ "Go 1.27 upgrade guide: encoding/json v2 engine gotchas, stdlib uuid migration, generic methods, simd experiment, and the GODEBUG changes that fail builds.")
-- [Implementing Workflow Applications with Temporal in Go: A Complete Guide](https://www.glukhov.org/post/2026/03/workflow-applications-temporal-in-go/ "Learn how to implement workflow applications with Temporal in Go using the official Temporal Go SDK. This end-to-end guide covers configuration, examples, deployment, troubleshooting, and best practices for building scalable, resilient workflows.")
-- [Create AWS CloudFront on Pay-as-You-Go (not the Free) Plan](https://www.glukhov.org/post/2026/02/create-aws-cloudfront-distribution-pay-as-you-go-instead-of-free/ "Use AWS CLI to create a CloudFront distribution on pay-as-you-go pricing when the console only offers Free or Pro flat-rate plans.")
-- [Terminal UI: BubbleTea (Go) vs Ratatui (Rust)](https://www.glukhov.org/post/2026/02/tui-frameworks-bubbletea-go-vs-ratatui-rust/ "BubbleTea and Ratatui compared: Elm-style vs immediate mode, Crush and 2000+ crates, Netflix/OpenAI/AWS. One example each; when to choose which.")
-- [Top 19 Trending Go Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-go-projects-on-github/ "Discover the hottest Go projects on GitHub this month, ranked by stars gained. From AI coding agents to Docker management, self-hosted apps to LLM gateways - complete overview with stats, licenses, and use cases.")
-- [Go Project Structure: Practices & Patterns](https://www.glukhov.org/post/2025/12/go-project-structure/ "Master Go project layouts with proven patterns from flat structures to hexagonal architecture. Learn when to use cmd/, internal/, pkg/ and avoid common pitfalls.")
-- [Dependency Injection in Go: Patterns & Best Practices](https://www.glukhov.org/post/2025/12/dependency-injection-in-go/ "Master dependency injection in Go with constructor injection, interfaces, DI frameworks like Wire and Dig, and best practices for testable, maintainable code.")
-- [Parallel Table-Driven Tests in Go](https://www.glukhov.org/post/2025/12/parallel-table-driven-tests-in-go/ "Parallel execution of table-driven tests in Go: Learn best practices, avoid race conditions, and optimize test performance with t.Parallel() and subtests.")
-- [Using Ollama Web Search API in Go](https://www.glukhov.org/post/2025/12/ollama-web-search-in-go/ "Master Ollama's native Web Search API with Go. Learn to implement web_search and web_fetch, build intelligent search agents with tool calling, and create production-ready Go applications with complete code examples.")
-- [Adding Swagger to Go API](https://www.glukhov.org/post/2025/11/adding-swagger-to-api-in-go/ "Learn to generate and serve OpenAPI documentation with swaggo, integrate Swagger UI in Gin/Echo/Fiber apps, and follow best practices for Go API documentation.")
-- [Go Microservices for AI/ML Orchestration](https://www.glukhov.org/post/2025/11/go-microservices-for-ai-ml-orchestration-patterns/ "Explore proven patterns for building scalable AI/ML orchestration systems using Go microservices. Learn event-driven architectures, workflow engines, and best practices for production deployments.")
-- [Building REST APIs in Go: Complete Guide](https://www.glukhov.org/post/2025/11/implementing-api-in-go/ "A comprehensive guide to implementing RESTful APIs in Go, covering standard library approaches, frameworks, authentication, testing patterns, and production-ready best practices for scalable backend services.")
-- [Go Unit Testing: Structure & Best Practices](https://www.glukhov.org/post/2025/11/unit-tests-in-go/ "Master Go unit testing with built-in testing package, table-driven tests, mocks, coverage analysis, and industry best practices for robust Go applications.")
-- [Go Generics: Use Cases and Patterns](https://www.glukhov.org/post/2025/11/generics-in-go/ "Explore Go generics with practical use cases, common patterns, and best practices. Learn how to write type-safe, reusable code in Go 1.18+.")
-- [Using Dev Containers in VS Code](https://www.glukhov.org/post/2025/10/vs-code-dev-containers/ "Create consistent, portable, and reproducible development environments using Dev Containers")
-- [6 Awesome Ways to Manage State in Flutter Apps (With Code Examples)](https://www.glukhov.org/post/2025/10/state-management-in-flutter/ "In this article, we’ll explore six popular ways of managing state in Flutter apps, including real examples and best practices")
-- [Apache Airflow for MLOPS and ETL - Description, Benefits and Examples](https://www.glukhov.org/post/2025/06/apache-airflow/ "How to use Apache Airflow for MLOPS and ETL - Description, Benefits and Examples")
-- [Dockerising Flutter Web app with dockerised Flutter build](https://www.glukhov.org/post/2025/06/dockerising-flutter-web-app/ "Dockerising Flutter Web app with dockerised Flutter build and Nginx")
-- [AWS lambda performance: JavaScript vs Python vs g](https://www.glukhov.org/post/2024/08/aws-lambda-g-python-js/ "Developint Serverless applications on AWS with sam using JavaScript, Python and g")
-- [Golang Cheat Sheet](https://www.glukhov.org/post/2022/golang-cheatsheet/)
-- [Install Flutter dev environment](https://www.glukhov.org/post/2022/flutter-install/)
-- [Flutter (Dart) Cheat Sheet](https://www.glukhov.org/post/2022/flutter-dart-cheatsheet/ "Flutter (Dart) Cheatsheet with examples")
-- [How To: Creating new Flutter project with AWS Amplify & Cognito support](https://www.glukhov.org/post/2024/09/flutter-with-aws-amplify/)
-- [How To: Deploy Flutter project with backend to AWS Amplify](https://www.glukhov.org/post/2024/09/deploy-flutter-amplify-hosting "Deploy Flutter with backend to AWS Amplify hosting")
-- [PyInstaller Quickstart](https://www.glukhov.org/post/2025/01/pyinstaller "PyInstaller description, quickstart and drawbacks")
-- [Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master](https://www.glukhov.org/post/2025/02/flutter-deployment-errors-on-aws-amplify/ "Fixing Flutter errors on AWS Amplify: [WARNING] fatal Not a valid object name origin/master")
-- [ORM to use in GO: GORM, sqlc, Ent or Bun?](https://www.glukhov.org/post/2025/03/which-orm-to-use-in-go/ "Choosing ORM to Use in Go programs: GORM, sqlc, Ent or Bun")
-- [VSCode Cheatsheet and Most frequently used commands](https://www.glukhov.org/post/2025/04/vscode-cheatsheet/ "VSCode Cheatsheet and Most frequently used commands")
-- [What is Vibe Coding?](https://www.glukhov.org/post/2025/04/vibe-coding/ "Vibe Coding - meaning, description, origins, challenges and efficiency and risk aspects")
-- [Programming languages and frameworks popularity](https://www.glukhov.org/post/2025/05/programming-languages-frameworks-popularity/ "Programming languages and frameworks popularity")
-- [Install DBeaver on linux](https://www.glukhov.org/post/2025/05/install-dbeaver-on-linux "Howto install, connect to and remove DBeaver on Linux")
-- [Fixing Golang GORM AutoMigrate postgresql error](https://www.glukhov.org/post/2025/05/gorm-automigrate-error/ "Fixing Golang GORM AutoMigrate postgresql error")
-- [AI Coding Assistants Comparison](https://www.glukhov.org/post/2025/05/ai-coding-assistants/ "AI Coding Assistants Comparison and AI-assisted development")
-- [Beautiful Soup Alternatives in Go](https://www.glukhov.org/post/2025/05/beautiful-soup-alternatives-for-go/ "Beautiful Soup Alternatives for Go")
-- [Generating PDF in GO - Libraries and examples"](https://www.glukhov.org/post/2025/05/generating-pdf-reports-in-go/ "Generating PDF in GO - libraries, packages, tools and examples")
-- [Popularity of Programming Languages and Software Developer Tools](https://www.glukhov.org/post/2025/07/popularity-of-ai-tools-programming-languages-ides-cloud-providers/ "Popularity comparison of AI tools, programming languages, IDEs, cloud providers and CI/CD tools")
-- [GitHub Copilot Cheatsheet - Description and useful commands](https://www.glukhov.org/post/2025/08/github-copilot-cheatsheet/ "GitHub Copilot Cheatsheet - Description, subscription plans and essential commands")
-- [TypeScript Cheatsheet: Master Core Concepts & Best Practices](https://www.glukhov.org/post/2025/08/typescript-cheatsheet/ "Dive into our comprehensive TypeScript cheatsheet covering syntax, data types, advanced features, and best practices to boost your coding efficiency and type safety")
-- [AWS CDK Overview, TypeScript and Python Examples and Performance Conciderations](https://www.glukhov.org/post/2025/08/aws-cdk-overview/ "AWS CDK Overview, TypeScript and Python Examples, Languages Support and Performance Conciderations")
-- [Comparing Go ORMs for PostgreSQL: GORM vs Ent vs Bun vs sqlc](https://www.glukhov.org/post/2025/09/comparing-go-orms-gorm-ent-bun-sqlc/ "Go ORMs for PostgreSQL comparison: GORM vs Ent vs Bun vs sqlc - with code examples")
-- [Building, Publishing and Monetizing Alexa Skills](https://www.glukhov.org/post/2025/10/building-and-publishing-alexa-skills/ "Step-by-step instruction for Developers on how to Build, Publish and Monetize Alexa Skills")
-- [Building GraphQL Backend for Frontend with Apollo Server](https://www.glukhov.org/post/2025/11/graphql-backend-for-frontend-apollo-server/ "Learn how to implement the Backend for Frontend pattern using GraphQL and Apollo Server to create efficient, client-optimized APIs that simplify frontend development and improve application performance.")
-- [Building Event-Driven Microservices with AWS Kinesis](https://www.glukhov.org/post/2025/11/service-oriented-and-microservices-with-aws-kinesis/ "Comprehensive guide to implementing scalable event-driven microservices architecture using AWS Kinesis Data Streams, including real-time data processing, service decoupling, and best practices for production deployments.")
-- [Building CLI Applications in Go with Cobra & Viper](https://www.glukhov.org/post/2025/11/go-cli-applications-with-cobra-and-viper/ "Learn how to build professional command-line applications in Go using Cobra for CLI structure and Viper for configuration management. Complete guide with practical examples and best practices.")
-- [Flutter DevTools: Debug & Optimize Apps](https://www.glukhov.org/post/2025/11/flutter-dev-tools/ "Flutter DevTools is a comprehensive suite of performance profiling and debugging tools for Flutter developers. Learn how to use Widget Inspector, Performance View, Memory Profiler, Network Monitor, and more to build better apps.")
-- [Advanced Anti-Fingerprinting Protection](https://www.glukhov.org/post/2025/11/anti-fingerprinting-techniques-browser-and-network-level/ "Comprehensive guide to browser and network-level anti-fingerprinting techniques, tools, and best practices to protect your digital privacy and prevent tracking across the web.")
-- [Go Linters: Essential Tools for Code Quality](https://www.glukhov.org/post/2025/11/linters-for-go/ "Complete guide to Go linters: golangci-lint, staticcheck, and best practices for automated code quality in Go projects with CI/CD integration.")
-- [Collection of articles about coding in Golang](https://glukhov.au/posts/2026/go-coding/)
-- [Top 23 Trending Rust Projects on GitHub - January 2026](https://www.glukhov.org/post/2026/01/most-popular-rust-projects-on-github/ "Discover the hottest Rust projects on GitHub this month, ranked by stars gained. From AI coding agents to terminal tools, app frameworks to trading platforms - complete overview with stats, licenses, and use cases.")
-- [Airtable for Developers & DevOps - Free Plan Limits, API, Webhooks, and Go/Python Integration Examples](https://www.glukhov.org/data-infrastructure/integrations/airtable-for-developers-and-devops/ "Deep research guide to Airtable - what it is, core features, Free plan limits and implications, key competitors, and production-ready DevOps integration patterns with runnable Go and Python examples (CRUD, pagination, rate limits, batching, webhooks).")
-- [Structured Logging in Go with slog for Observability and Alerting](https://www.glukhov.org/observability/logging/structured-logging-go-slog/ "Structured logs turn Go application output into queryable events. Explore log/slog records, JSON handlers, context and trace correlation, redaction, and log-based signals that support monitoring and alerting.")
+Full list: [developer-tools.md](developer-tools.md)
 
 ## Knowledge Management
 
-- [AI for Knowledge Management: Real Workflows That Hold Up](https://www.glukhov.org/knowledge-management/ai-augmented-knowledge/ai-for-knowledge-management-workflows/ "A practical guide to AI-augmented knowledge management, from summarisation and extraction to semantic linking, local models, APIs, and review loops.")
-- [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/ "Learn what a second brain really is, how it differs from PKM, wikis, and RAG, and why the best systems turn notes into reusable thinking over time.")
-- [Zettelkasten for Developers: A Practical Method That Works](https://www.glukhov.org/knowledge-management/methods/zettelkasten-for-developers/ "A practical Zettelkasten guide for developers: write atomic notes, link concepts to code, avoid folder traps, and build a useful knowledge system.")
-- [Digital Gardens: Grow Knowledge Instead of Just Publishing It](https://www.glukhov.org/knowledge-management/methods/digital-gardening/ "Digital gardens are publicly evolving knowledge spaces — not blogs, not wikis, but living networks of notes at different stages of development. A guide for engineers who want their thinking to compound publicly.")
-- [PARA Method for Engineers: Organize Knowledge by Action](https://www.glukhov.org/knowledge-management/methods/para-method-for-engineers/ "PARA (Projects, Areas, Resources, Archives) helps engineers organize knowledge by actionability rather than topic. A practical guide for developers using Obsidian, Notion, or plain files.")
-- [Evergreen Notes: Write Notes That Compound Over Time](https://www.glukhov.org/knowledge-management/methods/evergreen-notes/ "Evergreen notes are atomic, standalone, and evolving — the opposite of notes you write once and forget. A practical guide for engineers who want technical knowledge that stays useful for years.")
-- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://www.glukhov.org/knowledge-management/foundations/pkm-vs-rag-vs-wiki-vs-memory-systems/ "Compare PKM, RAG, wikis, and AI memory systems by structure, retrieval, ownership, evolution, and real-world use cases.")
-- [Retrieval vs Representation in Knowledge Systems](https://www.glukhov.org/knowledge-management/foundations/retrieval-vs-representation/ "Learn the difference between retrieval and representation in knowledge systems, why RAG is not enough, and when structure matters more than search.")
-- [LLM Wiki - Compiled Knowledge That RAG Cannot Replace](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/what-is-llm-wiki/ "RAG retrieves fragments on demand. LLM Wiki compiles structured knowledge before any question is asked. Learn when ingest-time synthesis beats query-time retrieval, and when it does not.")
-- [LLM Wiki Maintenance: Drift, Contradictions and Review](https://www.glukhov.org/knowledge-management/knowledge-systems-architectures/compiled-knowledge/llm-wiki-maintenance-knowledge-drift/ "Learn how to maintain an LLM Wiki with drift detection, contradiction checks, citation discipline, linting, Git review, and governance for compiled knowledge.")
-- [Personal Knowledge Management - Goals, Methods and Tools to use in 2025](https://www.glukhov.org/post/2025/07/personal-knowledge-management/ "Personal Knowledge Management - What it is, it's goals, methods and tools to use in 2025")
-- [Using Obsidian for Personal Knowledge Management](https://www.glukhov.org/post/2025/07/obsidian-for-personal-knowledge-management/ "Using Obsidian for Personal Knowledge Management (PKI)")
-- [Obsidian vs LogSeq: Which PKM Tool is for right for you?](https://www.glukhov.org/post/2025/11/obsidian-vs-logseq-comparison/ "A comparison of Obsidian and LogSeq, exploring features, workflows, plugin ecosystems, and use cases to help you choose the best personal knowledge management tool for your needs.")
-- [Dokuwiki - selfhosted wiki and the alternatives](https://www.glukhov.org/post/2025/07/dokuwiki-selfhosted-wiki-alternatives/ "Dokuwiki - selfhosted wiki and the alternatives")
-- [Syncthing File Sync for Self-Hosted Knowledge Systems](https://www.glukhov.org/knowledge-management/self-hosted-knowledge/syncthing-file-sync/ "A practical guide to using Syncthing for private file sync across notes, documents, servers, and local-first knowledge workflows without cloud lock-in.")
+PKM methods, wikis, and self-hosted notes.
 
-## Documentation: Latex, Markdown, Mermaid etc
+- [Knowledge Management in 2026: PKM Tools, Self-Hosted Wikis & Digital Systems](https://www.glukhov.org/knowledge-management/)
+- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://www.glukhov.org/knowledge-management/foundations/pkm-vs-rag-vs-wiki-vs-memory-systems/)
+- [Second Brain Explained for Engineers and Knowledge Workers](https://www.glukhov.org/knowledge-management/foundations/second-brain/)
+- [Zettelkasten for Developers: A Practical Method That Works](https://www.glukhov.org/knowledge-management/methods/zettelkasten-for-developers/)
 
-- [Documentation Tools in 2026: Markdown, LaTeX, PDF & Printing Workflows](https://www.glukhov.org/documentation-tools/ "Practical guides for Markdown, LaTeX, PDF processing and document printing workflows. Conversion tools, formatting tips, and automation techniques.")
-- [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/post/2024/11/latex-install-overview/)
-- [LaTeX Cheat Sheet](https://www.glukhov.org/post/2024/12/latex-cheat-sheet "LaTeX Cheat Sheet - adding tables, diagrams, images, table of contents and other usefull examples")
-- [LaTeX Document classes comparison](https://www.glukhov.org/post/2025/01/latex-document-classes/ "Document classes in LaTeX comparison")
-- [DIY Filofax A5 planner BillTracker Inserts with LaTeX](https://www.glukhov.org/post/2024/12/diy-filofax-inserts-with-latex/)
-- [LaTeX on Windows 11 & 10: Distributions, Comparisons, and Step-by-Step Installs](https://www.glukhov.org/post/2025/09/latex-for-windows/ "Choosing LaTeX distribution and Installing LaTeX on Windows 11 & 10")
-- [LaTeX to Markdown Conversion Tools](https://www.glukhov.org/post/2025/11/converting-latex-to-markdown-tools-and-workflows/ "Converting LaTeX documents to Markdown using Pandoc, automated workflows, and best practices for academic and technical content migration")
-- [Tables in Markdown: Quick Guide](https://www.glukhov.org/post/2025/11/tables-in-markdown/ "Master Markdown table syntax with this comprehensive guide covering basic tables, alignment, GitHub Flavored Markdown (GFM), formatting best practices, common pitfalls, and tools for creating professional-looking tables. Learn how to structure data effectively in your documentation, README files, and technical blogs with practical examples and expert tips for optimizing readability and maintainability.")
-- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://www.glukhov.org/documentation-tools/diagrams/mermaid-diagrams-quickstart-cheatsheet/ "Learn Mermaid diagrams fast with a practical quickstart, syntax cheatsheet, Hugo setup notes, examples, and best practices for technical blogs.")
+Full list: [knowledge-management.md](knowledge-management.md)
+
+## Documentation Tools
+
+Markdown, LaTeX, PDF, and printing.
+
+- [Documentation Tools in 2026: Markdown, LaTeX, PDF & Printing Workflows](https://www.glukhov.org/documentation-tools/)
+- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://www.glukhov.org/documentation-tools/diagrams/mermaid-diagrams-quickstart-cheatsheet/)
+- [GFM vs CommonMark vs Pandoc Markdown: Syntax Compared](https://www.glukhov.org/documentation-tools/markdown/gfm-vs-commonmark-vs-pandoc-markdown/)
+- [Overview of LaTeX, Simple example and How to Install LaTeX on Windows and Ubuntu](https://www.glukhov.org/documentation-tools/latex/latex-install-overview/)
+
+Full list: [documentation-tools.md](documentation-tools.md)
 
 ## Web Infrastructure
 
-- [Best Newsletter Platforms in 2026: Pricing, Hosting and SEO](https://www.glukhov.org/web-infrastructure/newsletters/best-newsletter-platforms/ "Buttondown, EmailOctopus, beehiiv, Kit, Ghost, Substack, MailerLite, Brevo, Sender: pricing, public archives, canonical URLs, APIs, and ownership compared.")
-- [Indie Web movement](https://www.glukhov.org/post/2025/10/indie-web-overview/ "Indie Web: Reclaiming Digital Independence")
-- [Gemini Protocol: A Minimalist Alternative to the Web](https://www.glukhov.org/post/2025/10/gemini-protocol/ "Explore the Gemini protocol - a lightweight, privacy-focused internet protocol that offers a secure and simple alternative to the modern web, with tools for hosting your own capsule.")
-- [Hosted email for custom domains compared - Workspace, Microsoft 365, Zoho, Proton, WorkMail](https://www.glukhov.org/web-infrastructure/domain-services/email/ "Google Workspace, Microsoft 365, Zoho, Proton, and AWS WorkMail compared for custom-domain email. Typical monthly cost, what MX and SPF really buy you, deliverability tradeoffs, and when to skip self-hosting.")
-- [Beyond Google: Alternative Search Engines Guide](https://www.glukhov.org/post/2025/10/alternative-search-engines/ "Comprehensive guide to alternative search engines including hosted and self-hosted options, AI-powered search, and privacy-focused alternatives.")
-- [Tor Network Statistics: A Decade of Growth and Challenges (2015-2025)](https://www.glukhov.org/post/2025/10/tor-statistics/ "Comprehensive analysis of Tor network statistics from 2015-2025, examining exit relay and bridge count fluctuations, underlying causes, and implications for network resilience and user accessibility.")
-- [POSSE: Publish on your own site, syndicate elsewhere](https://www.glukhov.org/post/2025/02/posse-publish-on-your-own-site-syndicate-elsewhere "POSSE: Publish on your own site, syndicate elsewhere")
-- [YaCy: Decentralized Search Engine, Advantages, Challenges, and Future](https://www.glukhov.org/post/2025/06/yacy-search-engine/ "YaCy, a decentralized, privacy-focused search engine resisting censorship. Explore its open-source features, community-driven innovation, and future in the evolving web.")
+Static publishing, Hugo on AWS, indexing, SEO, and domain services.
 
+- [Web Infrastructure — static publishing, CDN, indexing, and domain services](https://www.glukhov.org/web-infrastructure/)
+- [IndexNow explained - notify search engines when you publish](https://www.glukhov.org/web-infrastructure/indexing/indexnow/)
+- [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/web-infrastructure/hugo/deploy-hugo-site-to-aws/)
+- [Best Newsletter Platforms in 2026: Pricing, Hosting and SEO](https://www.glukhov.org/web-infrastructure/newsletters/best-newsletter-platforms/)
+- [Self-Hosted SEO Tools and Platforms: Open Source Guide](https://www.glukhov.org/web-infrastructure/seo/self-hosted-seo-tools-and-platforms/)
 
-## Other
+Full list: [web-infrastructure.md](web-infrastructure.md)
 
-- [Filofax and hobonichi popularity comparison](https://www.glukhov.org/post/2024/11/filofax-popularity "filofax and hobnichi popularity check using google trends")
-- [Fediverse statistics: Lemmy, Mastodon, Bluesky etc](https://www.glukhov.org/post/2024/12/fediverse-mastodon-lemmy-bluesky-statistics/ "Fediverse overview and statistics: Lemmy, Mastodon, Bluesky and others")
-- [Digital Detox](https://www.glukhov.org/post/2024/10/digital-detox/ "Digital Detox - why, when and how to do it properly")
-- [DumbPhone - for digital detox](https://www.glukhov.org/post/2024/10/dumb-phone/ "Using DumbPhone as a tool for digital detox")
-- [Digital Detox with Filofax](https://www.glukhov.org/post/2025/01/digital-detox-with-filofax/ "Digital Detox with paper-based planners - Filofax, Hobonichi, Moterm")
-- [Optimal Aperture, Shutter Speed and ISO for Video Recording](https://www.glukhov.org/post/2025/01/optimal-parameters-for-video-recording/ "Optimal Parameters for Video Recording - Aperture, Shutter Speed and ISO")
-- [SQL Cheatsheet](https://www.glukhov.org/post/2024/02/sql-cheatsheet "SQL Cheatsheet")
-- [Enshittification - meaning, desfiption and examples](https://www.glukhov.org/post/2025/08/enshittification-meaning/ "Enshittification - meaning, examples, stages early detection and mitigation")
-- [How to Install Mumble server on Ubuntu and use Mumble on Android and IOS](https://www.glukhov.org/post/2025/08/install-mumble-server-on-ubuntu-and-use-android-and-ios-mumble-clients/ "Instructions How to Install Mumble Server on Ubuntu and Use Android and IOS Mumble Clients")
-- [Jabber / XMPP userbase and popularity](https://www.glukhov.org/post/2025/09/xmpp-jabber-userbase-and-popularity/ "Quick overview of Jabber / XMPP advantages, userbase and popularity")
-- [PostgreSQL Cheatsheet: A Developer’s Quick Reference](https://www.glukhov.org/post/2025/09/postgresql-cheatsheet/ "A comprehensive PostgreSQL cheatsheet covering psql commands, data types, DDL, DML, JSON, arrays, window functions, performance tuning, and more")
-- [Privacy-Oriented Browsers: Practical Guide to Safer Web Browsing](https://www.glukhov.org/post/2025/10/privacy-focused-browsers-tor-brave-librewolf-mullvad/ "Privacy-Focused Browsers: Practical Guide to Safer Web Browsing - Comparison + Intallation instructions for Windows, Linux and Mac")
-- [Writefreely Federated Blogging Platform - selfhosting vs managed costs](https://www.glukhov.org/post/2025/10/writefreely-selfhosting-vs-managed-costs/ "Here’s a practical, up-to-date briefing on Write.as / WriteFreely—how it fits into the fediverse, where to get managed hosting (with pricing), what the usage trend looks like, and how to self-host (plus rough costings")
-- [Nostr: Decentralized Social Networking, User Statistics, and Alternatives](https://www.glukhov.org/post/2025/10/nostr-overview-and-statistics/ "Explore Nostr's censorship-resistant protocol, user growth statistics, and how it compares to Bluesky and Mastodon in the decentralized social media landscape.")
-- [Self-Hosting Immich: Private Photo Cloud](https://www.glukhov.org/post/2025/11/selfhosting-immich/ "A guide to deploying Immich - the open-source, self-hosted photo and video management solution with AI-powered features, face recognition, and automatic mobile backup. Take control of your memories with full privacy.")
-- [Self-Hosting Nextcloud: A Private Cloud Solution](https://www.glukhov.org/post/2025/11/next-cloud-selfhosted/ "Complete guide to setting up your own Nextcloud server for secure, private cloud storage with full control over your data. Learn installation, configuration, and best practices for self-hosted file sync and collaboration.")
-- [DIY Printing Planner Inserts: 3 ways to do](https://www.glukhov.org/post/2025/12/diy-printing-planner-inserts/ "Comprehensive guide to printing custom planner inserts using booklet binding software")
+## Hardware
 
-## AI & Object Detection
+GPUs, memory prices, and machines for local inference.
 
-- [Jupyter Notebook Cheatsheet](https://www.glukhov.org/post/2025/12/jupyter-notebook-cheatsheet/ "Essential Jupyter Notebook shortcuts, magic commands, and productivity tips for data scientists and developers working with Python.")
-- https://www.glukhov.org/post/2019/object-detection-with-tensorflow/
-- https://www.glukhov.org/post/2024/07/label-studio-object-detection/
-- [Running FLUX.1-dev GGUF Q8 in Python](https://www.glukhov.org/post/2025/11/quantized-flux-1-dev-with-gguf/ "Learn how to use GGUF quantized FLUX.1-dev models to reduce memory requirements from 24GB to 12GB while maintaining image quality. Complete Python implementation guide with diffusers library.")
-- [FLUX.1-Kontext-dev: Image Augmentation AI Model](https://www.glukhov.org/post/2025/11/flux-1-kontext-dev-augment-image/ "FLUX.1-Kontext-dev enables image-to-image generation with text prompts. Learn how to augment existing images using Python and diffusers library with practical examples.")
-- [Flux - text to image AI generator](https://www.glukhov.org/post/2024/09/flux-text-to-image/)
-- [Implementing Object Detection with tensor flow](https://glukhov.au/posts/2024/object-detection-ai/)
-- [AI & LLMs](https://glukhov.au/posts/2024/llms/)
-- [MMdetection is not supported anymore](https://www.glukhov.org/post/2025/04/mmdetection-is-not-supported/ "MMdetection is not supported anymore")
-- [Linux Data Science Stack: Jupyter, Pandas & Tools](https://www.glukhov.org/post/2025/11/linux-for-data-science-jupyter-pandas-tools/ "A Guide to setting up a powerful Linux environment for data science with Jupyter, Pandas, Anaconda, and essential tools - optimization tips, best practices, and workflow automation for efficient data analysis.")
-- [Detecting AI Slop: Techniques & Red Flags](https://www.glukhov.org/post/2025/12/ai-slop-detection/ "Learn practical methods for identifying low-quality AI-generated content, including detection tools, linguistic patterns, and technical approaches.")
+- [Compute Hardware in 2026: GPUs, CPUs, Memory & AI Workstations](https://www.glukhov.org/hardware/)
+- [GPUs for AI in 2026: NVIDIA, AMD, Intel Compared](https://www.glukhov.org/hardware/ai/gpu-comparison-ai-workloads-2026-nvidia-amd-intel/)
+- [RTX 5090 in Australia March 2026 Pricing Stock Reality](https://www.glukhov.org/hardware/gpu/nvidia-rtx-5080-rtx-5090-prices-march-2026/)
 
-## SEO
+Full list: [hardware.md](hardware.md)
 
-- [Self-Hosted SEO Tools and Platforms: Open Source Guide](https://www.glukhov.org/web-infrastructure/seo/self-hosted-seo-tools-and-platforms/ "Compare self-hosted SEO platforms, crawlers, rank trackers, MCP tools, and local AI options, including which features work without paid SEO APIs.")
-- [WordPress SEO Plugins Compared: Yoast to Local AI](https://www.glukhov.org/web-infrastructure/wordpress/wordpress-seo-plugins-compared/ "Compare Yoast, Rank Math, AIOSEO, SEOPress, Slim SEO, The SEO Framework, and local-LLM plugins for WordPress, and how to keep inference on your own server.")
-- [Configuring Multi-Language Website SEO with Hugo](https://www.glukhov.org/post/2025/10/multi-language-website-seo-with-hugo/ "Configuring Multi-Language Website SEO with Hugo for Bing and Goodle search engines")
+## Other posts
 
-## Hugo
+Melbourne events, object detection, and notes that are still published under dated /post/ URLs.
 
-- [Deploy Hugo Site to AWS S3 with AWS CLI](https://www.glukhov.org/post/2025/12/hugo-website-deployment-to-aws-s3-with-aws-cli/ "Complete guide to deploying Hugo static sites to AWS S3 using AWS CLI, including CloudFront setup, cache management, and automation strategies")
-- [Hugo Caching Strategies for Performance](https://www.glukhov.org/post/2025/11/hugo-caching-strategies/ "Master Hugo caching: build cache, incremental builds, CDN optimization, HTTP headers, and asset caching for faster static sites.")
-- [Howto deploy hugo siteto AWS S3](https://www.glukhov.org/post/2024/06/deploy-hugo-site-to-aws/)
-- [Hugo Cheatsheet - list and description of useful commands of statis site generator Hugo](https://www.glukhov.org/post/2022/hugo-cheatsheet/)
-- [Adding Structured data markup to Hugo](https://www.glukhov.org/post/2024/12/add-structured-data-markup-to-hugo-website "Implementing Structured data markup in Hugo generated website for Google search recognition")
-- [Submit Google Form in Hugo Website](https://www.glukhov.org/post/2025/04/submit-form-in-hugo-website/ "Instructions Howto Submit Form in Hugo Website with Google forms")
-- [Most popular themes for Hugo](https://www.glukhov.org/post/2025/05/top-hugo-themes/ "Best Hugo Themes")
-- [Using Gitea Actions deploy Hugo website to AWS S3](https://www.glukhov.org/post/2025/06/using-gitea-actions-deploy-hugo-to-s3/ "Using Gitea Actions deploy Hugo website to AWS S3")
-- [How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme](https://www.glukhov.org/post/2025/06/hugo-images-in-bundle-pages-mainroad-thumbnails/ "How to store thumbnail images in page bundle folder for Hugo sites with Mainroad theme")
-- [Using Markdown Code Blocks](https://www.glukhov.org/post/2025/07/markdown-codeblocks/ "Markdown Code Blocks - detailed description")
-- [Matomo, Plausible, Google and other Web analytics systems comparison](https://www.glukhov.org/post/2025/07/matomo-plausible-google-web-analytics/ "Web analytics systems comparison: Matomo, Plausible, Google and others")
-- [Opengraph image metadata in Hugo static site generator](https://www.glukhov.org/post/2025/07/opengraph-image-metadata-in-hugo/ "Description how Hugo generates Opengraph Image Metadata for the website")
-- [How to add a page number to the blog post list page title in Hugo](https://www.glukhov.org/post/2025/08/add-pagenumber-to-post-list-title-in-hugo-website/ "Description and example on wow to add a page number to the blog post list page title in Hugo")
-- [Converting Word Documents to Markdown: A Complete Guide](https://www.glukhov.org/post/2025/09/converting-word-document-to-markdown/ "How to Convert Word Documents to Markdown: A Complete Guide for IOS, Windows and Linux")
-- [SEO Breadcrumbs: Schema Markup Implementation Guide](https://www.glukhov.org/post/2025/12/breadcrumbs-for-seo/ "Master breadcrumb navigation with JSON-LD schema markup to boost SEO rankings and enhance user experience on your website in 2025")
-- [IndexNow explained - notify search engines when you publish](https://www.glukhov.org/web-infrastructure/indexing/indexnow/ "IndexNow pushes URL changes to Bing and other engines in minutes. Learn why it beats waiting for crawls, how host and key verification work, and how to run submissions from the CLI or a sitemap.")
-- [Netlify for Hugo & static sites: pricing, free tier, and alternatives](https://www.glukhov.org/web-infrastructure/hugo/netlify/ "Technical guide to Netlify for Hugo and modern web apps. Deploy Previews, Functions, Edge Functions, credit-based pricing, Free plan limits, Hugo netlify.toml patterns, and alternatives such as Vercel and Cloudflare Pages.")
+- [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/)
+- [Object Detection With Tensorflow](https://www.glukhov.org/post/2019/object-detection-with-tensorflow/)
 
-## Drivers and Hardware
-
-- [GPUs for AI in 2026: NVIDIA, AMD, Intel Compared](https://www.glukhov.org/hardware/ai/gpu-comparison-ai-workloads-2026-nvidia-amd-intel/ "Compare NVIDIA Blackwell, AMD Radeon AI Pro R9700, and Intel Arc Pro B70 for local LLM inference. VRAM, bandwidth, software ecosystem, and real-world recommendations.")
-- [Compute Hardware in 2026: GPUs, CPUs, Memory & AI Workstations](https://www.glukhov.org/hardware/ "Analysis of GPUs, CPUs, RAM pricing, AI workstations and compute infrastructure trends. Hardware economics and performance considerations for modern workloads.")
-- [RTX 5090 in Australia March 2026 Pricing Stock Reality](https://www.glukhov.org/hardware/gpu/nvidia-rtx-5080-rtx-5090-prices-march-2026/ "RTX 5090 GPUs in Australia remain scarce and expensive in March 2026, with limited stock, long wait times, and inflated prices. Here is what is really happening and what comes next.")
-- [Hardware Price Crisis: GPUs and RAM in 2025-2026](https://glukhov.au/posts/2026/hardware-pricehikes/ "Hardware Price Crisis: GPUs and RAM in 2025-2026")
-- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://www.glukhov.org/post/2026/01/ram-and-gpu-price-increase/ "RTX 5090 prices jumped 15.2% to $5,566, RTX 5080 rose 6% to $1,899, and RAM surged 38% to $689 in Australia. Latest price analysis for January 2026 across Centrecom, PCCG, and Scorptec.")
-- [RAM Price Surge: Up to 619% in 2025](https://www.glukhov.org/post/2025/12/ram-price-increase/ "RAM prices surged 163-619% across global markets in late 2025: AI data center demand, supply constraints, and DDR5 pricing trends. Impact on PC builds and future outlook.")
-- [NVidia RTX 5080 and RTX 5090 prices in Australia - November 2025](https://www.glukhov.org/post/2025/11/nvidia-rtx-5080-rtx-5090-australia-prices-november-2025/ "Dynamics of NVidia RTX 5080 and RTX 5090 prices in Australia in November 2025")
-- [AI Infrastructure on Consumer Hardware](https://www.glukhov.org/post/2025/11/building-team-ai-infrastructure-on-consumer-hardware/ "Deploying self-hosted AI infrastructure for teams using consumer GPUs, open-source LLMs, and cost-effective solutions that rival cloud services while maintaining privacy.")
-- [NVIDIA DGX Spark vs Mac Studio vs RTX-4080: Ollama Performance Comparison](https://www.glukhov.org/post/2025/10/dgx-spark-vs-mac-studio-vs-rtx4080/ "Real-world Ollama performance comparison running GPT-OSS 120b (a 117B parameter MoE model with 5.1B active parameters) across NVIDIA DGX Spark, Mac Studio, and RTX 4080. Detailed benchmarks show prompt evaluation, token generation rates, and CPU/GPU offloading behavior for this 65GB model.")
-- [The Rise of LLM ASICs: Why Inference Hardware Matters](https://www.glukhov.org/post/2025/10/llm-asics/ "Exploring how specialized inference chips are revolutionizing AI deployment with 10-50× better performance per watt than GPUs, featuring real benchmarks and architectural insights into the future of LLM hardware.")
-- [DGX Spark vs. Mac Studio: A Practical, Price-Checked Look at NVIDIA’s Personal AI Supercomputer](https://www.glukhov.org/post/2025/10/nvidia-dgx-spark-prices/ "A brief explaination what NVIDIA DGX Spark is, typical configs, when and where you can actually buy it, country-by-country street pricing (with USD equivalents), and how its capabilities stack up against Apple’s Mac Studio for local AI work")
-- [NVidia RTX 5080 and RTX 5090 prices in Australia - October 2025](https://www.glukhov.org/post/2025/10/nvidia-rtx-5080-rtx-5090-prices-october-2025/ "Dynamics of NVidia RTX 5080 and RTX 5090 prices in Australia - October 2025")
-- [NVIDIA DGX Spark](https://www.glukhov.org/post/2025/07/nvidia-dgx-spark/ "NVIDIA DGX Spark - little AI supercomputer, availability, pricing and specs.")
-- [Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04](https://www.glukhov.org/post/2024/11/installing-epson-et-8500-linux-driver/ "Installing Epson EcoTank ET-8500 Linux Driver on Ubuntu 24.04")
-- [Canon Pixma MP-495 Drivers for Windows 11](https://www.glukhov.org/post/2024/10/canon-pixma-mp-495-windows11 "Windows 11 drivers for Canon Pixma MP-495")
-- [Degradation Issues in Intel's 13th and 14th Generation CPUs](https://www.glukhov.org/post/2025/05/intel-cpu-degradation-13th-14th-gen/ "Degradation Issues in Intel's 13th and 14th Generation CPUs")
-- [LLM Performance and PCIe Lanes: Key Considerations](https://www.glukhov.org/post/2025/06/llm-performance-and-pci-lanes/ "LLM Performance and PCIe Lanes: Key Considerations")
-- [Is the Quadro RTX 5880 Ada 48GB Any Good?](https://www.glukhov.org/post/2025/06/rtx-5880-ada/ "Is the Quadro RTX 5880 Ada 48GB Any Good?")
-- [Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025](https://www.glukhov.org/post/2025/06/nvidia-rtx-5080-rtx-5090-prices-australia/ "Nvidia RTX 5080 and RTX 5090 Prices in Australia - June 2025")
-- [NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025](https://www.glukhov.org/post/2025/07/nvidia-rtx-5080-rtx-5090-prices-july-2025/ "NVidia RTX 5080 and RTX 5090 prices in Australia - July 2025")
-- [RAM Price in Australia - December 2025](https://www.glukhov.org/post/2025/12/ram-price-in-australia-december-2025/ "RAM Price in Australia in December 2025")
-- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://www.glukhov.org/post/2026/01/dgx-spark-pricing-in-australia/ "NVIDIA DGX Spark now available in Australia from $6,249 AUD. Compare prices at Centrecom, Scorptec, PCCaseGear, and PLE - ASUS Ascent GX10 & MSI EdgeXpert GB10 configs.")
-
-## Melbourne
-
-- [Melbourne Tech Events to Go To in 2026](https://www.glukhov.org/post/2026/01/tech-events-melbourne/ "Comprehensive guide to tech conferences, meetups, and developer events in Melbourne throughout 2026, covering AI, DevOps, Python, security, and more")
-- [Tech Events in Melbourne in 2025-2026](https://www.glukhov.org/post/2025/08/tech-events-in-melbourne-2025-2026/ "Software development, cloud, IT, and AI-related conferences, meetups, and workshops happening in Melbourne from mid-2025 through the end of 2026")
-- [Software development conferences and meetups in Melbourne, Australia - 2024-2025](https://glukhov.au/posts/2024/melbourne-conferences/)
-- [Calendar of IT Events, CTech Converences and MeetUps in Melbourne](https://glukhov.au/posts/2026/melbourne-tech-events-2026/)
-
-## Tags:
-- [Python space](https://www.glukhov.org/tags/python)
-- [Object Detection space](https://www.glukhov.org/tags/objectdetection/)
-
+Full list: [other.md](other.md)
